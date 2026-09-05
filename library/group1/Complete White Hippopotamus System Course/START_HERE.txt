@@ -1,0 +1,48 @@
+COMPLETE WHITE HIPPOPOTAMUS SYSTEM COURSE
+==========================================
+
+15 PDF volumes - 626 total pages.
+99 taught branches, 82 unique training positions, and 12 constructed model games.
+
+RECOMMENDED ORDER
+-----------------
+1. Begin with Volume 1 and learn the response map as a decision tree.
+2. Study Volumes 2-7 to meet Black's major center and flank setups.
+3. Study Volumes 8-11 for move-order exits, breaks, piece routes, king safety, and defense.
+4. Use Volumes 12-14 for structures, tactics, and complete model games.
+5. Finish with Volume 15 and maintain the repertoire from your own games.
+
+PDF VOLUMES
+-----------
+01. White Hippo Foundations and Repertoire Map - 48 pages - 12 units
+02. White Hippo vs d5-e5 Classical Centers - 34 pages - 8 units
+03. White Hippo vs e5 and Open-Center Systems - 34 pages - 8 units
+04. White Hippo vs Sicilian and c5 Structures - 34 pages - 8 units
+05. White Hippo vs French, Caro-Kann, and Scandinavian Structures - 34 pages - 8 units
+06. White Hippo vs King's Indian, Pirc, and Modern Setups - 34 pages - 8 units
+07. White Hippo vs Dutch, Owen, and Flank Setups - 34 pages - 8 units
+08. White Hippo Move Orders, Transpositions, and Exit Ramps - 34 pages - 8 units
+09. The White Hippo e4 and d4 Breaks - 34 pages - 8 units
+10. The White Hippo c4, f4, b4, and h4 Breaks - 34 pages - 8 units
+11. White Hippo Piece Maneuvers, King Safety, and Defense - 58 pages - 15 units
+12. White Hippo Pawn-Structure and Plan Atlas - 36 pages - 30 units
+13. White Hippo Tactics, Traps, and Defensive Resources - 55 pages - 36 units
+14. White Hippo Model Games and Guess-the-Move Training - 34 pages - 12 units
+15. White Hippo Final Workbook and Fritz Companion - 89 pages - 60 units
+
+COMPANION FILES
+---------------
+White_Hippopotamus_Repertoire.pgn
+Constructed_White_Hippo_Model_Games.pgn
+Training_Positions.csv
+Training_Positions.pgn
+LIBRARY_MANIFEST.csv
+START_HERE.txt
+
+TRAINING METHOD
+---------------
+Say the move, its purpose, and Black's best reply before revealing the answer.
+Compare e4, d4, c4, and f4 before choosing another quiet setup move.
+Review misses after 1, 3, 7, 14, 30, and 60 days.
+Analyze your own game before turning on an engine.
+Add new Black responses to a personal copy of the repertoire PGN.

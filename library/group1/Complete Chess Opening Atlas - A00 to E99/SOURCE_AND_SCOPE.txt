@@ -1,0 +1,38 @@
+COMPLETE CHESS OPENING ATLAS - SOURCE AND SCOPE
+==================================================
+
+Scope
+-----
+This library uses the complete 500-code ECO map from A00 through E99. It contains
+3,810 named opening lines. Each ECO code has one individual PDF with:
+
+- a representative achieved-position diagram;
+- an opening description and honest 'is it good?' assessment;
+- goals for White and Black;
+- pawn breaks, piece plans, danger signs, and player-fit guidance; and
+- every named source line assigned to that ECO code.
+
+Why 500 PDFs instead of one PDF for every possible move sequence?
+---------------------------------------------------------------
+Chess has infinitely many legal continuations and many transpositions. ECO A00-E99 is the
+standard finite map used to classify the full opening landscape. The named-line catalogue
+inside the 500 PDFs preserves all 3,810 source entries, including rare gambits and unusual
+systems.
+
+Opening-name data
+-----------------
+Source: lichess-org/chess-openings
+URL: https://github.com/lichess-org/chess-openings
+Downloaded: 2026-09-02
+License: CC0 Public Domain Dedication
+
+The source describes each row with an ECO code, an English opening name, and a well-known or
+common PGN route to the named position. The teaching descriptions, plan summaries, layout,
+and engine-assisted assessments in this atlas were newly prepared for this library.
+
+Engine note
+-----------
+Featured-position snapshots were checked with Stockfish 18 at a small fixed node budget.
+An opening score is not a verdict on an entire opening: it is only a sanity check on the
+specific displayed route. Human understanding, time control, preparation, and the next
+several decisions remain decisive.

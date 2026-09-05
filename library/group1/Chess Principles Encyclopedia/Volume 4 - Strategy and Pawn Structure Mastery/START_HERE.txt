@@ -1,0 +1,47 @@
+CHESS PRINCIPLES ENCYCLOPEDIA - VOLUME 4
+============================================
+
+Principles 226-250 | planning, transformations, and recurring pawn structures
+25 individual PDFs | 6 pages each | 150 pages total
+
+HOW TO STUDY THIS VOLUME
+------------------------
+1. Study one PDF at a time and restate the rule without looking.
+2. Explain the causal mechanism: why should the rule improve the position?
+3. Set up the board and generate three candidates before reading your notes.
+4. State the limitation and calculate the opponent's strongest forcing reply.
+5. Find the pattern in a slow game, then review after 3, 7, 14, and 30 days.
+
+IMPORTANT
+---------
+Principles organize attention; they do not override tactics. Use this decision order:
+legal and tactical survival, king safety, forcing initiative, material, activity,
+structure, space, and finally the general rule as a tiebreaker.
+
+DIRECTORY
+---------
+226. Derive the Plan from the Pawn Structure - Strategic Planning\226_Derive_the_Plan_from_the_Pawn_Structure.pdf
+227. Choose the Desired Exchange First - Strategic Planning\227_Choose_the_Desired_Exchange_First.pdf
+228. Activate the King in a Quiet Middlegame - Strategic Planning\228_Activate_the_King_in_a_Quiet_Middlegame.pdf
+229. Create the Entry Square Before Taking the File - Strategic Planning\229_Create_the_Entry_Square_Before_Taking_the_File.pdf
+230. Penetrate on the Open File - Strategic Planning\230_Penetrate_on_the_Open_File.pdf
+231. Distinguish a Weak Square from an Outpost - Strategic Planning\231_Distinguish_a_Weak_Square_from_an_Outpost.pdf
+232. Control the Break Before Starting the Attack - Strategic Planning\232_Control_the_Break_Before_Starting_the_Attack.pdf
+233. Use Restraint to Induce Passivity - Strategic Planning\233_Use_Restraint_to_Induce_Passivity.pdf
+234. Create Targets on Both Wings - Strategic Planning\234_Create_Targets_on_Both_Wings.pdf
+235. Centralize Before Switching Wings - Strategic Planning\235_Centralize_Before_Switching_Wings.pdf
+236. Exploit a Color Complex - Strategic Planning\236_Exploit_a_Color_Complex.pdf
+237. Trade Space for Structural Targets - Strategic Planning\237_Trade_Space_for_Structural_Targets.pdf
+238. Choose the Right Carlsbad Break - Advanced Pawn Structures\238_Choose_the_Right_Carlsbad_Break.pdf
+239. Use the IQP Before It Becomes Weak - Advanced Pawn Structures\239_Use_the_IQP_Before_It_Becomes_Weak.pdf
+240. Advance Hanging Pawns with Purpose - Advanced Pawn Structures\240_Advance_Hanging_Pawns_with_Purpose.pdf
+241. Maintain the Maroczy Bind Actively - Advanced Pawn Structures\241_Maintain_the_Maroczy_Bind_Actively.pdf
+242. Choose Between e5 and f5 in the Benoni - Advanced Pawn Structures\242_Choose_Between_e5_and_f5_in_the_Benoni.pdf
+243. Attack the King's Indian Chain at Its Base - Advanced Pawn Structures\243_Attack_the_Kings_Indian_Chain_at_Its_Base.pdf
+244. Prepare the French f6 Break - Advanced Pawn Structures\244_Prepare_the_French_f6_Break.pdf
+245. Use Caro-Kann Structure in the Endgame - Advanced Pawn Structures\245_Use_Caro_Kann_Structure_in_the_Endgame.pdf
+246. Time the Hedgehog Break - Advanced Pawn Structures\246_Time_the_Hedgehog_Break.pdf
+247. Install the Stonewall Knight - Advanced Pawn Structures\247_Install_the_Stonewall_Knight.pdf
+248. Use the Open Files Around an Isolated c-Pawn - Advanced Pawn Structures\248_Use_the_Open_Files_Around_an_Isolated_c_Pawn.pdf
+249. Advance a Majority with Pieces Behind It - Advanced Pawn Structures\249_Advance_a_Majority_with_Pieces_Behind_It.pdf
+250. Evaluate the Structural Transformation - Advanced Pawn Structures\250_Evaluate_the_Structural_Transformation.pdf

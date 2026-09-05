@@ -1,0 +1,37 @@
+CHESS ADVICE COURSE QA REPORT
+=============================
+
+STATUS: PASS
+PDF files: 20
+Advice lessons: 1000
+Base modules: 200
+Total pages: 1320
+Unique lesson titles: 1000
+Lesson types: {'Board Use': 200, 'Core Advice': 200, 'Exceptions': 200, 'Recognition': 200, 'Training': 200}
+
+PER-FILE CHECKS
+---------------
+01_Thinking_Like_a_Strong_Player.pdf: 66 pages, 390,172 bytes, min text 383 chars
+02_Blunder_Prevention_and_Tactical_Safety.pdf: 66 pages, 387,802 bytes, min text 394 chars
+03_Candidate_Moves_and_Choice.pdf: 66 pages, 387,335 bytes, min text 383 chars
+04_Calculation_That_You_Can_Trust.pdf: 66 pages, 386,264 bytes, min text 390 chars
+05_Tactical_Vision_and_Pattern_Use.pdf: 66 pages, 385,499 bytes, min text 388 chars
+06_Opening_Study_That_Transfers.pdf: 66 pages, 381,232 bytes, min text 396 chars
+07_Development_Tempo_and_Initiative.pdf: 66 pages, 383,566 bytes, min text 404 chars
+08_Center_Space_and_Tension.pdf: 66 pages, 381,984 bytes, min text 387 chars
+09_Pawn_Structures_and_Breaks.pdf: 66 pages, 380,934 bytes, min text 390 chars
+10_Piece_Improvement_and_Coordination.pdf: 66 pages, 380,766 bytes, min text 391 chars
+11_Exchanges_Imbalances_and_Simplification.pdf: 66 pages, 380,752 bytes, min text 394 chars
+12_Attacking_with_Justification.pdf: 66 pages, 379,790 bytes, min text 385 chars
+13_Defense_and_Prophylaxis.pdf: 66 pages, 379,658 bytes, min text 379 chars
+14_Planning_and_Position_Transitions.pdf: 66 pages, 377,941 bytes, min text 389 chars
+15_Endgame_Practical_Wisdom.pdf: 66 pages, 350,442 bytes, min text 383 chars
+16_Clock_Management_and_Practical_Decisions.pdf: 66 pages, 378,784 bytes, min text 393 chars
+17_Psychology_Resilience_and_Objectivity.pdf: 66 pages, 379,908 bytes, min text 390 chars
+18_Game_Analysis_and_Error_Diagnosis.pdf: 66 pages, 379,046 bytes, min text 391 chars
+19_Training_Design_and_Skill_Transfer.pdf: 66 pages, 377,790 bytes, min text 391 chars
+20_Tournament_Craft_and_Self_Coaching.pdf: 66 pages, 378,234 bytes, min text 406 chars
+
+ERRORS
+------
+None

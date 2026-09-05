@@ -1,0 +1,37 @@
+KING'S INDIAN DEFENSE FROM BLACK - QA REPORT
+============================================
+
+STATUS: PASS
+PDF volumes: 18
+PDF pages: 540
+Deep lessons: 108
+Source scenarios: 54
+Unique legal source lines: 44
+Annotated PGN games: 54
+Unique lesson titles: 108
+Lesson modes: {'Decode': 54, 'Play': 54}
+
+PER-FILE CHECKS
+---------------
+01_The_Kings_Indian_from_First_Principles.pdf: 30 pages, 370,296 bytes, min text 381 chars
+02_Central_Breaks_and_Structure_Recognition.pdf: 30 pages, 369,545 bytes, min text 376 chars
+03_The_Classical_System_Repertoire_Map.pdf: 30 pages, 369,812 bytes, min text 377 chars
+04_Mar_del_Plata_Blacks_Attacking_Engine.pdf: 30 pages, 369,388 bytes, min text 377 chars
+05_The_Bayonet_Attack_and_Queenside_Expansion.pdf: 30 pages, 368,250 bytes, min text 384 chars
+06_Petrosian_Gligoric_and_Orthodox_Alternatives.pdf: 30 pages, 369,614 bytes, min text 392 chars
+07_The_Saemisch_System.pdf: 30 pages, 368,560 bytes, min text 359 chars
+08_The_Four_Pawns_Attack.pdf: 30 pages, 367,830 bytes, min text 360 chars
+09_The_Fianchetto_Variation.pdf: 30 pages, 369,327 bytes, min text 374 chars
+10_Averbakh_and_Makogonov_Systems.pdf: 30 pages, 368,621 bytes, min text 365 chars
+11_Early_e4_Deviations.pdf: 30 pages, 367,854 bytes, min text 352 chars
+12_Anti_Kings_Indian_Systems.pdf: 30 pages, 368,877 bytes, min text 353 chars
+13_English_and_Reti_Transpositions.pdf: 30 pages, 368,913 bytes, min text 364 chars
+14_Kings_Indian_Tactical_Patterns.pdf: 30 pages, 368,272 bytes, min text 374 chars
+15_Piece_Maneuvers_and_Strategic_Coordination.pdf: 30 pages, 369,300 bytes, min text 380 chars
+16_Defense_Resilience_and_Counterplay.pdf: 30 pages, 368,892 bytes, min text 378 chars
+17_Exchanges_Endgames_and_Transformations.pdf: 30 pages, 365,225 bytes, min text 374 chars
+18_Pirc_Bridge_and_Lifetime_Repertoire_System.pdf: 30 pages, 369,830 bytes, min text 400 chars
+
+ERRORS
+------
+None

@@ -1,0 +1,2832 @@
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Back-rank mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3r2k1/5ppp/8/8/8/8/5PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Back-rank mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6rk/6pp/7N/8/8/8/6PP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Smothered mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6pp/8/8/8/7n/6PP/6RK b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Smothered mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/R7/5N2/8/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Arabian mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/8/5n2/r7/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Arabian mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "5rkr/8/7Q/8/8/2B5/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Epaulette mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/2b5/8/8/7q/8/5RKR b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Epaulette mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "k7/1R6/2K5/8/8/8/8/7R w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Ladder mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7r/8/8/8/8/2k5/1r6/K7 b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Ladder mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/5KQ1/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Queen box mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/8/8/5kq1/8/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Queen box mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/6K1/8/8/8/8/R7 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Rook box mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r7/8/8/8/8/6k1/8/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Rook box mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/1B6/8/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Rook-and-bishop back rank. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r1k1/8/1b6/8/8/8/5PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Rook-and-bishop back rank - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/6pp/8/8/8/2B5/6Q1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Queen-and-bishop battery. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6q1/2b5/8/8/8/6PP/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Queen-and-bishop battery - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/6pp/5N2/8/4Q3/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Queen-and-knight mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/4q3/8/5n2/6PP/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Queen-and-knight mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/5Kpp/8/4B3/8/2B5/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Double-bishop mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/2b5/8/4b3/8/5kPP/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Double-bishop mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6pp/3N4/1B6/8/8/8/K3R3 w - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Rook-and-bishop corridor. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "k3r3/8/8/8/1b6/3n4/6PP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Checkmate Pattern Atlas: Rook-and-bishop corridor - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Back-rank mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6pp/8/8/8/7n/6PP/6RK b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Smothered mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "5rkr/8/7Q/8/8/2B5/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Epaulette mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7r/8/8/8/8/2k5/1r6/K7 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Ladder mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "29"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/6K1/8/8/8/8/R7 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Rook box mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r1k1/8/1b6/8/8/8/5PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Rook-and-bishop back rank - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "31"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/6pp/5N2/8/4Q3/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Queen-and-knight mate. Task: White to move. Find checkmate in one and name every escape square that is controlled or occupied. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/2b5/8/4b3/8/5kPP/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Double-bishop mate - reversed colors. Task: Black to move. Find checkmate in one. Explain the same geometry from the opposite orientation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "33"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r1k1/8/8/8/8/8/8/Q5K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Rook skewer - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/4n3/8/8/3QK3 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Knight double attack - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "35"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/3q4/8/2N5/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Loose queen. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "q5k1/8/8/8/8/8/8/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Rook skewer. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "37"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/8/8/8/4B3/8/q5K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Bishop skewer. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/3r1r2/8/4P3/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Pawn fork. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "39"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/4p3/8/3R1R2/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Pawn fork - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/8/8/1q6/R5K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Capture with check - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "41"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "q3k3/8/8/1N6/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Royal fork. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/8/4QPPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Back-rank geometry. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "43"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4k3/P7/8/8/8/8/7q/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Promotion tactic. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r5k1/1Q6/8/8/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Capture with check. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "45"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r5k1/4Q3/8/8/8/8/8/4K3 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Rook double attack - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3q2k1/8/8/3N4/8/8/8/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Discovered attack. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "47"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/1n6/8/8/Q3K3 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Royal fork - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/2n5/8/3Q4/8/8/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Loose queen - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "49"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/7Q/8/8/8/8/p7/4K3 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Promotion tactic - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3r2k1/4qppp/8/8/8/8/5PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Back-rank geometry - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "51"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/2b5/7q/8/5PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Removing the guard - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3qk3/8/8/4N3/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Knight double attack. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "53"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3r2k1/8/8/8/3n4/8/8/3Q2K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Discovered attack - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4k3/8/8/8/8/8/4q3/R5K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Rook double attack. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "55"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/7Q/2B5/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Removing the guard. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "Q5k1/8/4b3/8/8/8/8/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Tactics by Difficulty: Bishop skewer - reverse view. Task: Find the strongest move. Calculate the opponent's best resistance and evaluate the endpoint before checking the solution. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "57"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/8/5PPP/3R2K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Back-rank mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3r2k1/5ppp/8/8/8/8/5PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Back-rank mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "59"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6rk/6pp/7N/8/8/8/6PP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Smothered mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6pp/8/8/8/7n/6PP/6RK w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Smothered mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "61"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/R7/5N2/8/8/8/8/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Arabian mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/8/5n2/r7/7K w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Arabian mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "63"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "5rkr/8/7Q/8/8/2B5/8/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Epaulette mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/2b5/8/8/7q/8/5RKR w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Epaulette mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "65"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "k7/1R6/2K5/8/8/8/8/7R b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Ladder mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7r/8/8/8/8/2k5/1r6/K7 w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Ladder mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "67"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/5KQ1/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Queen box mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/8/8/5kq1/8/7K w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Queen box mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "69"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/6K1/8/8/8/8/R7 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Rook box mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r7/8/8/8/8/6k1/8/7K w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Rook box mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "71"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/1B6/8/4R1K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Rook-and-bishop back rank. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r1k1/8/1b6/8/8/8/5PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Rook-and-bishop back rank - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "73"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/6pp/8/8/8/2B5/6Q1/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Queen-and-bishop battery. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6q1/2b5/8/8/8/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Queen-and-bishop battery - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "75"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/6pp/5N2/8/4Q3/8/8/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Queen-and-knight mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/4q3/8/5n2/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Queen-and-knight mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "77"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/5Kpp/8/4B3/8/2B5/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Double-bishop mate. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/2b5/8/4b3/8/5kPP/7K w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Double-bishop mate - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "79"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6pp/3N4/1B6/8/8/8/K3R3 b - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Rook-and-bishop corridor. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "k3r3/8/8/8/1b6/3n4/6PP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Defensive Tactics Workbook: Stop Rook-and-bishop corridor - reversed colors. Task: The opponent threatens a mating pattern. Find the most resilient defense. Consider capture, exchange, block, flight square, countercheck, material return, and counterattack before choosing. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "81"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 1: Back-rank mate. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/6pp/8/8/8/7n/6PP/6RK b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 2: Smothered mate - reversed colors. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "83"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "5rkr/8/7Q/8/8/2B5/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 3: Epaulette mate. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7r/8/8/8/8/2k5/1r6/K7 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 4: Ladder mate - reversed colors. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "85"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/6K1/8/8/8/8/R7 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 5: Rook box mate. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r1k1/8/1b6/8/8/8/5PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 6: Rook-and-bishop back rank - reversed colors. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "87"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/6pp/5N2/8/4Q3/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 7: Queen-and-knight mate. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/2b5/8/4b3/8/5kPP/7K b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 8: Double-bishop mate - reversed colors. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "89"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r1k1/8/8/8/8/8/8/Q5K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 9: Rook skewer - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/4n3/8/8/3QK3 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 10: Knight double attack - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "91"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/3q4/8/2N5/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 11: Loose queen. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "q5k1/8/8/8/8/8/8/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 12: Rook skewer. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "93"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "7k/8/8/8/8/4B3/8/q5K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 13: Bishop skewer. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/3r1r2/8/4P3/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 14: Pawn fork. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "95"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/4p3/8/3R1R2/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 15: Pawn fork - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/8/8/1q6/R5K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 16: Capture with check - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "97"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "q3k3/8/8/1N6/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 17: Royal fork. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/8/8/4QPPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 18: Back-rank geometry. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "99"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4k3/P7/8/8/8/8/7q/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 19: Promotion tactic. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r5k1/1Q6/8/8/8/8/8/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 20: Capture with check. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "101"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r5k1/4Q3/8/8/8/8/8/4K3 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 21: Rook double attack - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "102"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "3q2k1/8/8/3N4/8/8/8/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 22: Discovered attack. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "103"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/8/8/1n6/8/8/Q3K3 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 23: Royal fork - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "104"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/8/2n5/8/3Q4/8/8/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Calculation Test Laboratory: Calculation test 24: Loose queen - reverse view. Task: Write exactly three candidates. Calculate each until checks, major captures, and direct threats settle. Give a one-sentence endpoint evaluation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "105"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp2ppp/2n2n2/3p4/2BPP3/5N2/PP1N1PPP/R2QK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Italian Game. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "106"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Ruy Lopez. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "107"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r3kb1r/p1ppqppp/b1p5/3nP3/2P5/8/PP2QPPP/RNB1KB1R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Scotch Game. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "108"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p1B1/4P3/2PP1N2/P1P2PPP/R2Q1RK1 b - - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Four Knights Game. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "109"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/8/3pP3/3Pn3/2NB1N2/PPP3PP/R1BQK2R b KQ - 2 7"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Vienna Game. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "110"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQK2R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: King's Gambit. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "111"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3ppp/2pb4/3p4/2PPn3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 1 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Petrov Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "112"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQR1K1 b - - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Philidor Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "113"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/2p1pn2/8/3P2b1/2NB1N2/PPP2PPP/R1BQ1RK1 w kq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Scandinavian Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "114"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: French Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "115"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkbnr/pp3ppp/2n1p3/3pPb2/3N4/4B3/PPP1BPPP/RN1Q1RK1 b kq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Caro-Kann Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "116"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2nppn2/8/3NP3/2N1B3/PPPQ1PPP/2KR1B1R b kq - 3 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Open Sicilian. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "117"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/1p2bppp/p2pbn2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R b KQkq - 2 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Najdorf. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "118"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Dragon. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "119"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - - 0 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Classical Sicilian. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "120"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Scheveningen. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "121"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/1p1pppbp/2n2np1/p7/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Accelerated Dragon. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "122"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1k2r/1pqp1ppp/p1n1pn2/8/1b1NP3/2N1B3/PPPQ1PPP/2KR1B1R w kq - 4 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Taimanov. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "123"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1k2r/1pq1bppp/p2ppn2/8/2PNP3/2NB4/PP2QPPP/R1B2RK1 b kq - 2 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Kan. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "124"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Sveshnikov. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "125"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp2pppp/2n5/3nP3/2B5/5N2/PP3PPP/RNBQK2R b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Sicilian Alapin. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "126"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2npbp/2npp1p1/2p5/4PP2/2NPB1P1/PPPQ2BP/R3K1NR b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Closed Sicilian. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "127"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp1pnpbp/4p1p1/8/3pPP2/2NB4/PPPP2PP/R1BQ1RK1 w kq - 0 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Grand Prix Attack. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "128"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp3ppp/2nppn2/8/2B1P3/2N2N2/PP2QPPP/R1B2RK1 b kq - 1 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Smith-Morra Gambit. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "129"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/p2nppbp/2pp1np1/1p6/3PP1PP/2N1BP2/PPPQ4/R3KBNR b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Pirc Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "130"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qk1nr/1bpnppbp/p2p2p1/1p2P3/3P1P2/2NB1N2/PPP3PP/R1BQ1RK1 b kq - 0 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Modern Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "131"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkb1r/pp1npppp/2p5/3nNb2/3P4/8/PPP1BPPP/RNBQ1RK1 w kq - 4 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Alekhine Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "132"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/p1p1bpp1/1p3n1p/3p4/3P3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Queen's Gambit. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "133"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R b K - 1 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Queen's Gambit Declined. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "134"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8"]
+[SetUp "1"]
+
+{ Positional Evaluation Tests: Slav Defense. Task: Evaluate the position: material, king safety, activity, pawn structure, space, initiative, worst piece, desired exchange, and best plan. Give a verdict before selecting a move. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "135"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/3k4/8/3K4/4P3/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: King and pawn: key squares. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "136"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/3k4/3p4/3P4/3K4/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Direct opposition. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "137"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/5pk1/6p1/3P4/5P2/6P1/5K2/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Outside passed pawn. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "138"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/5k2/3p4/3P4/4K3/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Reserve tempo. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "139"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/4k3/6p1/5pP1/5P1P/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Pawn breakthrough. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "140"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/8/8/4K3/7Q/k7 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Queen mate technique. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "141"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/8/8/4K3/7R/k7 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook mate technique. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "142"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/5pk1/7p/6PP/5K2/4R3 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook activity. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "143"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6K1/6P1/6k1/8/8/8/5r2/R7 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Lucena bridge. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "144"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/4k3/4p3/4P3/4K3/8/R6r w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook checks from behind. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "145"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/5k2/3p4/3P4/4KB2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Bishop against pawns. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "146"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/5k2/3p4/3P4/4KN2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Knight against pawns. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "147"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/3k4/3p4/3P4/3KB3/7b/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Opposite-colored bishops. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "148"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/3k4/3p4/3P4/3KB3/6b1/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Same-colored bishops. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "149"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/4k3/4P3/8/8/8/4R3/6rK w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook behind the passer. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "150"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/8/5pk1/7p/6PP/5K2/4Q2q w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Queen checks. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "151"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/4p3/3k4/8/3K4/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: King and pawn: key squares - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "152"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/3k4/3p4/3P4/3K4/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Direct opposition - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "153"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/5k2/6p1/5p2/3p4/6P1/5PK1/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Outside passed pawn - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "154"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/4k3/3p4/3P4/5K2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Reserve tempo - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "155"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6k1/5p1p/5Pp1/6P1/4K3/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Pawn breakthrough - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "156"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "K7/7q/4k3/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Queen mate technique - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "157"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "K7/7r/4k3/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook mate technique - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "158"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4r3/5k2/6pp/7P/5PK1/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook activity - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "159"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r7/5R2/8/8/8/6K1/6p1/6k1 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Lucena bridge - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "160"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r6R/8/4k3/4p3/4P3/4K3/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook checks from behind - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "161"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/4kb2/3p4/3P4/5K2/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Bishop against pawns - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "162"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/8/4kn2/3p4/3P4/5K2/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Knight against pawns - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "163"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/7B/3kb3/3p4/3P4/3K4/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Opposite-colored bishops - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "164"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "8/6B1/3kb3/3p4/3P4/3K4/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Same-colored bishops - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "165"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "6Rk/4r3/8/8/8/4p3/4K3/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Rook behind the passer - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "166"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "4q2Q/5k2/6pp/7P/5PK1/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Essential Endgame Position Workbook: Queen checks - reverse colors. Task: Find the exact method. Calculate checks, captures, pawn races, promotions, and stalemate before applying an endgame rule. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "167"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp2ppp/2n2n2/3p4/2BPP3/5N2/PP1N1PPP/R2QK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Italian Game: refuse the tempting move. Task: The tempting candidate is Bb3. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "168"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Ruy Lopez: refuse the tempting move. Task: The tempting candidate is a3. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "169"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r3kb1r/p1ppqppp/b1p5/3nP3/2P5/8/PP2QPPP/RNB1KB1R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Scotch Game: refuse the tempting move. Task: The tempting candidate is Bd2. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "170"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p1B1/4P3/2PP1N2/P1P2PPP/R2Q1RK1 b - - 0 8"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Four Knights Game: refuse the tempting move. Task: The tempting candidate is Kh8. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "171"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/8/3pP3/3Pn3/2NB1N2/PPP3PP/R1BQK2R b KQ - 2 7"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Vienna Game: refuse the tempting move. Task: The tempting candidate is Bh4+. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "172"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQK2R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: King's Gambit: refuse the tempting move. Task: The tempting candidate is Be2. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "173"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3ppp/2pb4/3p4/2PPn3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 1 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Petrov Defense: refuse the tempting move. Task: The tempting candidate is Bg4. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "174"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQR1K1 b - - 0 8"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Philidor Defense: refuse the tempting move. Task: The tempting candidate is h6. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "175"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/2p1pn2/8/3P2b1/2NB1N2/PPP2PPP/R1BQ1RK1 w kq - 0 8"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Scandinavian Defense: refuse the tempting move. Task: The tempting candidate is Bd2. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "176"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: French Defense: refuse the tempting move. Task: The tempting candidate is Bb4. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "177"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkbnr/pp3ppp/2n1p3/3pPb2/3N4/4B3/PPP1BPPP/RN1Q1RK1 b kq - 0 8"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Caro-Kann Defense: refuse the tempting move. Task: The tempting candidate is Rc8. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "178"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2nppn2/8/3NP3/2N1B3/PPPQ1PPP/2KR1B1R b kq - 3 8"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Open Sicilian: refuse the tempting move. Task: The tempting candidate is Rb8. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "179"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/1p2bppp/p2pbn2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R b KQkq - 2 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Sicilian Najdorf: refuse the tempting move. Task: The tempting candidate is d5. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "180"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Sicilian Dragon: refuse the tempting move. Task: The tempting candidate is a6. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "181"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - - 0 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Classical Sicilian: refuse the tempting move. Task: The tempting candidate is a6. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "182"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Sicilian Scheveningen: refuse the tempting move. Task: The tempting candidate is Re8. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "183"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/1p1pppbp/2n2np1/p7/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Accelerated Dragon: refuse the tempting move. Task: The tempting candidate is Qf3. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "184"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1k2r/1pqp1ppp/p1n1pn2/8/1b1NP3/2N1B3/PPPQ1PPP/2KR1B1R w kq - 4 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Sicilian Taimanov: refuse the tempting move. Task: The tempting candidate is Be2. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "185"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1k2r/1pq1bppp/p2ppn2/8/2PNP3/2NB4/PP2QPPP/R1B2RK1 b kq - 2 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Sicilian Kan: refuse the tempting move. Task: The tempting candidate is h6. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "186"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Opening Traps and Their Refutations: Sicilian Sveshnikov: refuse the tempting move. Task: The tempting candidate is Ncb1. Before playing it, find the opponent's most forcing punishment. Then choose a safer continuation. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "187"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pppp1ppp/2n2n2/2b5/2BpP3/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 187. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "188"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 188. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "189"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/p1pp1ppp/2p2n2/8/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 189. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "190"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1 w - - 8 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 190. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "191"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1bppp/8/3pP3/4n3/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 191. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "192"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 192. Task: Play this line mentally, then place every piece: 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "193"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 193. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "194"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pppnbppp/3p1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 5 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 194. Task: Play this line mentally, then place every piece: 1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "195"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp2pppp/2p2n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 195. Task: Play this line mentally, then place every piece: 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 c6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "196"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P1P2/2N5/PPP3PP/R1BQKBNR w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 196. Task: Play this line mentally, then place every piece: 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "197"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 197. Task: Play this line mentally, then place every piece: 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "198"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 198. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "199"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 199. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "200"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 200. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "201"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 201. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "202"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 202. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "203"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/pp1pppbp/2n3p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 203. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "204"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 204. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "205"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1kbnr/1pqp1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 2 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 205. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "206"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ Visualization and Board-Vision Training: Position 206. Task: Play this line mentally, then place every piece: 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "207"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/ppp2ppp/2n2n2/3p4/2BPP3/5N2/PP1N1PPP/R2QK2R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Attacking style: Italian Game. Task: Solve this position through a attacking lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "208"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10"]
+[SetUp "1"]
+
+{ Player-Style Collections: Attacking style: Ruy Lopez. Task: Solve this position through a attacking lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "209"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r3kb1r/p1ppqppp/b1p5/3nP3/2P5/8/PP2QPPP/RNB1KB1R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Attacking style: Scotch Game. Task: Solve this position through a attacking lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "210"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/1B2p1B1/4P3/2PP1N2/P1P2PPP/R2Q1RK1 b - - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Attacking style: Four Knights Game. Task: Solve this position through a attacking lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "211"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/8/3pP3/3Pn3/2NB1N2/PPP3PP/R1BQK2R b KQ - 2 7"]
+[SetUp "1"]
+
+{ Player-Style Collections: Attacking style: Vienna Game. Task: Solve this position through a attacking lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "212"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQK2R w KQkq - 1 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Attacking style: King's Gambit. Task: Solve this position through a attacking lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "213"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3ppp/2pb4/3p4/2PPn3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 1 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Positional style: Petrov Defense. Task: Solve this position through a positional lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "214"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQR1K1 b - - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Positional style: Philidor Defense. Task: Solve this position through a positional lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "215"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3ppp/2p1pn2/8/3P2b1/2NB1N2/PPP2PPP/R1BQ1RK1 w kq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Positional style: Scandinavian Defense. Task: Solve this position through a positional lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "216"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3N1P2/2N1B3/PPP3PP/R2QKB1R b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Positional style: French Defense. Task: Solve this position through a positional lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "217"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkbnr/pp3ppp/2n1p3/3pPb2/3N4/4B3/PPP1BPPP/RN1Q1RK1 b kq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Positional style: Caro-Kann Defense. Task: Solve this position through a positional lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "218"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2nppn2/8/3NP3/2N1B3/PPPQ1PPP/2KR1B1R b kq - 3 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Positional style: Open Sicilian. Task: Solve this position through a positional lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "219"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/1p2bppp/p2pbn2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R b KQkq - 2 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Defensive style: Sicilian Najdorf. Task: Solve this position through a defensive lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "220"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Defensive style: Sicilian Dragon. Task: Solve this position through a defensive lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "221"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - - 0 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Defensive style: Classical Sicilian. Task: Solve this position through a defensive lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "222"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - - 2 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Defensive style: Sicilian Scheveningen. Task: Solve this position through a defensive lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "223"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/1p1pppbp/2n2np1/p7/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Defensive style: Accelerated Dragon. Task: Solve this position through a defensive lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "224"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1k2r/1pqp1ppp/p1n1pn2/8/1b1NP3/2N1B3/PPPQ1PPP/2KR1B1R w kq - 4 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Defensive style: Sicilian Taimanov. Task: Solve this position through a defensive lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "225"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1k2r/1pq1bppp/p2ppn2/8/2PNP3/2NB4/PP2QPPP/R1B2RK1 b kq - 2 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Technical style: Sicilian Kan. Task: Solve this position through a technical lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "226"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Technical style: Sicilian Sveshnikov. Task: Solve this position through a technical lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "227"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp2pppp/2n5/3nP3/2B5/5N2/PP3PPP/RNBQK2R b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Technical style: Sicilian Alapin. Task: Solve this position through a technical lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "228"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2npbp/2npp1p1/2p5/4PP2/2NPB1P1/PPPQ2BP/R3K1NR b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Technical style: Closed Sicilian. Task: Solve this position through a technical lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "229"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp1pnpbp/4p1p1/8/3pPP2/2NB4/PPPP2PP/R1BQ1RK1 w kq - 0 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Technical style: Grand Prix Attack. Task: Solve this position through a technical lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "230"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp3ppp/2nppn2/8/2B1P3/2N2N2/PP2QPPP/R1B2RK1 b kq - 1 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Technical style: Smith-Morra Gambit. Task: Solve this position through a technical lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "231"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/p2nppbp/2pp1np1/1p6/3PP1PP/2N1BP2/PPPQ4/R3KBNR b KQkq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Universal style: Pirc Defense. Task: Solve this position through a universal lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "232"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qk1nr/1bpnppbp/p2p2p1/1p2P3/3P1P2/2NB1N2/PPP3PP/R1BQ1RK1 b kq - 0 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Universal style: Modern Defense. Task: Solve this position through a universal lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "233"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkb1r/pp1npppp/2p5/3nNb2/3P4/8/PPP1BPPP/RNBQ1RK1 w kq - 4 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Universal style: Alekhine Defense. Task: Solve this position through a universal lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "234"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/p1p1bpp1/1p3n1p/3p4/3P3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 9"]
+[SetUp "1"]
+
+{ Player-Style Collections: Universal style: Queen's Gambit. Task: Solve this position through a universal lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "235"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R b K - 1 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Universal style: Queen's Gambit Declined. Task: Solve this position through a universal lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+
+[Event "Chess Practice Library"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "236"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8"]
+[SetUp "1"]
+
+{ Player-Style Collections: Universal style: Slav Defense. Task: Solve this position through a universal lens. Choose a move that is objectively sound, explain the plan, and name the danger of forcing the style onto the wrong position. } *
+

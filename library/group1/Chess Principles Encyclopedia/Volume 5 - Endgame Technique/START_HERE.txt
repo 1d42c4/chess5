@@ -1,0 +1,47 @@
+CHESS PRINCIPLES ENCYCLOPEDIA - VOLUME 5
+============================================
+
+Principles 251-275 | exact pawn endings and practical technical conversion
+25 individual PDFs | 6 pages each | 150 pages total
+
+HOW TO STUDY THIS VOLUME
+------------------------
+1. Study one PDF at a time and restate the rule without looking.
+2. Explain the causal mechanism: why should the rule improve the position?
+3. Set up the board and generate three candidates before reading your notes.
+4. State the limitation and calculate the opponent's strongest forcing reply.
+5. Find the pattern in a slow game, then review after 3, 7, 14, and 30 days.
+
+IMPORTANT
+---------
+Principles organize attention; they do not override tactics. Use this decision order:
+legal and tactical survival, king safety, forcing initiative, material, activity,
+structure, space, and finally the general rule as a tiebreaker.
+
+DIRECTORY
+---------
+251. Win the Key Squares - Pawn and Minor-Piece Endgames\251_Win_the_Key_Squares.pdf
+252. Use the Rule of the Square Precisely - Pawn and Minor-Piece Endgames\252_Use_the_Rule_of_the_Square_Precisely.pdf
+253. Map Corresponding Squares - Pawn and Minor-Piece Endgames\253_Map_Corresponding_Squares.pdf
+254. Preserve a Reserve Tempo - Pawn and Minor-Piece Endgames\254_Preserve_a_Reserve_Tempo.pdf
+255. Calculate the Pawn Breakthrough - Pawn and Minor-Piece Endgames\255_Calculate_the_Pawn_Breakthrough.pdf
+256. Shoulder the Enemy King Away - Pawn and Minor-Piece Endgames\256_Shoulder_the_Enemy_King_Away.pdf
+257. Use Distant Opposition - Pawn and Minor-Piece Endgames\257_Use_Distant_Opposition.pdf
+258. Know the Knight's Rook-Pawn Problem - Pawn and Minor-Piece Endgames\258_Know_the_Knights_Rook_Pawn_Problem.pdf
+259. Check the Bishop's Promotion Color - Pawn and Minor-Piece Endgames\259_Check_the_Bishops_Promotion_Color.pdf
+260. Use the Outside Passer as a Decoy - Pawn and Minor-Piece Endgames\260_Use_the_Outside_Passer_as_a_Decoy.pdf
+261. Use a Protected Passer as a Barrier - Pawn and Minor-Piece Endgames\261_Use_a_Protected_Passer_as_a_Barrier.pdf
+262. Respect Connected Passers on the Sixth - Pawn and Minor-Piece Endgames\262_Respect_Connected_Passers_on_the_Sixth.pdf
+263. Give Rook Checks from Maximum Distance - Rook, Queen, and Technical Endgames\263_Give_Rook_Checks_from_Maximum_Distance.pdf
+264. Use the Seventh Rank as an Endgame Base - Rook, Queen, and Technical Endgames\264_Use_the_Seventh_Rank_as_an_Endgame_Base.pdf
+265. Learn the Vancura Defense - Rook, Queen, and Technical Endgames\265_Learn_the_Vancura_Defense.pdf
+266. Defend from the Short Side - Rook, Queen, and Technical Endgames\266_Defend_from_the_Short_Side.pdf
+267. Cut the King Off Before Pushing - Rook, Queen, and Technical Endgames\267_Cut_the_King_Off_Before_Pushing.pdf
+268. Verify the Pawn Ending Before Trading Rooks - Rook, Queen, and Technical Endgames\268_Verify_the_Pawn_Ending_Before_Trading_Rooks.pdf
+269. Centralize the Queen with Check - Rook, Queen, and Technical Endgames\269_Centralize_the_Queen_with_Check.pdf
+270. Control the Promotion Square in Queen versus Pawn - Rook, Queen, and Technical Endgames\270_Control_the_Promotion_Square_in_Queen_versus_Pawn.pdf
+271. Identify Perpetual-Check Zones - Rook, Queen, and Technical Endgames\271_Identify_Perpetual_Check_Zones.pdf
+272. Trade Queens with a Cross-Check - Rook, Queen, and Technical Endgames\272_Trade_Queens_with_a_Cross_Check.pdf
+273. Build the Fortress Around One Entry Point - Rook, Queen, and Technical Endgames\273_Build_the_Fortress_Around_One_Entry_Point.pdf
+274. Coordinate Bishop and Knight for Mate - Rook, Queen, and Technical Endgames\274_Coordinate_Bishop_and_Knight_for_Mate.pdf
+275. Extinguish Counterplay Before Converting - Rook, Queen, and Technical Endgames\275_Extinguish_Counterplay_Before_Converting.pdf

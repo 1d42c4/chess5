@@ -1,0 +1,38 @@
+KING'S INDIAN ATTACK FROM WHITE - DEEP UNDERSTANDING COURSE - QA REPORT
+=======================================================================
+
+STATUS: PASS
+PDF volumes: 18
+PDF pages: 540
+Deep lessons: 108
+Source scenarios: 54
+Unique legal source lines: 45
+Annotated PGN games: 54
+Annotated PGN move nodes: 281
+Unique lesson titles: 108
+Lesson modes: {'Decode': 54, 'Play': 54}
+
+PER-FILE CHECKS
+---------------
+01_The_Kings_Indian_Attack_from_First_Principles.pdf: 30 pages, 372,321 bytes, min text 456 chars
+02_The_Locked_e5_Center.pdf: 30 pages, 372,058 bytes, min text 438 chars
+03_The_KIA_Piece_Routes.pdf: 30 pages, 372,420 bytes, min text 402 chars
+04_Building_the_Center_Correctly.pdf: 30 pages, 371,734 bytes, min text 432 chars
+05_Architecture_of_the_Kingside_Attack.pdf: 30 pages, 372,063 bytes, min text 424 chars
+06_Timing_e5_f4_and_f5.pdf: 30 pages, 371,468 bytes, min text 416 chars
+07_The_h_Pawn_and_g_Pawn_Storm.pdf: 30 pages, 371,609 bytes, min text 400 chars
+08_The_Dark_Bishop_and_Queen_Battery.pdf: 30 pages, 371,844 bytes, min text 418 chars
+09_The_KIA_against_the_French.pdf: 30 pages, 372,217 bytes, min text 441 chars
+10_The_KIA_against_the_Sicilian.pdf: 30 pages, 372,405 bytes, min text 444 chars
+11_The_KIA_against_g6_Systems.pdf: 30 pages, 370,565 bytes, min text 427 chars
+12_The_KIA_against_e6_and_b6.pdf: 30 pages, 371,597 bytes, min text 426 chars
+13_KIA_Structures_against_e5_Caro_Kann_and_Philidor.pdf: 30 pages, 370,841 bytes, min text 441 chars
+14_Surviving_Blacks_Central_Breaks.pdf: 30 pages, 371,593 bytes, min text 439 chars
+15_When_to_Change_the_Structure.pdf: 30 pages, 371,084 bytes, min text 429 chars
+16_KIA_Tactical_Grammar.pdf: 30 pages, 372,482 bytes, min text 424 chars
+17_Defense_Endgames_and_Failed_Attacks.pdf: 30 pages, 373,075 bytes, min text 453 chars
+18_A_Lifetime_Kings_Indian_Attack_System.pdf: 30 pages, 373,802 bytes, min text 450 chars
+
+ERRORS
+------
+None

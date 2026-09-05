@@ -1,0 +1,93 @@
+﻿id,source,title,side_to_move,fen,course_answer,purpose
+1,1.d4 Foundations and Repertoire Map,Queen's Gambit map,White,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,cxd5,"Challenge d5, choose the Carlsbad structure, and complete development."
+2,1.d4 Foundations and Repertoire Map,Queen's Gambit Accepted map,White,rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,e3,Recover c4 by developing and prepare a central or endgame decision.
+3,1.d4 Foundations and Repertoire Map,Slav map,White,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Nc3,Use a4 to limit ...b5 and recover c4 with development.
+4,1.d4 Foundations and Repertoire Map,Catalan map,White,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Nf3,Fianchetto and pressure the queenside through the long diagonal.
+5,1.d4 Foundations and Repertoire Map,Queen's Indian map,White,rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,g3,Meet e4-control with flexible fianchetto development.
+6,1.d4 Foundations and Repertoire Map,Bogo-Indian map,White,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Bd2,Neutralize the check and transpose toward familiar Catalan structures.
+7,1.d4 Foundations and Repertoire Map,King's Indian map,White,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,e4,"Build the center, castle, and then decide whether to close with d5."
+8,1.d4 Foundations and Repertoire Map,Grunfeld map,White,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,cxd5,Use the center while supporting its base and finishing development.
+9,1.d4 Foundations and Repertoire Map,Modern Benoni map,White,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Nc3,Use space and prepare e5 or f4 while Black seeks ...b5.
+10,1.d4 Foundations and Repertoire Map,Benko map,White,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,cxb5,Decline full queenside exposure with b6 and retain a stable extra space advantage.
+11,1.d4 Foundations and Repertoire Map,Dutch map,White,rnbqkb1r/ppppp2p/5np1/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4,Nf3,"Fianchetto, castle, and challenge the dark-square setup calmly."
+12,1.d4 Foundations and Repertoire Map,Rare-defense map,White,rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,dxe5,"Accept the Budapest pawn, develop, and return it if necessary to keep coordination."
+13,Queen's Gambit Declined Repertoire,Exchange QGD core,White,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,Bg5,Build toward f3 and e4 or a queenside minority attack.
+14,Queen's Gambit Declined Repertoire,Minority attack setup,White,rnbqk2r/ppp1bppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR w KQkq - 2 6,e3,Prepare b4-b5 to create a backward c6-pawn.
+15,Queen's Gambit Declined Repertoire,Tarrasch Defense,White,rnbqkbnr/pp3ppp/8/2pp4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,Nf3,Pressure the isolated d5-pawn while finishing development.
+16,Queen's Gambit Declined Repertoire,Orthodox pressure,White,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5,e3,Use development and c-file pressure before deciding the central structure.
+17,Queen's Gambit Accepted and Independent Defenses,QGA classical recovery,White,rnbqkb1r/ppp2ppp/4pn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,Bxc4,Recover c4 through development and accept a clean active endgame.
+18,Queen's Gambit Accepted and Independent Defenses,Early e4 in the QGA,White,rnbqkbnr/ppp2ppp/8/4p3/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,Nf3,Use the broad center but accept simplification when Black checks and trades.
+19,Queen's Gambit Accepted and Independent Defenses,Chigorin Defense,White,r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 3 4,cxd5,Exchange on d5 and gain the bishop pair without losing central control.
+20,Queen's Gambit Accepted and Independent Defenses,Baltic Defense,White,rn1qkbnr/ppp1pppp/8/3p1b2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,cxd5,Use the queen check to regain time and finish development.
+21,Queen's Gambit Accepted and Independent Defenses,Marshall Defense,White,rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Nf3,Take central space while answering the forcing check accurately.
+22,Queen's Gambit Accepted and Independent Defenses,QGA quiet line,White,rnbqkbnr/ppp2ppp/4p3/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,e3,Use normal development and retain several healthy central choices.
+23,Slav and Semi-Slav Repertoire,Exchange Slav,White,rnbqkbnr/pp2pppp/8/3p4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Nc3,Use active piece placement and pressure the c-file in a symmetrical structure.
+24,Slav and Semi-Slav Repertoire,Semi-Slav Meran,White,rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,Bd3,Use the central pawn mass before Black completes queenside consolidation.
+25,Slav and Semi-Slav Repertoire,Triangle move order,White,rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,Nf3,Recognize the Noteboom structure and attack the queenside pawns before they become stable.
+26,Catalan Repertoire,Closed Catalan core,White,rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 5,Bg2,Complete the fianchetto and prepare e4 while the center remains closed.
+27,Catalan Repertoire,Open Catalan recovery,White,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,g3,Recover c4 while preserving the bishop's diagonal and development lead.
+28,Catalan Repertoire,Catalan endgame route,White,rnbqkb1r/ppp2ppp/4pn2/8/2pP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 0 5,Bg2,Accept a long positional struggle and target queenside weaknesses after recovery.
+29,"Queen's Indian, Bogo-Indian, and Move Orders",Blumenfeld Gambit,White,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,d5,Return or consolidate material only after meeting Black's central activity.
+30,King's Indian Defense Repertoire,Classical King's Indian,White,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Nf3,Close the center and prepare queenside expansion while tracking ...f5.
+31,King's Indian Defense Repertoire,Fianchetto alternative,White,rnbqk2r/ppppppbp/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,g3,Choose a lower-theory setup that contests the long diagonal and central squares.
+32,Grunfeld Defense Repertoire,Qd2 development,White,rnbqkb1r/ppp1pp1p/6p1/3n4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,e4,"Connect the rooks, defend c3, and prepare Rc1 or Be2."
+33,Benoni and Benko Repertoire,Benoni e5 break,White,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,cxd5,Support e4 and prepare f3 or Nc4 before driving with e5.
+34,Benoni and Benko Repertoire,Czech Benoni,White,rnbqkb1r/pp1p1ppp/5n2/2pPp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq e6 0 4,Nc3,Use the space advantage and prepare a pawn break on either wing.
+35,Benoni and Benko Repertoire,Old Benoni,White,rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3,c4,Transpose into a favorable Benoni setup with the center already secured.
+36,Dutch Defense Repertoire,Leningrad ...e5,White,rnbqk2r/ppppp1bp/5np1/5p2/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,O-O,"Meet the central break with e4, d5, or dxe5 after concrete calculation."
+37,Dutch Defense Repertoire,Classical Dutch,White,rnbqkb1r/pppp2pp/4pn2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4,Nf3,Prepare e4 and use central control against Black's kingside ambitions.
+38,Dutch Defense Repertoire,Anti-Dutch option,White,rnbqkbnr/ppppp2p/6p1/5pB1/3P4/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Nc3,Use Bg5 to provoke weaknesses and challenge e4 quickly.
+39,Gambits and Rare Defenses,Englund Gambit,White,r1bqkbnr/pppp1ppp/2n5/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3,Nf3,Develop with tempo and be ready to return the pawn to trap or displace the queen.
+40,Gambits and Rare Defenses,Budapest Gambit,White,rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,Nf3,"Develop, meet the check, and return e5 if it completes development."
+41,Gambits and Rare Defenses,Albin Countergambit,White,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Nf3,Blockade d4 and complete development before trying to win the pawn.
+42,Gambits and Rare Defenses,English Defense,White,rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Nc3,Build the center but respect pressure on e4 and the long diagonal.
+43,Gambits and Rare Defenses,Old Indian,White,rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,Nf3,Build a classical center and use space before Black finds ...c6 or ...exd4.
+44,Gambits and Rare Defenses,Black Knights Tango,White,r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Nf3,Use a3 to question ...Bb4 and transpose into a favorable central setup.
+45,Gambits and Rare Defenses,Modern Defense move order,White,rnbqk1nr/ppppppbp/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Nc3,Transpose into the Classical King's Indian structure without allowing unnecessary tricks.
+46,Gambits and Rare Defenses,Wade Defense,White,rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Nc3,Occupy the center and complete development against a passive setup.
+47,Gambits and Rare Defenses,1...Nc6,White,r1bqkbnr/pppppppp/8/3Pn3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3,e4,Gain space while developing and keep the pawn chain supported.
+48,Gambits and Rare Defenses,1...b5 Polish Defense,White,rn1qkbnr/pbpppppp/8/1p6/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Bd3,Occupy the center and use tactics if Black attacks it prematurely.
+49,Gambits and Rare Defenses,1...b6,White,rn1qkbnr/pbpppppp/1p6/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Nc3,Use the same English Defense map and protect e4.
+50,Gambits and Rare Defenses,1...a6,White,rnbqkbnr/2pppppp/p7/1p6/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,e4,Take the center and answer queenside expansion with development.
+51,1.d4 Pawn-Structure and Plan Atlas,Exchange QGD core,Black,r1bqr1k1/pppnbppp/5n2/3p2B1/3P4/2NBP3/PPQ1NPPP/R3K2R b KQ - 6 9,c6,Build toward f3 and e4 or a queenside minority attack.
+52,1.d4 Pawn-Structure and Plan Atlas,Development before expansion,White,rn1qkb1r/pp3ppp/2p2nb1/3p2B1/3P4/2N1PQ2/PP3PPP/R3KBNR w KQkq - 3 8,Bxf6,Prevent a free ...Bf5 or use queen pressure to question the bishop.
+53,1.d4 Pawn-Structure and Plan Atlas,Minority attack setup,Black,r1bqrnk1/1p2bppp/2p2n2/p2p2B1/3P4/P1NBP3/1PQ1NPPP/1R3RK1 b - - 0 12,g6,Prepare b4-b5 to create a backward c6-pawn.
+54,1.d4 Pawn-Structure and Plan Atlas,QGA classical recovery,White,rnb1k2r/1p3ppp/p3pn2/2b5/2B5/4PN2/PP3PPP/RNBR2K1 w kq - 0 9,Be2,Recover c4 through development and accept a clean active endgame.
+55,1.d4 Pawn-Structure and Plan Atlas,QGA ...b5 expansion,Black,rnbqkb1r/p3pppp/5n2/1p6/2pP4/1P2PN2/5PPP/RNBQKB1R b KQkq - 0 7,e6,Undermine the pawn chain rather than chase its front pawn.
+56,1.d4 Pawn-Structure and Plan Atlas,QGA central strike,Black,rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1 b kq - 1 7,b5,Complete development and be ready for dxc5 or e4.
+57,1.d4 Pawn-Structure and Plan Atlas,Exchange Slav,Black,r2qkb1r/pp3ppp/2n1pn2/3p1b2/3P1B2/2N1PN2/PP3PPP/2RQKB1R b Kkq - 1 8,Bb4,Use active piece placement and pressure the c-file in a symmetrical structure.
+58,1.d4 Pawn-Structure and Plan Atlas,Main Slav recovery,Black,rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8,O-O,"Limit ...b5, recover c4, and castle before central expansion."
+59,1.d4 Pawn-Structure and Plan Atlas,Slav ...a6,Black,rn1qkb1r/5ppp/p1p1pn2/1p1p1b2/2PP4/1PN1PN2/P3BPPP/R1BQ1RK1 b kq - 1 8,Bd6,Challenge the queenside chain with b3 and complete development.
+60,1.d4 Pawn-Structure and Plan Atlas,Closed Catalan core,Black,r1bq1rk1/p2nbppp/1pp1pn2/3p4/2PPP3/5NP1/PPQN1PBP/R1B2RK1 b - - 0 9,Bb7,Complete the fianchetto and prepare e4 while the center remains closed.
+61,1.d4 Pawn-Structure and Plan Atlas,Open Catalan recovery,Black,rnbq1rk1/1pp1bppp/p3pn2/8/2QP4/5NP1/PP2PPBP/RNB2RK1 b - - 0 8,b5,Recover c4 while preserving the bishop's diagonal and development lead.
+62,1.d4 Pawn-Structure and Plan Atlas,Open Catalan with Qa4+,Black,rnbqkb1r/2p2ppp/p3p3/1p1nN3/P1pP4/6P1/1P2PPBP/RNBQ1RK1 b kq - 0 8,Bb7,Use the center and long diagonal to undermine Black's pawn chain.
+63,1.d4 Pawn-Structure and Plan Atlas,Queen's Indian ...Ba6,Black,rn1q1rk1/p1ppbppp/bp2pn2/8/2PP4/1P3NP1/P2BPPBP/RN1Q1RK1 b - - 6 8,c6,Use b3 to protect c4 and force the bishop to declare its purpose.
+64,1.d4 Pawn-Structure and Plan Atlas,Queen's Indian ...Bb7,White,rn1q1rk1/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 7 8,Bd2,Finish development and test the centralized knight before occupying e4.
+65,1.d4 Pawn-Structure and Plan Atlas,Queen's Indian ...Bb4+,White,rn1q1rk1/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1QPPBP/RN2K2R w KQ - 3 8,Nc3,Accept a useful queen placement and retain the bishop pair.
+66,1.d4 Pawn-Structure and Plan Atlas,Classical King's Indian,White,r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9,b4,Close the center and prepare queenside expansion while tracking ...f5.
+67,1.d4 Pawn-Structure and Plan Atlas,Bayonet setup,Black,r1bq1rk1/ppp1npbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 b - - 0 9,Ne8,Gain queenside space and prepare c5 before Black's attack lands.
+68,1.d4 Pawn-Structure and Plan Atlas,Petrosian restraint,White,r1bq1rk1/1pp2pbp/n2p1np1/p2Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R w KQ - 2 9,Nd2,Use Bg5 to slow ...f5 and reduce Black's coordination.
+69,1.d4 Pawn-Structure and Plan Atlas,Exchange Grunfeld core,Black,rnbqk2r/pp2ppbp/6p1/2p5/3PP3/2P1BN2/P4PPP/R2QKB1R b KQkq - 1 8,Qa5,"Build the center, develop with tempo, and protect d4."
+70,1.d4 Pawn-Structure and Plan Atlas,Qd2 development,Black,rnb1k2r/pp2ppbp/6p1/q1p5/3PP3/2P1BN2/P2Q1PPP/R3KB1R b KQkq - 3 9,Nc6,"Connect the rooks, defend c3, and prepare Rc1 or Be2."
+71,1.d4 Pawn-Structure and Plan Atlas,Rb1 system,Black,rnbq1rk1/pp2ppbp/6p1/2p5/3PP3/2P2N2/P3BPPP/1RBQK2R b K - 1 9,cxd4,Move the rook off the long diagonal and support queenside expansion.
+72,1.d4 Pawn-Structure and Plan Atlas,Modern Benoni core,White,rnbqk2r/pp3pbp/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR w KQkq - 1 8,Bb5+,Use e4-f4 and prepare e5 while Black seeks queenside counterplay.
+73,1.d4 Pawn-Structure and Plan Atlas,Taimanov check,Black,rnbqk2r/pp3pbp/3p1np1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR b KQkq - 2 8,Nfd7,Use the check to interfere with Black's development before castling.
+74,1.d4 Pawn-Structure and Plan Atlas,Benoni e5 break,Black,rnbqr1k1/pp3pbp/3p1np1/2pP4/4P3/2N5/PP1NBPPP/R1BQ1RK1 b - - 7 10,Na6,Support e4 and prepare f3 or Nc4 before driving with e5.
+75,1.d4 Pawn-Structure and Plan Atlas,Leningrad Dutch,Black,rnbq1rk1/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7,c6,"Fianchetto, control e4, and prepare d5 or Qc2 depending on ...e5."
+76,1.d4 Pawn-Structure and Plan Atlas,Leningrad ...e5,White,rnb1qrk1/ppp3bp/3p1np1/4pp2/2PP4/2N2NP1/PP2PPBP/R1BQR1K1 w - - 0 9,dxe5,"Meet the central break with e4, d5, or dxe5 after concrete calculation."
+77,1.d4 Pawn-Structure and Plan Atlas,Leningrad ...c6,White,rnbq1rk1/pp2p1bp/2p2np1/3p1p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8,cxd5,Challenge the compact center with Qb3 or cxd5 while retaining flexibility.
+78,1.d4 Pawn-Structure and Plan Atlas,Englund Gambit,Black,r1b1kbnr/pppp1ppp/2n5/4P3/8/2N2N2/PqPBPPPP/R2QKB1R b KQkq - 1 6,Bb4,Develop with tempo and be ready to return the pawn to trap or displace the queen.
+79,1.d4 Pawn-Structure and Plan Atlas,Budapest Gambit,Black,r1b1k2r/ppppqppp/2n5/4P3/1bP2Bn1/P4N2/1P1NPPPP/R2QKB1R b KQkq - 0 7,Bxd2+,"Develop, meet the check, and return e5 if it completes development."
+80,1.d4 Pawn-Structure and Plan Atlas,Albin Countergambit,White,r3kbnr/ppp1qppp/2n1b3/4P3/2Pp4/P4N2/1P1NPPPP/R1BQKB1R w KQkq - 3 7,b4,Blockade d4 and complete development before trying to win the pawn.
+81,1.d4 Model Games and Guess-the-Move Training,Exchange QGD core,White,r1bqr1k1/1p2bpp1/2p2n1p/pNnp4/3P1B2/3BP3/PPQ1NPPP/R4RK1 w - - 2 13,Nc7,Build toward f3 and e4 or a queenside minority attack.
+82,1.d4 Model Games and Guess-the-Move Training,Tarrasch Defense,White,r2q1rk1/pp2bppp/2n2n2/2P2b2/NP6/3p1NP1/P3PPBP/R1BQ1RK1 w - - 0 12,e3,Pressure the isolated d5-pawn while finishing development.
+83,1.d4 Model Games and Guess-the-Move Training,QGA classical recovery,White,r1b2rk1/1p1nbppp/p3pn2/8/8/1N2P3/PP2BPPP/RNBR2K1 w - - 6 12,Bd2,Recover c4 through development and accept a clean active endgame.
+84,1.d4 Model Games and Guess-the-Move Training,Main Slav recovery,White,r2q1rk1/pp3ppp/1np2n2/5p2/PbBP4/2N1P3/1PQ2PPP/R1B2RK1 w - - 2 12,Be2,"Limit ...b5, recover c4, and castle before central expansion."
+85,1.d4 Model Games and Guess-the-Move Training,Closed Catalan core,White,r2q1rk1/pb2bppp/1pp1pn2/8/2PPQB2/5NP1/PP3PBP/R4RK1 w - - 3 13,Qe2,Complete the fianchetto and prepare e4 while the center remains closed.
+86,1.d4 Model Games and Guess-the-Move Training,Queen's Indian ...Ba6,White,r2qr1k1/p1pnbppp/bp3n2/3p4/3P1B2/1PN2NP1/P3PPBP/R2Q1RK1 w - - 4 12,Ne5,Use b3 to protect c4 and force the bishop to declare its purpose.
+87,1.d4 Model Games and Guess-the-Move Training,Classical King's Indian,White,r1bq1rk1/4npbp/1p1p1np1/p1pPp3/P1P1P3/2N1B3/1P1NBPPP/R2Q1RK1 w - - 0 12,Nb5,Close the center and prepare queenside expansion while tracking ...f5.
+88,1.d4 Model Games and Guess-the-Move Training,KID ...c5,White,r1bqr1k1/ppn2pbp/3p2p1/2pP3n/4P3/2N2P2/PP1NB1PP/R1BQ1R1K w - - 3 13,f4,Recognize the Benoni structure and use space with e4 and queenside play.
+89,1.d4 Model Games and Guess-the-Move Training,Exchange Grunfeld core,White,r1b2rk1/pp2ppbp/2n3p1/q7/3pP3/2P2N1P/P2BBPP1/R2QK2R w KQ - 0 12,cxd4,"Build the center, develop with tempo, and protect d4."
+90,1.d4 Model Games and Guess-the-Move Training,Modern Benoni core,White,rnbqk2r/3n1pbp/p2p2p1/1ppP4/4PP2/2N2N2/PP2B1PP/R1BQK2R w KQkq - 0 11,O-O,Use e4-f4 and prepare e5 while Black seeks queenside counterplay.
+91,1.d4 Model Games and Guess-the-Move Training,Benko accepted,White,rn2k2r/4ppbp/3p1np1/2pP4/4P3/2N2NPq/PP3P1P/R1BQ2KR w kq - 1 12,Ng5,Consolidate the extra pawn while neutralizing files and the g7 bishop.
+92,1.d4 Model Games and Guess-the-Move Training,Leningrad Dutch,White,r1b1qrk1/1pp1p1bp/n2p1np1/5pB1/p1PP4/1QN2NP1/PP2PPBP/R3R1K1 w - - 0 11,Nxa4,"Fianchetto, control e4, and prepare d5 or Qc2 depending on ...e5."

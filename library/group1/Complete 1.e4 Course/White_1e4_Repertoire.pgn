@@ -1,0 +1,990 @@
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "1"]
+[White "1.e4 repertoire"]
+[Black "Italian Game map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: After ...Nc6, Bc4 enters the Italian and keeps castling simple. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O { White plan: Develop quickly, castle, and prepare d4 through c3 and Re1. Main danger: Do not attack f7 while pieces remain undeveloped. Final FEN: r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQ1RK1 w - - 1 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "2"]
+[White "1.e4 repertoire"]
+[Black "Petroff map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...Nf6 immediately attacks e4 and identifies the Petroff. } 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 { White plan: Use the center and active development instead of trying to refute solid symmetry. Main danger: Copying moves without checking tactics can lose the e-file battle. Final FEN: rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "3"]
+[White "1.e4 repertoire"]
+[Black "Philidor map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...d6 supports e5 but blocks the f8 bishop. } 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 { White plan: Open the center while Black's dark bishop is restricted. Main danger: A premature attack can release Black with ...d5. Final FEN: rnbqk2r/ppp1bppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "4"]
+[White "1.e4 repertoire"]
+[Black "Alapin Sicilian map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: Against ...c5, 2.c3 announces the Alapin plan d4. } 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 { White plan: Build d4 and use the central space without entering the heaviest Open Sicilian theory. Main danger: The e5 pawn and d4 base can become targets. Final FEN: r1bqkb1r/pp1ppppp/2n5/3nP3/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "5"]
+[White "1.e4 repertoire"]
+[Black "Najdorf map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...a6 after the Open Sicilian marks the Najdorf. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 { White plan: Use active development and prepare an English Attack structure. Main danger: Opposite-side attacks punish slow moves. Final FEN: rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "6"]
+[White "1.e4 repertoire"]
+[Black "Dragon map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...g6 creates the Dragon's long diagonal. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 { White plan: Develop for long castling and control d5 before beginning a pawn storm. Main danger: The g7 bishop and c-file can reach White's king rapidly. Final FEN: rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "7"]
+[White "1.e4 repertoire"]
+[Black "French Advance map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...e6 and ...d5 invite e5, creating a fixed pawn chain. } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 { White plan: Support d4 and use the space advantage for kingside play. Main danger: Black attacks d4 with ...c5, ...Nc6, and ...Qb6. Final FEN: r1b1kbnr/pp3ppp/1qn1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "8"]
+[White "1.e4 repertoire"]
+[Black "Caro-Kann Advance map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...c6 and ...d5 let the c8 bishop develop before ...e6. } 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. h4 { White plan: Gain space and challenge the active bishop without neglecting development. Main danger: Kingside pawn moves create permanent weaknesses. Final FEN: rn1qkbnr/pp3ppp/2p1p1b1/3pP3/3P2PP/2N5/PPP2P2/R1BQKBNR b KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "9"]
+[White "1.e4 repertoire"]
+[Black "Pirc map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...d6, ...Nf6, and ...g6 identify the Pirc. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 { White plan: Build the Austrian center and develop before pushing farther. Main danger: The center can be attacked by ...c5 or ...e5. Final FEN: rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 2 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "10"]
+[White "1.e4 repertoire"]
+[Black "Modern map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: ...g6 without an early ...Nf6 is the Modern move order. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 { White plan: Claim the center and prepare Nf3 and Bd3 against Black's delayed attack. Main danger: A broad center without development becomes a target. Final FEN: rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq - 0 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "11"]
+[White "1.e4 repertoire"]
+[Black "Scandinavian map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: 1...d5 challenges e4 immediately; capture and develop. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 { White plan: Gain development tempi while building a healthy center. Main danger: Do not chase the queen with moves that weaken your own position. Final FEN: rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "12"]
+[White "1.e4 repertoire"]
+[Black "Alekhine map"]
+[Result "*"]
+
+{ Volume 01: 1.e4 Foundations and Repertoire Map. Memory hook: 1...Nf6 invites e5 and reveals Alekhine's provocative strategy. } 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 { White plan: Use space while supporting the center with pieces. Main danger: Endless pawn chasing can leave holes and an unsafe king. Final FEN: rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "13"]
+[White "1.e4 repertoire"]
+[Black "Quiet Italian core"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: d3-c3-Re1 is the quiet Italian engine behind d4. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 O-O 7. Re1 { White plan: Prepare d4 while keeping e4 protected and the king safe. Main danger: Slow preparation must still answer ...d5 or ...Bg4. Final FEN: r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQR1K1 b - - 2 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "14"]
+[White "1.e4 repertoire"]
+[Black "Two Knights with d3"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: Against 3...Nf6, 4.d3 keeps the repertoire coherent. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a6 { White plan: Reach the same quiet setup while denying early tactics on e4. Main danger: Black may use ...O-O and ...d5 if White wastes time. Final FEN: r1bqk2r/1pp2ppp/p1np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQ1RK1 w kq - 0 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "15"]
+[White "1.e4 repertoire"]
+[Black "Italian ...a6 and ...Ba7"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: ...a6 often prepares ...Ba7 and ...b5; decide whether the bishop belongs on b3. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 a6 7. Bb3 Ba7 { White plan: Preserve the bishop and prepare d4 without allowing ...Na5 with tempo. Main danger: Automatic retreat can lose time if the center demands action. Final FEN: r1bqk2r/bpp2ppp/p1np1n2/4p3/4P3/1BPP1N2/PP3PPP/RNBQ1RK1 w kq - 2 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "16"]
+[White "1.e4 repertoire"]
+[Black "Italian central break"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: The break is the destination of the quiet setup, not an automatic move. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 O-O 7. Re1 a6 8. Bb3 Ba7 9. Nbd2 Re8 10. d4 { White plan: Open the center only after pieces and king are ready. Main danger: d4 can leave e4 loose if exchanges remove defenders. Final FEN: r1bqr1k1/bpp2ppp/p1np1n2/4p3/3PP3/1BP2N2/PP1N1PPP/R1BQR1K1 b - - 0 10 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "17"]
+[White "1.e4 repertoire"]
+[Black "Hungarian Defense"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: ...Be7 is solid; respond with central occupation, not impatience. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. O-O Nf6 6. Re1 O-O { White plan: Use the space and open-center option created by Black's passive bishop. Main danger: Forcing d5 can close the position in Black's favor. Final FEN: r1bq1rk1/ppp1bppp/2np1n2/4p3/2BPP3/5N2/PPP2PPP/RNBQR1K1 w - - 4 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "18"]
+[White "1.e4 repertoire"]
+[Black "Rousseau Gambit"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: An early ...f5 weakens e6 and the king; development is the refutation. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. d3 Nf6 5. O-O Bc5 { White plan: Decline tactical chaos, develop, and target the weakened dark squares. Main danger: Accepting every pawn can expose e4 and the king. Final FEN: r1bqk2r/pppp2pp/2n2n2/2b1pp2/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 3 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "19"]
+[White "1.e4 repertoire"]
+[Black "Two Knights forcing option"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: Ng5 attacks f7 but Black gains tempi with ...d5 and ...Na5. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2 { White plan: Understand the forcing Ng5 branch even if d3 is the main repertoire. Main danger: The extra pawn is temporary and development is urgent. Final FEN: r1bqkb1r/p4ppp/2p2n2/n3p1N1/8/8/PPPPBPPP/RNBQK2R b KQkq - 1 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "20"]
+[White "1.e4 repertoire"]
+[Black "Traxler awareness"]
+[Result "*"]
+
+{ Volume 02: Italian Game and Two Knights Repertoire. Memory hook: When Black ignores f7 with ...Bc5, calculate the Traxler before moving. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 { White plan: Answer the counterattack with checks and king-safety calculation. Main danger: Taking on f7 without knowing Black's threats can be fatal. Final FEN: r1bq3r/ppppk1pp/2n2n2/2b1p1N1/4P3/1B6/PPPP1PPP/RNBQK2R b KQ - 2 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "21"]
+[White "1.e4 repertoire"]
+[Black "Petroff main line"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: After the forced exchanges, d4 and Bd3 give White the easier development. } 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O { White plan: Use central space and active development in a symmetrical structure. Main danger: The e-file and e4 knight create tactical details. Final FEN: r1bqkb1r/ppp2ppp/2n5/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "22"]
+[White "1.e4 repertoire"]
+[Black "Petroff with 3.d4"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: 3.d4 changes the question from pawn recovery to central activity. } 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 { White plan: Use immediate central play to avoid pure symmetry. Main danger: The e5 knight can be challenged by ...Nxe5 or ...Bd6. Final FEN: r1bqkb1r/pppn1ppp/8/3pN3/3Pn3/3B4/PPP2PPP/RNBQK2R w KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "23"]
+[White "1.e4 repertoire"]
+[Black "Philidor exchange"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: Exchange on d4 when it opens lines against Black's cramped pieces. } 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O { White plan: Use the open center and easier development. Main danger: A careless f4 can expose e4 and the king. Final FEN: rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQ - 5 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "24"]
+[White "1.e4 repertoire"]
+[Black "Philidor ...Nf6"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: The Hanham setup is solid; improve pieces before forcing matters. } 1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O { White plan: Develop naturally and keep d5 as a possible space gain. Main danger: Black can strike with ...c6 and ...d5 if White drifts. Final FEN: r1bqk2r/pppnbppp/3p1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 6 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "25"]
+[White "1.e4 repertoire"]
+[Black "Scotch main line"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: The Scotch trades tension for immediate central clarity. } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 { White plan: Open the center and use development against Black's structure. Main danger: The advanced e5 pawn can be attacked with ...d6. Final FEN: r1b1kb1r/p1ppqppp/2p5/3nP3/8/8/PPP1QPPP/RNB1KB1R w KQkq - 3 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "26"]
+[White "1.e4 repertoire"]
+[Black "Scotch ...Bc5"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: ...Bc5 increases pressure on d4 and f2; answer with development. } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 { White plan: Develop with Be3 and support the center while meeting pressure on d4. Main danger: Nxc6 can help Black's queen develop with tempo. Final FEN: r1b1k2r/ppppnppp/2n2q2/2b5/3NP3/2P1B3/PP3PPP/RN1QKB1R w KQkq - 1 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "27"]
+[White "1.e4 repertoire"]
+[Black "Latvian Gambit"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: Against ...f5, calculate checks and queen attacks before keeping material. } 1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 { White plan: Take the center pawn, meet the queen attack, and develop with tempo. Main danger: The queen and f-pawn create immediate threats against e4. Final FEN: rnb1kbnr/ppp3pp/3p1q2/8/2NPp3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "28"]
+[White "1.e4 repertoire"]
+[Black "Elephant Gambit"]
+[Result "*"]
+
+{ Volume 03: Petroff, Philidor, Scotch, and Other Open Games. Memory hook: Return material if necessary; Black's compensation depends on development. } 1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Qe2 Nf6 { White plan: Accept the pawn but prioritize development and central control. Main danger: The e4 pawn can chase the knight and open lines with tempo. Final FEN: rnbqk2r/ppp2ppp/3b1n2/3P4/3Pp3/5N2/PPP1QPPP/RNB1KB1R w KQkq - 2 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "29"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...Nf6"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: ...Nf6 provokes e5; support the chain rather than overextend it. } 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 { White plan: Use space and finish development while the e5 pawn gains time. Main danger: Black attacks e5 and d4 with pieces and ...d6. Final FEN: r1bqkb1r/pp2pppp/2np4/3nP3/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "30"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...d5"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: When Black achieves ...d5, develop with tempo and keep a healthy center. } 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Be2 { White plan: Accept central exchanges and gain development against the queen. Main danger: Nc3 can invite a queen capture on d4 if the center is loose. Final FEN: rnb1kb1r/pp3ppp/4pn2/2pq4/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "31"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...e6"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: ...e6 and ...d5 transpose to a favorable familiar pawn chain. } 1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 { White plan: Build a French-like chain with the c-pawn already supporting d4. Main danger: Black can attack d4 with ...Qb6 and ...cxd4. Final FEN: r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "32"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...d6"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: If Black delays ...d5, occupy d4 and complete development. } 1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 g6 5. Nf3 Bg7 6. O-O { White plan: Build the center and castle before choosing e5 or Re1. Main danger: The e4 pawn can be hit by ...Bg7 and ...O-O. Final FEN: rnbqk2r/pp2ppbp/3p1np1/2p5/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 3 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "33"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...g6"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: Against a fianchetto, defend the center with pieces before expanding. } 1. e4 c5 2. c3 g6 3. d4 Bg7 4. Nf3 cxd4 5. cxd4 d5 { White plan: Use the center but respond accurately when Black challenges it. Main danger: The g7 bishop targets d4 immediately after exchanges. Final FEN: rnbqk1nr/pp2ppbp/6p1/3p4/3PP3/5N2/PP3PPP/RNBQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "34"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...Nc6"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: ...Nc6 adds pressure to d4; clarify the center on favorable terms. } 1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 { White plan: Reach an isolated or symmetrical center with active development. Main danger: The queen may pressure d4 and g2 after exchanges. Final FEN: r1b1kbnr/pp2pppp/2n5/3q4/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "35"]
+[White "1.e4 repertoire"]
+[Black "Alapin ...b6"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: When ...Bb7 targets e4, add a defender before routine castling. } 1. e4 c5 2. c3 b6 3. d4 Bb7 4. Bd3 Nf6 5. Qe2 { White plan: Protect e4 and build the center against the queenside fianchetto. Main danger: The b7 bishop can make e4 tactically vulnerable. Final FEN: rn1qkb1r/pb1ppppp/1p3n2/2p5/3PP3/2PB4/PP2QPPP/RNB1K1NR b KQkq - 4 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "36"]
+[White "1.e4 repertoire"]
+[Black "Delayed Alapin"]
+[Result "*"]
+
+{ Volume 04: Alapin Sicilian Repertoire. Memory hook: Recognize the structure even when Nf3 precedes c3. } 1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 { White plan: Transpose when Black's move order makes c3 useful. Main danger: The knight on f3 can block the f-pawn but supports e5 and d4. Final FEN: r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "37"]
+[White "1.e4 repertoire"]
+[Black "Najdorf English Attack"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: Be3-f3-Qd2 is a coordinated shell, not three automatic moves. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2 { White plan: Prepare long castling and a kingside pawn advance while controlling d5. Main danger: Black's queenside attack can reach first. Final FEN: rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 1 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "38"]
+[White "1.e4 repertoire"]
+[Black "Najdorf ...e5"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: ...e5 trades the d5 weakness for time against the knight. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 { White plan: Preserve the knight and use d5 as a long-term outpost. Main danger: Black gains space and can attack d5 with pieces. Final FEN: rn1qkb1r/1p3ppp/p2pbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 0 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "39"]
+[White "1.e4 repertoire"]
+[Black "Najdorf ...Ng4"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: When ...Ng4 attacks Be3, compare Bg5, Bc1, and exchanges concretely. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4 { White plan: Keep useful pressure while avoiding an unfavorable bishop trade. Main danger: The bishop can lose tempi and become trapped. Final FEN: rnbqkb1r/1p2ppp1/p2p3p/8/3NP1nB/2N5/PPP2PPP/R2QKB1R b KQkq - 1 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "40"]
+[White "1.e4 repertoire"]
+[Black "Najdorf Poisoned Pawn awareness"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: If Black's queen takes b2, every move must attack the queen or king with purpose. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 { White plan: Use development and open lines as compensation for b2. Main danger: This line is highly tactical and requires exact calculation. Final FEN: rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/q1N5/P1PQ2PP/1R2KB1R w Kkq - 2 10 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "41"]
+[White "1.e4 repertoire"]
+[Black "Dragon Yugoslav setup"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: In the Dragon, both attacks are real; count tempi before pawn moves. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 { White plan: Prepare long castling and h4-h5 while controlling d5. Main danger: The c-file and g7 bishop target White's queenside king. Final FEN: rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQ - 2 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "42"]
+[White "1.e4 repertoire"]
+[Black "Dragon with Bc4"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: Bc4 is useful when it controls d5 and contributes to development. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 { White plan: Develop with tempo against d5 and support the attacking setup. Main danger: Bc4 can be hit by ...Ne5 or ...Na5. Final FEN: r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "43"]
+[White "1.e4 repertoire"]
+[Black "Scheveningen shell"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: The pawns on d6 and e6 create the Scheveningen and make d5 the key square. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Be7 7. f3 O-O 8. Qd2 { White plan: Use space and prepare long castling against Black's compact center. Main danger: Black's ...d5 break can equalize immediately if allowed. Final FEN: rnbq1rk1/pp2bppp/3ppn2/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQ - 2 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "44"]
+[White "1.e4 repertoire"]
+[Black "Najdorf Be2 alternative"]
+[Result "*"]
+
+{ Volume 05: Open Sicilian: Najdorf, Dragon, and Scheveningen. Memory hook: Be2 is a practical alternative that keeps the king flexible. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O { White plan: Choose short castling and positional control when a tactical race is unwanted. Main danger: A quiet setup still must meet ...Be6 and ...d5. Final FEN: rnbqk2r/1p2bppp/p2p1n2/4p3/4P3/1NN5/PPP1BPPP/R1BQ1RK1 b kq - 3 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "45"]
+[White "1.e4 repertoire"]
+[Black "Sveshnikov core"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: ...e5 drives the knight but leaves d5 permanently sensitive. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 { White plan: Use the d5 outpost and pressure the weakened dark squares. Main danger: Black gains activity and queenside space with tempo. Final FEN: r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "46"]
+[White "1.e4 repertoire"]
+[Black "Kalashnikov"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: Without ...Nf6, White can often keep more central flexibility. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 { White plan: Use d5 and the lead in development against Black's early ...e5. Main danger: The b5 knight can be chased by ...a6. Final FEN: r1bqkbnr/pp3ppp/2np4/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "47"]
+[White "1.e4 repertoire"]
+[Black "Taimanov"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: ...e6, ...Nc6, and ...Qc7 identify the Taimanov. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 { White plan: Develop flexibly and prevent ...Nf6 or ...Bb4 tactics from gaining time. Main danger: Black can strike with ...b5 or ...Nf6 depending on White's setup. Final FEN: r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 4 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "48"]
+[White "1.e4 repertoire"]
+[Black "Kan"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: ...a6 without ...Nc6 is the Kan's flexible waiting move. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 { White plan: Use the space and lead in development before Black expands with ...b5. Main danger: The bishop on d3 can become a target to ...Bd6 or ...b5. Final FEN: rnb1kb1r/1pqp1ppp/p3pn2/8/3NP3/3B4/PPP2PPP/RNBQ1RK1 w kq - 4 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "49"]
+[White "1.e4 repertoire"]
+[Black "Accelerated Dragon"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: The missing ...d6 gives Black speed but allows c4 space. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 { White plan: Control d5 and be ready for the Maroczy Bind with c4. Main danger: Black seeks ...d5 in one move and can equalize if it works. Final FEN: r1bqk2r/pp1pppbp/2n2np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 5 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "50"]
+[White "1.e4 repertoire"]
+[Black "Classical Sicilian"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: ...Nc6 without ...a6 or ...g6 keeps several Sicilian structures available. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 e6 7. Qd2 { White plan: Develop for long castling while watching ...d5 and ...Ng4. Main danger: The c3 knight and e4 pawn can be attacked together. Final FEN: r1bqkb1r/pp3ppp/2nppn2/8/3NP3/2N1B3/PPPQ1PPP/R3KB1R b KQkq - 1 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "51"]
+[White "1.e4 repertoire"]
+[Black "Four Knights Sicilian"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: Four developed knights create immediate central tactics. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 { White plan: Use the d6 and d5 squares while meeting the pin accurately. Main danger: Ndb5 can expose the e4 pawn to ...Nxe4. Final FEN: r1bqk2r/pp1p1ppp/2n1pn2/1N6/1b2P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 5 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "52"]
+[White "1.e4 repertoire"]
+[Black "O'Kelly Sicilian"]
+[Result "*"]
+
+{ Volume 06: Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov. Memory hook: Against 2...a6, c3 makes the waiting move less useful. } 1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 { White plan: Exploit ...a6 by building an Alapin center without allowing the usual best move order. Main danger: The queen can pressure d4 after exchanges. Final FEN: rnb1kbnr/1p2pppp/p7/2pq4/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "53"]
+[White "1.e4 repertoire"]
+[Black "Advance French core"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: Count d4 attackers and defenders before every attacking move. } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 { White plan: Support the center, develop, and prepare kingside play or queenside defense. Main danger: d4 is attacked repeatedly and can collapse tactically. Final FEN: r3kbnr/pp1b1ppp/1qn1p3/3pP3/3P4/3B1N2/PP3PPP/RNBQK2R w KQkq - 1 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "54"]
+[White "1.e4 repertoire"]
+[Black "French ...Nh6"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: ...Nh6 often targets f5 and d4; do not exchange automatically. } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nh6 6. Bd3 cxd4 7. cxd4 { White plan: Develop while Black reroutes the knight toward f5. Main danger: Bxh6 can help Black's queen and dark-square attack. Final FEN: r1bqkb1r/pp3ppp/2n1p2n/3pP3/3P4/3B1N2/PP3PPP/RNBQK2R b KQkq - 0 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "55"]
+[White "1.e4 repertoire"]
+[Black "French ...Bd7"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: ...Bd7 prepares ...Bb5 or ...Rc8 and completes development. } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 { White plan: Castle and keep the center supported before choosing a recapture. Main danger: The d4 pawn can become isolated after exchanges. Final FEN: r3kbnr/pp1b1ppp/1qn1p3/3pP3/3p4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 8 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "56"]
+[White "1.e4 repertoire"]
+[Black "French ...f6 break"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: When ...f6 arrives, decide whether to capture, support, or counter in the center. } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 f6 7. O-O { White plan: Meet the pawn-chain attack with calm development and calculate exf6. Main danger: Opening the f-file can expose White's king or e5. Final FEN: r1b1kbnr/pp4pp/1qn1pp2/2ppP3/3P4/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 1 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "57"]
+[White "1.e4 repertoire"]
+[Black "French 3...b6"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: ...b6 solves the c8 bishop; decide whether to trade it. } 1. e4 e6 2. d4 d5 3. e5 b6 4. Nf3 Ba6 5. Bxa6 Nxa6 { White plan: Exchange Black's active bishop and retain the space advantage. Main danger: The a6 knight may reroute to b4 or c5 with tempo. Final FEN: r2qkbnr/p1p2ppp/np2p3/3pP3/3P4/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "58"]
+[White "1.e4 repertoire"]
+[Black "French early ...c5"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: If Black attacks before ...d5, the center may resemble a Benoni. } 1. e4 e6 2. d4 c5 3. d5 exd5 4. exd5 d6 { White plan: Use the space and advanced passer while completing development. Main danger: The d6 pawn can become blockaded and weak. Final FEN: rnbqkbnr/pp3ppp/3p4/2pP4/8/8/PPP2PPP/RNBQKBNR w KQkq - 0 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "59"]
+[White "1.e4 repertoire"]
+[Black "French Tarrasch alternative"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: Nd2 keeps the c-pawn free and supports e4, but blocks the c1 bishop. } 1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 { White plan: Understand a flexible alternative that avoids the Winawer pin. Main danger: The d4 pawn remains Black's target. Final FEN: rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR b KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "60"]
+[White "1.e4 repertoire"]
+[Black "French Exchange awareness"]
+[Result "*"]
+
+{ Volume 07: French Defense Advance Repertoire. Memory hook: The Exchange is not automatically dull; activity and move order still matter. } 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Nf3 Bd6 6. O-O { White plan: Use active piece placement to create imbalance in a symmetrical structure. Main danger: Routine symmetry can surrender the initiative. Final FEN: rnbqk2r/ppp2ppp/3b1n2/3p4/3P4/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 5 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "61"]
+[White "1.e4 repertoire"]
+[Black "Advance Caro core"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: Challenge ...Bf5 only while the center prevents counterplay. } 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. h4 h6 { White plan: Gain time against the bishop and use space for a kingside initiative. Main danger: Pawn pushes weaken the king and can overextend. Final FEN: rn1qkbnr/pp3pp1/2p1p1bp/3pP3/3P2PP/2N5/PPP2P2/R1BQKBNR w KQkq - 0 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "62"]
+[White "1.e4 repertoire"]
+[Black "Advance with h5"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: When ...h5 stops h5, compare g5 with development. } 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. h4 h5 { White plan: Fix the kingside and decide whether g5 gains space or closes useful lines. Main danger: Closing with g5 can give Black f5 and e4 squares. Final FEN: rn1qkbnr/pp3pp1/2p1p1b1/3pP2p/3P2PP/2N5/PPP2P2/R1BQKBNR w KQkq - 0 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "63"]
+[White "1.e4 repertoire"]
+[Black "Short system"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: Nf3 and Be2 trade some space-gaining tempo for safer development. } 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 { White plan: Develop rapidly and maintain the space advantage without early pawn weaknesses. Main danger: Black may equalize with ...c5 if White has no active plan. Final FEN: r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 2 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "64"]
+[White "1.e4 repertoire"]
+[Black "Advance ...c5"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: Black's immediate ...c5 attacks d4 before developing the bishop. } 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Be3 Nd7 { White plan: Accept the pawn temporarily while supporting e5 and developing. Main danger: Holding c5 can cost time and allow ...Nxc5. Final FEN: r1bqkbnr/pp1n1ppp/4p3/2PpP3/8/4B3/PPP2PPP/RN1QKBNR w KQkq - 2 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "65"]
+[White "1.e4 repertoire"]
+[Black "Advance ...b5"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: Against ...b5, ask whether ...b4 is a concrete threat. } 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 b5 5. a3 e6 { White plan: Prevent ...b4 from dislodging the c3 knight and continue development. Main danger: a3 spends time and creates b3 weakness if no expansion exists. Final FEN: rn1qkbnr/p4ppp/2p1p3/1p1pPb2/3P4/P1N5/1PP2PPP/R1BQKBNR w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "66"]
+[White "1.e4 repertoire"]
+[Black "Gurgenidze setup"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: A Caro fianchetto attacks d4 and dark squares rather than developing Bf5. } 1. e4 c6 2. d4 d5 3. e5 g6 4. Nc3 Bg7 5. f4 h5 { White plan: Build space and prevent Black from undermining e5 without preparation. Main danger: f4 and h-pawn play can expose the king. Final FEN: rnbqk1nr/pp2ppb1/2p3p1/3pP2p/3P1P2/2N5/PPP3PP/R1BQKBNR w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "67"]
+[White "1.e4 repertoire"]
+[Black "Classical alternative"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: The Classical line exchanges the e-pawn but gives White easy development. } 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 { White plan: Develop naturally and use the active knight against Black's bishop. Main danger: The knight can be chased by ...Nf6 and ...e6. Final FEN: rn1qkbnr/pp2pppp/2p3b1/8/3P4/6N1/PPP2PPP/R1BQKBNR w KQkq - 3 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "68"]
+[White "1.e4 repertoire"]
+[Black "Panov alternative"]
+[Result "*"]
+
+{ Volume 08: Caro-Kann Advance Repertoire. Memory hook: The Panov trades structure for activity and familiar IQP play. } 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 { White plan: Create an isolated-queen-pawn structure with active pieces and open files. Main danger: The d4 pawn can become a long-term target after exchanges. Final FEN: rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "69"]
+[White "1.e4 repertoire"]
+[Black "Austrian Attack core"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: f4 is useful because pieces are coming quickly behind it. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 { White plan: Build the broad center, develop, and prepare e5 or castling. Main danger: The center can be struck by ...c5 or ...e5 before White is ready. Final FEN: rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "70"]
+[White "1.e4 repertoire"]
+[Black "Pirc ...c5"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: Against ...c5, choose between d5, dxc5, and e5 by concrete calculation. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 c5 7. d5 { White plan: Gain space and prepare e5 while Black attacks the center from the flank. Main danger: Closing with d5 can give Black b5 and e6 breaks. Final FEN: rnbq1rk1/pp2ppbp/3p1np1/2pP4/4PP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "71"]
+[White "1.e4 repertoire"]
+[Black "Pirc ...Na6"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: ...Na6 often supports ...c5 or ...e5 without blocking the c-pawn. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O { White plan: Castle and keep the center flexible while Black reroutes the knight. Main danger: Black may play ...c5 and ...Nb4 against Bd3. Final FEN: r1bq1rk1/ppp1ppbp/n2p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 b - - 6 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "72"]
+[White "1.e4 repertoire"]
+[Black "Pirc ...Nc6"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: ...Nc6 increases pressure on d4 and e5. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nc6 { White plan: Develop and prepare Qd2 or e5 while controlling d5. Main danger: e5 can be met by ...dxe5 and tactics on the queen. Final FEN: r1bq1rk1/ppp1ppbp/2np1np1/8/3PPP2/2N1BN2/PPP3PP/R2QKB1R w KQ - 5 7 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "73"]
+[White "1.e4 repertoire"]
+[Black "Modern ...c6 and ...b5"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: When Black expands on the wing, central action is the principled reply. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 b5 { White plan: Develop and strike in the center before Black's queenside expansion becomes useful. Main danger: Ignoring ...b4 can dislodge the c3 knight and weaken e4. Final FEN: rnbqk1nr/p3ppbp/2pp2p1/1p6/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "74"]
+[White "1.e4 repertoire"]
+[Black "Modern ...a6"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: ...a6 and ...b5 spend tempi; ask whether the center can open. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 { White plan: Use rapid development and consider e5 before Black completes queenside play. Main danger: A premature e5 can leave d4 weak. Final FEN: rnbqk1nr/2p1ppbp/p2p2p1/1p6/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "75"]
+[White "1.e4 repertoire"]
+[Black "Czech Pirc"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: ...c6 and ...Qa5 create direct pressure rather than a fianchetto. } 1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 { White plan: Support the center and meet the queen pressure with development. Main danger: The e4 pawn and c3 knight can be attacked together. Final FEN: rnb1kb1r/pp3ppp/2pp1n2/q3p3/3PPP2/2NB4/PPP3PP/R1BQK1NR w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "76"]
+[White "1.e4 repertoire"]
+[Black "Rat Defense"]
+[Result "*"]
+
+{ Volume 09: Pirc and Modern Defense Repertoire. Memory hook: Against ...f5, calculate the central opening and return material if needed. } 1. e4 d6 2. d4 f5 3. Nc3 Nf6 4. exf5 Bxf5 { White plan: Open the center while Black's king and e6 square are weakened. Main danger: Holding the pawn can fall behind in development. Final FEN: rn1qkb1r/ppp1p1pp/3p1n2/5b2/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "77"]
+[White "1.e4 repertoire"]
+[Black "Scandinavian ...Qd8"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: After the queen retreats, the advantage is easier development, not material. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 c6 { White plan: Use the development tempo to build a healthy center and castle. Main danger: Do not waste the gained tempo on unnecessary pawn moves. Final FEN: rnbqkb1r/pp2pppp/2p2n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "78"]
+[White "1.e4 repertoire"]
+[Black "Scandinavian ...Qa5"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: Against ...Qa5, avoid moving the c3 knight before the pin is resolved. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 { White plan: Develop while watching the pin on c3 and pressure on d4. Main danger: The queen can support ...e5 or ...Bf5 with tactical pressure. Final FEN: rnb1kb1r/pp2pppp/2p2n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "79"]
+[White "1.e4 repertoire"]
+[Black "Scandinavian ...Qd6"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: Do not chase ...Qd6 if development gives a larger gain. } 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 { White plan: Gain space and use natural development against the centralized queen. Main danger: The queen may support ...e5 and kingside castling. Final FEN: rnb1kb1r/pp2pppp/2pq1n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "80"]
+[White "1.e4 repertoire"]
+[Black "Modern Scandinavian"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: Against 2...Nf6, defend the pawn only when development remains healthy. } 1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. c4 Nb6 { White plan: Build the center and gain time against the knight. Main danger: c4 creates d4 and dark-square obligations. Final FEN: rnbqkb1r/ppp1pp1p/1n4p1/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "81"]
+[White "1.e4 repertoire"]
+[Black "Icelandic Gambit"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: The gambit is about development; neutralize it with development. } 1. e4 d5 2. exd5 Nf6 3. d4 e6 4. dxe6 Bxe6 5. Nf3 { White plan: Return or keep material only while completing development and protecting the king. Main danger: Black's bishops and open lines give dangerous initiative. Final FEN: rn1qkb1r/ppp2ppp/4bn2/8/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "82"]
+[White "1.e4 repertoire"]
+[Black "Portuguese Gambit"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: Against ...Bg4, decide whether f3 or Be2 better serves development. } 1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 { White plan: Question the bishop and keep the extra pawn flexible. Main danger: f3 weakens the king and e3 square. Final FEN: rn1qkb1r/ppp1pppp/5n2/3P1b2/3P4/5P2/PPP3PP/RNBQKBNR w KQkq - 1 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "83"]
+[White "1.e4 repertoire"]
+[Black "Alekhine Modern"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: Nf3 develops before another pawn advance and keeps the center coordinated. } 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 { White plan: Use the space but support it with rapid development. Main danger: The e5 knight can be challenged and the d4 base attacked. Final FEN: rnbqkb1r/pp2pppp/2p5/3nN3/3P4/8/PPP2PPP/RNBQKB1R w KQkq - 0 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "84"]
+[White "1.e4 repertoire"]
+[Black "Alekhine Four Pawns"]
+[Result "*"]
+
+{ Volume 10: Scandinavian and Alekhine Repertoire. Memory hook: Use this as a structure lesson; the Modern line is the safer main repertoire. } 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 { White plan: Understand the maximum-space option and its tactical responsibilities. Main danger: Four advanced pawns can become four targets. Final FEN: rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq - 0 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "85"]
+[White "1.e4 repertoire"]
+[Black "Owen's Defense"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: A queenside fianchetto aims at e4; add defenders before expansion. } 1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. O-O { White plan: Build the center and protect e4 against the long diagonal. Main danger: The b7 bishop and ...c5 can attack d4 and e4 together. Final FEN: rn1qkbnr/pb1p1ppp/1p2p3/2p5/3PP3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 1 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "86"]
+[White "1.e4 repertoire"]
+[Black "Nimzowitsch Defense"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: When ...Nc6 and ...d5 attack e4, clarify the center and develop. } 1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 e5 5. Nc3 { White plan: Use development with tempo against the early queen. Main danger: The queen can take d4 if White's center is loose. Final FEN: r1b1kbnr/ppp2ppp/2n5/3qp3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "87"]
+[White "1.e4 repertoire"]
+[Black "St. George Defense"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Take the center, then defend it with pieces. } 1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 e6 5. O-O { White plan: Occupy the center and castle while Black spends wing tempi. Main danger: The b7 bishop can make e4 tactically sensitive. Final FEN: rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 1 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "88"]
+[White "1.e4 repertoire"]
+[Black "Blackburne Shilling Trap"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: When ...Nd4 appears early, inspect Qg5 and Nxc2 before capturing. } 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Bxf7+ Ke7 6. O-O { White plan: Recognize the queen attack and avoid greed on e5. Main danger: The trap targets g2 and the exposed e5 knight. Final FEN: r1b2bnr/ppppkBpp/8/4N1q1/3nP3/8/PPPP1PPP/RNBQ1RK1 b - - 2 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "89"]
+[White "1.e4 repertoire"]
+[Black "Stafford Gambit"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Against the Stafford, king safety and development outrank the extra pawn. } 1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d3 { White plan: Return material if needed and complete development against Black's initiative. Main danger: Bishop and queen threats can converge on h2 and f2. Final FEN: r1bqkb1r/ppp2ppp/2p2n2/8/4P3/3P4/PPP2PPP/RNBQKB1R b KQkq - 0 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "90"]
+[White "1.e4 repertoire"]
+[Black "Damiano Defense"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: ...f6 weakens e8-h5 and removes the king's natural shelter. } 1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ Ke7 5. Qxe5+ Kf7 6. Bc4+ { White plan: Use checks to punish the weakened diagonal and exposed king. Main danger: Missing one forcing reply can reverse the attack. Final FEN: rnbq1bnr/pppp1kpp/8/4Q3/2B1P3/8/PPPP1PPP/RNB1K2R b KQ - 2 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "91"]
+[White "1.e4 repertoire"]
+[Black "Fred Defense"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Black's first move weakens the king; simple development preserves the edge. } 1. e4 f5 2. exf5 Nf6 3. d4 d5 4. Bd3 { White plan: Accept the pawn while developing and controlling the center. Main danger: Trying to keep f5 with pawns can expose the king. Final FEN: rnbqkb1r/ppp1p1pp/5n2/3p1P2/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "92"]
+[White "1.e4 repertoire"]
+[Black "Borg Defense"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Wing pawns are targets only after the center and king are secure. } 1. e4 g5 2. d4 h6 3. Nc3 Bg7 { White plan: Claim the center and develop rather than chasing wing pawns. Main danger: An early h4 can open a rook file against White's king. Final FEN: rnbqk1nr/ppppppb1/7p/6p1/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "93"]
+[White "1.e4 repertoire"]
+[Black "Hippopotamus setup"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: The compact setup waits for White to push too far; improve pieces first. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 { White plan: Use space and prepare e5 while remaining ready for ...f5 or ...c5. Main danger: Overextension can make every central pawn a target. Final FEN: rnbqk2r/ppp1npbp/3pp1p1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 2 6 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "94"]
+[White "1.e4 repertoire"]
+[Black "1...b5"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Material is safe only when the center and king remain controlled. } 1. e4 b5 2. Bxb5 Bb7 3. d3 f5 4. Nc3 { White plan: Take the pawn but develop against the bishop's central pressure. Main danger: The b7 bishop can create tactics on e4 and g2. Final FEN: rn1qkbnr/pbppp1pp/8/1B3p2/4P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 1 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "95"]
+[White "1.e4 repertoire"]
+[Black "1...h6"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Use the free tempo for the center, not an unsound attack. } 1. e4 h6 2. d4 d6 3. Nc3 Nf6 4. Nf3 { White plan: Build the center and develop normally against a lost tempo. Main danger: Overreacting to a harmless move can waste the advantage. Final FEN: rnbqkb1r/ppp1ppp1/3p1n1p/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 3 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "96"]
+[White "1.e4 repertoire"]
+[Black "1...a5"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: A flank pawn move changes little about central priorities. } 1. e4 a5 2. d4 d6 3. Nc3 Nf6 4. Nf3 { White plan: Use the center and normal development. Main danger: An exaggerated center without piece support is still vulnerable. Final FEN: rnbqkb1r/1pp1pppp/3p1n2/p7/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 3 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "97"]
+[White "1.e4 repertoire"]
+[Black "Scandinavian 2...c6"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: The gambit seeks development; answer with development. } 1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 { White plan: Accept temporarily and return material through development if needed. Main danger: Keeping the pawn can expose the queen and delay castling. Final FEN: r1bqkbnr/pp2pppp/2n5/8/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 4 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "98"]
+[White "1.e4 repertoire"]
+[Black "Wing Gambit awareness"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: A gambit pawn must buy development, files, or the center immediately. } 1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 { White plan: Understand the optional pawn sacrifice for development and open files. Main danger: Compensation disappears if White fails to gain tempi. Final FEN: rnb1kbnr/pp2pppp/8/3q4/1p6/P4N2/2PP1PPP/RNBQKB1R b KQkq - 1 5 } *
+
+[Event "Complete 1.e4 Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "99"]
+[White "1.e4 repertoire"]
+[Black "King's Gambit awareness"]
+[Result "*"]
+
+{ Volume 11: Gambits, Traps, and Rare First Moves. Memory hook: Use this for tactical literacy, not as the default course line. } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 { White plan: Understand the attacking structure while keeping the Italian as the main repertoire. Main danger: The open king and f-pawn loss create long-term risk. Final FEN: rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 4 } *
+

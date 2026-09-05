@@ -1,0 +1,55 @@
+KING'S INDIAN ATTACK FROM WHITE - DEEP UNDERSTANDING COURSE
+===========================================================
+
+18 PDF volumes | 108 deep lessons | 54 legal annotated study lines | 540 PDF pages
+
+This is a concept-first White system course. It teaches the shared KIA shell, the classical e5 attack, and the structural adaptations required against French, Sicilian, ...g6, ...e5, ...b6, Caro-Kann, and Philidor-style setups.
+Every scenario is taught twice: first as a recognition problem, then as an execution problem.
+Each lesson contains two diagram pages, a move-by-move walkthrough, exercises, and an answer key.
+
+STARTING REPERTOIRE
+-------------------
+Use 1.Nf3 for maximum flexibility or 1.e4 when you specifically want French and Sicilian KIA structures. Build g3, Bg2, O-O, d3, Nbd2, e4, and Re1 only when Black’s center allows it. Classify Black’s freeing break before selecting e5, c3-d4, c4, f4, or a kingside pawn storm.
+
+HOW TO STUDY
+------------
+1. Read one four-page lesson and reconstruct the board from memory.
+2. Import KINGS_INDIAN_ATTACK_WHITE_FOR_FRITZ.pgn into Fritz for replay and sparring.
+3. Answer the workbook page before viewing its answer key.
+4. Review after 1, 3, 7, 14, and 30 days.
+5. Verify sharp forcing branches with Fritz or a current database before tournament use.
+6. Analyze every serious game and repair the first position you could not explain.
+
+VOLUMES
+-------
+01. The King’s Indian Attack from First Principles - lessons 001-006 - 01_The_Kings_Indian_Attack_from_First_Principles.pdf
+02. The Locked e5 Center - lessons 007-012 - 02_The_Locked_e5_Center.pdf
+03. The KIA Piece Routes - lessons 013-018 - 03_The_KIA_Piece_Routes.pdf
+04. Building the Center Correctly - lessons 019-024 - 04_Building_the_Center_Correctly.pdf
+05. Architecture of the Kingside Attack - lessons 025-030 - 05_Architecture_of_the_Kingside_Attack.pdf
+06. Timing e5, f4, and f5 - lessons 031-036 - 06_Timing_e5_f4_and_f5.pdf
+07. The h-Pawn and g-Pawn Storm - lessons 037-042 - 07_The_h_Pawn_and_g_Pawn_Storm.pdf
+08. The Dark Bishop and Queen Battery - lessons 043-048 - 08_The_Dark_Bishop_and_Queen_Battery.pdf
+09. The KIA against the French - lessons 049-054 - 09_The_KIA_against_the_French.pdf
+10. The KIA against the Sicilian - lessons 055-060 - 10_The_KIA_against_the_Sicilian.pdf
+11. The KIA against ...g6 Systems - lessons 061-066 - 11_The_KIA_against_g6_Systems.pdf
+12. The KIA against ...e6 and ...b6 - lessons 067-072 - 12_The_KIA_against_e6_and_b6.pdf
+13. KIA Structures against ...e5, Caro-Kann, and Philidor - lessons 073-078 - 13_KIA_Structures_against_e5_Caro_Kann_and_Philidor.pdf
+14. Surviving Black’s Central Breaks - lessons 079-084 - 14_Surviving_Blacks_Central_Breaks.pdf
+15. When to Change the Structure - lessons 085-090 - 15_When_to_Change_the_Structure.pdf
+16. KIA Tactical Grammar - lessons 091-096 - 16_KIA_Tactical_Grammar.pdf
+17. Defense, Endgames, and Failed Attacks - lessons 097-102 - 17_Defense_Endgames_and_Failed_Attacks.pdf
+18. A Lifetime King’s Indian Attack System - lessons 103-108 - 18_A_Lifetime_Kings_Indian_Attack_System.pdf
+
+COMPANIONS
+----------
+MASTER_LESSON_INDEX.html - searchable offline lesson index
+MASTER_LESSON_INDEX.csv - filterable lesson and decision-rule index
+KINGS_INDIAN_ATTACK_WHITE_FOR_FRITZ.pgn - 54 legal annotated study lines for Fritz
+QA_REPORT.txt - structural, text, and chess-legality verification
+PDF_HASHES.json - SHA-256 checksums for all 18 volumes
+
+ARTWORK
+-------
+The diagrams use solid Cburnett chess pieces from the open-source python-chess/Lichess artwork
+under GPLv2+; every board is rendered as vector artwork for clear phone viewing.

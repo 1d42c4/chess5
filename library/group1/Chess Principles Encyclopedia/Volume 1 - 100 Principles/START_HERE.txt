@@ -1,0 +1,125 @@
+CHESS PRINCIPLES ENCYCLOPEDIA - VOLUME 1
+==========================================
+
+100 individual principles | 6 pages each | 600 pages total
+
+WHY STRONG PLAYERS CAN SEEM MILES AHEAD
+-----------------------------------------
+They do not merely know more slogans. They notice meaningful patterns sooner, generate better
+candidate moves, calculate the opponent's best resistance, evaluate resulting positions more
+accurately, and make fewer ordinary errors. Their knowledge is compressed into connected chunks:
+structure + piece placement + plans + tactics + exceptions.
+
+HOW TO USE THIS LIBRARY
+-----------------------
+1. Study one principle, not ten, in a session.
+2. Answer the self-test without looking back.
+3. Find the principle in one of your own games.
+4. Review after 3, 7, 14, and 30 days.
+5. Treat every principle as a default that must survive tactical verification.
+
+Principles are most useful in this order: tactical survival, king safety, forcing initiative,
+material, activity, structure, space, and finally the general slogan as a tiebreaker.
+
+DIRECTORY
+---------
+001. Tactics Come Before Strategy - Thinking and Decision-Making\001_Tactics_Come_Before_Strategy.pdf
+002. Scan Checks, Captures, and Threats - Thinking and Decision-Making\002_Scan_Checks_Captures_and_Threats.pdf
+003. Identify the Opponent's Threat - Thinking and Decision-Making\003_Identify_the_Opponents_Threat.pdf
+004. Generate Multiple Candidate Moves - Thinking and Decision-Making\004_Generate_Multiple_Candidate_Moves.pdf
+005. Compare Moves, Do Not Defend Your First Idea - Thinking and Decision-Making\005_Compare_Moves_Do_Not_Defend_Your_First_Idea.pdf
+006. Evaluate the Resulting Position - Thinking and Decision-Making\006_Evaluate_the_Resulting_Position.pdf
+007. Improve the Worst-Placed Piece - Thinking and Decision-Making\007_Improve_the_Worst_Placed_Piece.pdf
+008. Ask What Changed - Thinking and Decision-Making\008_Ask_What_Changed.pdf
+009. Prefer Reversible Moves Before Irreversible Ones - Thinking and Decision-Making\009_Prefer_Reversible_Moves_Before_Irreversible_Ones.pdf
+010. Use Principles to Narrow and Calculation to Decide - Thinking and Decision-Making\010_Use_Principles_to_Narrow_and_Calculation_to_Decide.pdf
+011. Calculate Forcing Lines First - Calculation and Tactical Awareness\011_Calculate_Forcing_Lines_First.pdf
+012. Stop at Quiet Positions and Evaluate - Calculation and Tactical Awareness\012_Stop_at_Quiet_Positions_and_Evaluate.pdf
+013. Track Loose Pieces - Calculation and Tactical Awareness\013_Track_Loose_Pieces.pdf
+014. Count Attackers and Defenders - Calculation and Tactical Awareness\014_Count_Attackers_and_Defenders.pdf
+015. Search for Zwischenzugs - Calculation and Tactical Awareness\015_Search_for_Zwischenzugs.pdf
+016. Find Overloaded Defenders - Calculation and Tactical Awareness\016_Find_Overloaded_Defenders.pdf
+017. Remove the Defender - Calculation and Tactical Awareness\017_Remove_the_Defender.pdf
+018. Use Deflection and Decoy - Calculation and Tactical Awareness\018_Use_Deflection_and_Decoy.pdf
+019. Respect Back-Rank Geometry - Calculation and Tactical Awareness\019_Respect_Back_Rank_Geometry.pdf
+020. Verify the Best Defense - Calculation and Tactical Awareness\020_Verify_the_Best_Defense.pdf
+021. Control the Center - Opening and Development\021_Control_the_Center.pdf
+022. Develop Minor Pieces Efficiently - Opening and Development\022_Develop_Minor_Pieces_Efficiently.pdf
+023. Knights Often Develop Before Bishops - Opening and Development\023_Knights_Often_Develop_Before_Bishops.pdf
+024. Castle Before Launching an Attack - Opening and Development\024_Castle_Before_Launching_an_Attack.pdf
+025. Avoid Early Queen Adventures - Opening and Development\025_Avoid_Early_Queen_Adventures.pdf
+026. Connect the Rooks - Opening and Development\026_Connect_the_Rooks.pdf
+027. Do Not Hunt Pawns While Behind in Development - Opening and Development\027_Do_Not_Hunt_Pawns_While_Behind_in_Development.pdf
+028. Open the Center When Better Developed - Opening and Development\028_Open_the_Center_When_Better_Developed.pdf
+029. Preserve Move-Order Flexibility - Opening and Development\029_Preserve_Move_Order_Flexibility.pdf
+030. Learn Opening Plans More Than Moves - Opening and Development\030_Learn_Opening_Plans_More_Than_Moves.pdf
+031. A Pawn Center Is Both Asset and Target - Center and Space\031_A_Pawn_Center_Is_Both_Asset_and_Target.pdf
+032. Attack a Pawn Chain at Its Base - Center and Space\032_Attack_a_Pawn_Chain_at_Its_Base.pdf
+033. Attack Where Your Pawn Chain Points - Center and Space\033_Attack_Where_Your_Pawn_Chain_Points.pdf
+034. Counter a Flank Attack in the Center - Center and Space\034_Counter_a_Flank_Attack_in_the_Center.pdf
+035. Trade Pieces When Cramped - Center and Space\035_Trade_Pieces_When_Cramped.pdf
+036. Do Not Close the Center Without a Plan - Center and Space\036_Do_Not_Close_the_Center_Without_a_Plan.pdf
+037. Convert Space Into Piece Improvement - Center and Space\037_Convert_Space_Into_Piece_Improvement.pdf
+038. Use Outposts Behind Fixed Pawns - Center and Space\038_Use_Outposts_Behind_Fixed_Pawns.pdf
+039. Open Lines When Your Pieces Are Better - Center and Space\039_Open_Lines_When_Your_Pieces_Are_Better.pdf
+040. Maintain Useful Tension - Center and Space\040_Maintain_Useful_Tension.pdf
+041. Pawns Cannot Move Backward - Pawn Structure\041_Pawns_Cannot_Move_Backward.pdf
+042. Avoid Unnecessary Pawn Weaknesses - Pawn Structure\042_Avoid_Unnecessary_Pawn_Weaknesses.pdf
+043. Passed Pawns Must Be Advanced With Support - Pawn Structure\043_Passed_Pawns_Must_Be_Advanced_With_Support.pdf
+044. Blockade a Passed Pawn - Pawn Structure\044_Blockade_a_Passed_Pawn.pdf
+045. Create a Passed Pawn From a Majority - Pawn Structure\045_Create_a_Passed_Pawn_From_a_Majority.pdf
+046. An Isolated Queen Pawn Is Dynamic and Static - Pawn Structure\046_An_Isolated_Queen_Pawn_Is_Dynamic_and_Static.pdf
+047. A Backward Pawn Is Weak Only If It Can Be Attacked - Pawn Structure\047_A_Backward_Pawn_Is_Weak_Only_If_It_Can_Be_Attacked.pdf
+048. Doubled Pawns Can Give Useful Lines - Pawn Structure\048_Doubled_Pawns_Can_Give_Useful_Lines.pdf
+049. Prepare Pawn Breaks - Pawn Structure\049_Prepare_Pawn_Breaks.pdf
+050. King Pawn Moves Create Lasting Holes - Pawn Structure\050_King_Pawn_Moves_Create_Lasting_Holes.pdf
+051. Knights Need Stable Outposts - Piece Play and Coordination\051_Knights_Need_Stable_Outposts.pdf
+052. Bishops Need Open Diagonals - Piece Play and Coordination\052_Bishops_Need_Open_Diagonals.pdf
+053. The Bishop Pair Prefers Open Positions - Piece Play and Coordination\053_The_Bishop_Pair_Prefers_Open_Positions.pdf
+054. Good and Bad Bishops Depend on Pawn Placement - Piece Play and Coordination\054_Good_and_Bad_Bishops_Depend_on_Pawn_Placement.pdf
+055. Place Rooks on Open Files - Piece Play and Coordination\055_Place_Rooks_on_Open_Files.pdf
+056. Double Rooks Before Invading - Piece Play and Coordination\056_Double_Rooks_Before_Invading.pdf
+057. Coordinate the Queen With Minor Pieces - Piece Play and Coordination\057_Coordinate_the_Queen_With_Minor_Pieces.pdf
+058. Exchange the Opponent's Most Active Piece - Piece Play and Coordination\058_Exchange_the_Opponents_Most_Active_Piece.pdf
+059. Do Not Trade Your Best Piece Without Compensation - Piece Play and Coordination\059_Do_Not_Trade_Your_Best_Piece_Without_Compensation.pdf
+060. Reroute a Misplaced Piece - Piece Play and Coordination\060_Reroute_a_Misplaced_Piece.pdf
+061. Bring More Pieces Than the Defender - Attacking Play\061_Bring_More_Pieces_Than_the_Defender.pdf
+062. Open Lines Toward the King - Attacking Play\062_Open_Lines_Toward_the_King.pdf
+063. Opposite-Side Castling Makes Time Critical - Attacking Play\063_Opposite_Side_Castling_Makes_Time_Critical.pdf
+064. Exchange the Strongest Defender - Attacking Play\064_Exchange_the_Strongest_Defender.pdf
+065. Fix a Weakness Before Attacking It - Attacking Play\065_Fix_a_Weakness_Before_Attacking_It.pdf
+066. Create a Second Weakness - Attacking Play\066_Create_a_Second_Weakness.pdf
+067. Launch a Pawn Storm Only With Central Security - Attacking Play\067_Launch_a_Pawn_Storm_Only_With_Central_Security.pdf
+068. Demand Concrete Compensation for a Sacrifice - Attacking Play\068_Demand_Concrete_Compensation_for_a_Sacrifice.pdf
+069. Keep Queens When the King Is the Main Target - Attacking Play\069_Keep_Queens_When_the_King_Is_the_Main_Target.pdf
+070. Use Threats to Gain Tempi - Attacking Play\070_Use_Threats_to_Gain_Tempi.pdf
+071. Identify the Real Threat - Defense and Prophylaxis\071_Identify_the_Real_Threat.pdf
+072. Meet a Wing Attack in the Center - Defense and Prophylaxis\072_Meet_a_Wing_Attack_in_the_Center.pdf
+073. Trade Attacking Pieces - Defense and Prophylaxis\073_Trade_Attacking_Pieces.pdf
+074. Return Material to Neutralize the Initiative - Defense and Prophylaxis\074_Return_Material_to_Neutralize_the_Initiative.pdf
+075. Create a Flight Square - Defense and Prophylaxis\075_Create_a_Flight_Square.pdf
+076. Defend Actively With Counter-Threats - Defense and Prophylaxis\076_Defend_Actively_With_Counter_Threats.pdf
+077. Avoid Weakening a Color Complex - Defense and Prophylaxis\077_Avoid_Weakening_a_Color_Complex.pdf
+078. Simplify Pressure Into a Defensible Ending - Defense and Prophylaxis\078_Simplify_Pressure_Into_a_Defensible_Ending.pdf
+079. Ask What the Opponent Wants - Defense and Prophylaxis\079_Ask_What_the_Opponent_Wants.pdf
+080. Overprotect a Critical Square - Defense and Prophylaxis\080_Overprotect_a_Critical_Square.pdf
+081. Activate the King - Endgame Technique\081_Activate_the_King.pdf
+082. Put the Rook Behind a Passed Pawn - Endgame Technique\082_Put_the_Rook_Behind_a_Passed_Pawn.pdf
+083. Use the Opposition - Endgame Technique\083_Use_the_Opposition.pdf
+084. Create an Outside Passed Pawn - Endgame Technique\084_Create_an_Outside_Passed_Pawn.pdf
+085. Create a Distant Passed Pawn Before Cashing It In - Endgame Technique\085_Create_a_Distant_Passed_Pawn_Before_Cashing_It_In.pdf
+086. Centralize Before Starting a Pawn Race - Endgame Technique\086_Centralize_Before_Starting_a_Pawn_Race.pdf
+087. Do Not Rush Pawn Moves - Endgame Technique\087_Do_Not_Rush_Pawn_Moves.pdf
+088. Trade Pieces, Not Pawns, When Ahead - Endgame Technique\088_Trade_Pieces_Not_Pawns_When_Ahead.pdf
+089. Choose Rook Activity Over Pawn Grabbing - Endgame Technique\089_Choose_Rook_Activity_Over_Pawn_Grabbing.pdf
+090. Calculate Pawn Races Exactly - Endgame Technique\090_Calculate_Pawn_Races_Exactly.pdf
+091. Perform a Blunder Check - Improvement and Practical Performance\091_Perform_a_Blunder_Check.pdf
+092. Spend Time at Critical Moments - Improvement and Practical Performance\092_Spend_Time_at_Critical_Moments.pdf
+093. Analyze Before Using an Engine - Improvement and Practical Performance\093_Analyze_Before_Using_an_Engine.pdf
+094. Classify Mistakes by Cause - Improvement and Practical Performance\094_Classify_Mistakes_by_Cause.pdf
+095. Build Pattern Chunks - Improvement and Practical Performance\095_Build_Pattern_Chunks.pdf
+096. Use Spaced Repetition - Improvement and Practical Performance\096_Use_Spaced_Repetition.pdf
+097. Play Slow Games to Train Calculation - Improvement and Practical Performance\097_Play_Slow_Games_to_Train_Calculation.pdf
+098. Turn Principles Into Questions - Improvement and Practical Performance\098_Turn_Principles_Into_Questions.pdf
+099. Practice at the Edge of Your Ability - Improvement and Practical Performance\099_Practice_at_the_Edge_of_Your_Ability.pdf
+100. Consistency Beats Occasional Brilliance - Improvement and Practical Performance\100_Consistency_Beats_Occasional_Brilliance.pdf

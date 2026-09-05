@@ -1,0 +1,594 @@
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The compact shell"]
+
+{ Volume 1: The King's Indian from First Principles. Black lets White occupy the center because the pawns can become targets and because development is completed without fixing the central structure too soon. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 { Black plan: Castle, watch e5 and c5, and keep every piece connected to a future break. White plan: White wants to stabilize e4 and d4, finish development, and use the extra space without creating hooks. Decision: Decide whether the next useful act is ...e5, ...c5, or a preparation that makes one break sound. Warning: Copying the setup without challenging the center leaves Black cramped for no compensation. Memory: The shell is only the launch platform; the break is the opening. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The classical closed center"]
+
+{ Volume 1: The King's Indian from First Principles. After d5 the center becomes a directional map: White normally expands on the queenside while Black prepares kingside play. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 { Black plan: Re-route the f6-knight, prepare ...f5, and count the race before pushing pawns. White plan: White seeks c5, b4, and pressure against c7 or d6. Decision: Compare the speed of ...f5 with White's c5 break and change plans if the center can reopen. Warning: A kingside pawn storm is unsound when White can open the center against Black's king first. Memory: Closed chains point the wings, but tempi decide the race. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The flank challenge with c5"]
+
+{ Volume 1: The King's Indian from First Principles. The ...c5 system attacks d4 from the flank and often produces Benoni-like structures rather than a locked Mar del Plata. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. O-O exd5 9. cxd5 Re8 { Black plan: Pressure e4 and d5, use the e-file, and seek ...b5 or ...Nbd7 according to White's setup. White plan: White uses the space advantage, e4-e5 possibilities, and queenside majority. Decision: Once ...c5 and ...e6 change the skeleton, stop using automatic closed-center attacking rules. Warning: Playing ...f5 by habit can weaken e6 and the king before the pieces are ready. Memory: Name the resulting structure before choosing the plan. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The e5 lock"]
+
+{ Volume 2: Central Breaks and Structure Recognition. The ...e5 contact invites d5, after which Black accepts less space in return for a clear kingside break and useful knight routes. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 { Black plan: Use ...Nd7, ...f5, and often ...Nf6 or ...f4 while keeping c7 and d6 under control. White plan: White expands with c5 and b4 and may trade on d6. Decision: Choose the moment of ...f5 by checking whether White can answer with exf5, c5, or a central opening. Warning: Pushing ...f5 before the pieces can use the opened files produces weaknesses rather than an attack. Memory: ...e5 asks d5 a question; ...f5 answers the closed center. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The c5 transformation"]
+
+{ Volume 2: Central Breaks and Structure Recognition. The paired breaks ...c5 and ...e6 undermine White's center and can exchange space for targets and active lines. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. O-O exd5 9. cxd5 Re8 { Black plan: Attack e4, contest the e-file, and prepare queenside play rather than forcing a kingside race. White plan: White may advance e5, defend d5, or use b4 to gain space. Decision: Calculate each central capture because the order determines who owns the e-file and whether d5 is weak or protected. Warning: Calling every g6-Bg7 position a King's Indian can hide a full transition to Benoni logic. Memory: The pawn skeleton outranks the opening name. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The delayed c6 lever"]
+
+{ Volume 2: Central Breaks and Structure Recognition. ...c6 can challenge d5, prepare ...Nc5, or support ...d5 without immediately fixing the queenside. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Re1 c6 9. Bf1 exd4 10. Nxd4 Re8 { Black plan: Keep the center flexible, pressure e4, and use the e-file after exchanges. White plan: White may hold the center, play d5, or exploit the slower knight on a6. Decision: Ask whether ...c6 prepares ...d5, invites d5, or merely creates a target before committing. Warning: A preparation move is wasted if the intended break never becomes possible. Memory: Every pawn move must name the transformation it prepares. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Main-line entry"]
+
+{ Volume 3: The Classical System Repertoire Map. This move order reaches the main closed center with maximum pressure on d4 and a clear division of wings. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 { Black plan: Prepare the knight route and ...f5 while monitoring White's c5 and b4 timing. White plan: White chooses among Ne1, Nd2, b4, Bg5, or a4 to accelerate queenside play. Decision: On move nine identify White's setup before choosing ...Nd7, ...Nh5, ...a5, or another preparation. Warning: Treating all ninth moves alike loses vital tempi in a race. Memory: The branch is identified by White's first queenside commitment. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The quieter Orthodox route"]
+
+{ Volume 3: The Classical System Repertoire Map. ...Nbd7 avoids an immediate commitment of the queen knight and supports ...c6, though it gives different pressure than ...Nc6. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1 c6 9. Bf1 Re8 10. Rb1 a6 { Black plan: Prepare a central challenge and keep the rook useful on e8. White plan: White gains space, supports b4, and may keep the center fluid. Decision: Compare the benefits of ...Nc6 pressure with ...Nbd7 flexibility before selecting a repertoire branch. Warning: Mixing the plans can place both knights on passive squares. Memory: A move order is a package of piece routes, not a cosmetic choice. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Gligoric's Be3 question"]
+
+{ Volume 3: The Classical System Repertoire Map. White develops the bishop before castling and asks Black to reveal the kingside structure. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 { Black plan: Gain time on the bishop, control f4, and decide whether the space gained by ...g5 is worth the dark-square cost. White plan: White wants d5, Qd2, and queenside castling or a stable central edge. Decision: Before ...g5 calculate whether the center is closed enough and whether h5 becomes a weakness. Warning: Chasing the bishop without central safety can expose Black's own king. Memory: A tempo gain is real only when the pawn weaknesses are affordable. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The knight rerouting machine"]
+
+{ Volume 4: Mar del Plata - Black's Attacking Engine. The f6-knight leaves the f-pawn free, then returns after ...f5 to support ...f4 and kingside entry squares. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 { Black plan: Coordinate ...f5, ...Nf6, ...f4, and a later ...g5 without abandoning the queenside. White plan: White prepares c5, b4, and pressure on d6 while using f3 to hold e4. Decision: Count whether the knight route loses too many tempi compared with White's c5 break. Warning: Automatic maneuvering can be too slow if White opens the queenside immediately. Memory: The knight moves twice because each square serves a different phase. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The pawn-chain attack"]
+
+{ Volume 4: Mar del Plata - Black's Attacking Engine. Black fixes space with ...f4 and ...g5, then uses ...h5 to create contact rather than merely accumulating pawns. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. Be1 g5 14. g4 Ng6 15. h3 h5 { Black plan: Open a file or diagonal only when queen, rook, bishop, and knight can use it. White plan: White races with c5 and b4 or closes the kingside with g4 and h3. Decision: Decide whether to capture, advance, or maintain tension on g4 and h5 by calculating the opened lines. Warning: A pawn storm with no line-opening mechanism becomes an overextended wall. Memory: Pawns create contact; pieces deliver the attack. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The two-wing clock"]
+
+{ Volume 4: Mar del Plata - Black's Attacking Engine. White's c5 break and Black's ...f5-f4 advance are simultaneous plans whose value depends on arrival time and resulting access. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. c5 Nf6 12. f3 f4 13. b4 g5 14. cxd6 cxd6 { Black plan: Continue the kingside attack only if c7 and d6 can survive long enough. White plan: White opens the c-file, attacks d6, and may create a queenside passer. Decision: Count forcing moves on both wings instead of comparing how far the pawns have advanced. Warning: Ignoring a queenside breakthrough because the king is far away can lose material before the attack matures. Memory: The faster plan is the one with forcing moves, not the one with more space. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Nh5 response"]
+
+{ Volume 5: The Bayonet Attack and Queenside Expansion. ...Nh5 clears the f-pawn, eyes f4, and keeps the e7-knight available while White has committed to b4. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 { Black plan: Challenge with ...f5 and use ...c6 when it strikes White's center or b5 support. White plan: White wants c5, a4, and a queenside breakthrough before Black organizes. Decision: Test whether ...f5 or ...c6 must come first in the exact move order. Warning: Repeating a memorized order can allow e5 or Ne6 tactics. Memory: Against the Bayonet, move order is part of the defense. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The capture on f5"]
+
+{ Volume 5: The Bayonet Attack and Queenside Expansion. White can clarify f5 to slow the pawn roller, but the recapture activates Black's dark bishop and changes e4 pressure. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. g3 f5 11. exf5 Bxf5 12. Ng5 Nf6 { Black plan: Use the active bishop, contest e4, and avoid overextending before development catches up. White plan: White seeks g4, Ne6, or queenside play while the bishop is exposed. Decision: Compare ...Bxf5 with other recaptures by activity, king safety, and control of e4. Warning: A visually active bishop can become a tempo target if Black has no follow-up. Memory: Evaluate the recapture by the next two useful moves. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The a-file transformation"]
+
+{ Volume 5: The Bayonet Attack and Queenside Expansion. ...a5 attacks the base of White's expansion and can open the a-file before c5 becomes permanent. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. c5 f5 11. Ng5 Nf6 12. f3 a5 13. bxa5 Rxa5 { Black plan: Use the rook actively and pressure c5 or a2 while keeping the kingside break alive. White plan: White wants to stabilize c5, use Nb5, and gain access to d6. Decision: Calculate whether opening the a-file creates real entry squares or merely trades a pawn weakness. Warning: Opening a file is pointless if only the opponent can enter it. Memory: A flank break is justified by the line it opens for a piece. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Petrosian's early d5"]
+
+{ Volume 6: Petrosian, Gligoric, and Orthodox Alternatives. White closes the center before castling and uses Bg5 to reduce Black's easy kingside expansion. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6 9. Bh4 Na6 10. Nd2 Qe8 { Black plan: Gain queenside restraint with ...a5, reroute through a6, and prepare ...Nh7 or ...Nd7 with patience. White plan: White aims for g4, h4, and queenside play while limiting ...f5. Decision: Decide whether the first counterplay belongs on f5, c6, or the queenside based on White's king. Warning: Forcing a stock attack before White castles can send play toward the wrong wing. Memory: When the king is uncommitted, keep the attack flexible. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Gligoric bishop"]
+
+{ Volume 6: Petrosian, Gligoric, and Orthodox Alternatives. Be3 develops naturally and discourages some immediate plans, so Black uses piece attacks to gain time. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8. Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 { Black plan: Make the bishop's retreat meaningful by controlling f4 and preparing a central or kingside expansion. White plan: White wants d5, Qd2, and a stable route for the king. Decision: Check whether each pawn push attacks a piece and improves a future break. Warning: Pawn moves made only to chase can create permanent holes. Memory: Chase a piece only when the chasing pawn joins the plan. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Orthodox pressure with c6"]
+
+{ Volume 6: Petrosian, Gligoric, and Orthodox Alternatives. The Orthodox setup keeps central tension and prepares queenside expansion without committing to a closed-center race. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1 c6 9. Bf1 Re8 10. Rb1 a6 { Black plan: Coordinate ...c6, ...b5, and e-file pressure while retaining ...exd4. White plan: White supports b4 and may choose d5 only when it gains something concrete. Decision: Reassess immediately when the center closes; the piece placement then needs a new plan. Warning: Staying in a flexible shell after the position demands a break produces passivity. Memory: Flexibility has value only if you eventually choose. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The e5 and c6 structure"]
+
+{ Volume 7: The Saemisch System. Black challenges the broad center while White's f3 setup supports e4 and prepares queenside castling. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5 9. cxd5 a6 { Black plan: Pressure the center, prepare ...b5 or ...Nh5, and watch the king's destination. White plan: White seeks Qd2, long castling, g4, and a direct attack. Decision: Choose the wing of counterplay only after White reveals the king. Warning: Attacking the queenside automatically can open lines toward your own targets after opposite-side castling. Memory: In the Saemisch, king location determines the meaning of every pawn break. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The g4 space grab"]
+
+{ Volume 7: The Saemisch System. White uses g4-g5 to restrict f6 and claim kingside space before castling. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. g4 cxd5 9. cxd5 h5 10. g5 Nh7 { Black plan: Challenge the base, find squares for the knight, and counter in the center or queenside. White plan: White may follow with h4 and long castling, but the advanced pawns can become targets. Decision: Decide whether ...h5 creates a useful lock or gives White a hook. Warning: Closing the kingside can help White if Black has no counterplay elsewhere. Memory: A restraining pawn move must also create a route for the restricted piece. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Panno knight route"]
+
+{ Volume 7: The Saemisch System. The Panno setup provokes central expansion and then attacks it with ...c6 while keeping ...e5 available. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. d5 Ne5 8. f4 Ned7 9. Nf3 c6 { Black plan: Use the knight's retreat to support c5, e5, or b6 and avoid trapping it. White plan: White gains space with d5 and f4 and may advance e5. Decision: Treat the retreat square as part of the plan, not as a concession made without a follow-up. Warning: Provoking pawns is only useful if the resulting targets can be attacked. Memory: A retreat earns its tempo by making the opponent's center less stable. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The c5 and e6 challenge"]
+
+{ Volume 8: The Four Pawns Attack. White has built maximum space, so Black attacks the chain before development makes it untouchable. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5 9. cxd5 { Black plan: Pressure e4 and d5, use the e-file, and finish development with tempo. White plan: White may push e5, support the center, or expand on the kingside. Decision: Calculate the central capture order and whether e4-e5 is dangerous. Warning: Waiting allows White to complete development behind a space advantage. Memory: Against four pawns, counterattack the center before admiring it. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The e5 advance"]
+
+{ Volume 8: The Four Pawns Attack. White's e5 push gains space but also creates tactical contact with the f6-knight and e-file. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 { Black plan: Attack e5, use ...Ng4 or ...Nfd7 routes, and exploit the exposed central king. White plan: White wants to drive the knight and maintain the pawn wedge. Decision: Calculate every forcing response to e5 before choosing a routine developing move. Warning: If Black retreats passively, the center can become a stable attacking platform. Memory: A pawn advance is strongest before contact and weakest immediately after it creates targets. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Na6 alternative"]
+
+{ Volume 8: The Four Pawns Attack. ...Na6 develops away from the e-pawn's advance and prepares pressure on e4 or c5. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Na6 7. Be2 e5 8. fxe5 dxe5 9. d5 Nc5 { Black plan: Use the knight actively on c5 and challenge the center with ...c6 or ...c5. White plan: White closes with d5 and tries to preserve space while completing development. Decision: Judge whether the c5 outpost is stable and whether White can b4 the knight. Warning: A knight on the rim is justified only by a concrete route. Memory: Name the destination before choosing the detour. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The symmetrical bishop battle"]
+
+{ Volume 9: The Fianchetto Variation. Both kings are safe and both bishops influence the long diagonal, so central structure and breaks matter more than a direct pawn storm. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 c6 { Black plan: Prepare ...c6, ...exd4, or ...Re8 and seek useful queenside expansion. White plan: White wants d5, h3, Be3, and control of the center without weakening the king. Decision: Decide whether closing with ...e5 is active or whether ...c5 gives better pressure. Warning: Copying Mar del Plata kingside play ignores White's fianchetto defense. Memory: Against a fianchetto, attack the center before the shelter. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The e-file exchange"]
+
+{ Volume 9: The Fianchetto Variation. Exchanging on d4 can expose e4 and create active e-file pressure without conceding the long diagonal. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 c6 9. h3 exd4 10. Nxd4 Re8 11. Re1 Nc5 { Black plan: Use rooks and knights against e4 while stopping White's queenside expansion. White plan: White centralizes the knight and may use Be3, Qd2, or b4. Decision: Choose ...exd4 only when the opened file and piece activity compensate for releasing tension. Warning: Clarifying the center can solve White's space problem for free. Memory: Release tension only when the open line belongs to you. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The closed fianchetto center"]
+
+{ Volume 9: The Fianchetto Variation. White closes the center and builds e4, producing a slower battle with queenside and central maneuvering. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. d5 a5 9. e4 Nc5 10. Be3 { Black plan: Restrain b4 with ...a5, use c5 or e7 routes, and search for ...f5 only when supported. White plan: White prepares Ne1-d3, b3, or queenside space while the g2-bishop remains influential. Decision: Check whether ...f5 opens the g2-bishop toward b7 or creates real kingside access. Warning: A thematic break can improve the opponent's best piece. Memory: Ask which bishop benefits before opening a diagonal. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Averbakh bishop"]
+
+{ Volume 10: Averbakh and Makogonov Systems. Bg5 restrains easy ...e5 and can discourage ...f5, so Black strikes with ...c5 before White consolidates. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5 9. exd5 { Black plan: Challenge d4 and d5, use the e-file, and develop the queen knight according to the structure. White plan: White wants Qd2, h4, and a stable space advantage. Decision: Decide whether the center should be opened before White castles. Warning: A slow setup lets White complete development with every strategic question answered. Memory: When one break is restrained, test the other break immediately. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Makogonov's h3 and g4"]
+
+{ Volume 10: Averbakh and Makogonov Systems. White prevents ...Ng4 and gains kingside space, but the pawn moves delay other development. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 Na6 8. g4 Nc5 9. f3 a5 { Black plan: Use ...Na6-c5, restrain b4 with ...a5, and target the extended kingside later. White plan: White supports g5, h4, and often queenside castling or a kingside space bind. Decision: Choose counterplay based on the king's final location and the stability of e4. Warning: Reacting to every pawn push can leave Black without a central plan. Memory: Attack the base of the space, not the visible tip. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The restrained classical center"]
+
+{ Volume 10: Averbakh and Makogonov Systems. With h3 included, White controls g4 and can develop the bishop freely, while Black gains time for queenside restraint. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 a5 8. Bg5 Na6 9. Nd2 Qe8 { Black plan: Prepare ...Nd7, ...Nh7, or ...c6 and avoid committing the f-pawn without access. White plan: White seeks g4, Be2, and a later queenside break. Decision: Ask whether the first fight is for f5, c5, or the king's destination. Warning: Blindly forcing ...f5 can meet a prepared g4 clamp. Memory: A prevented maneuver is information: choose a different route. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Early Bg5"]
+
+{ Volume 11: Early e4 Deviations. White uses the bishop to influence d8-h4 and slow the natural ...e5 break. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Qd2 c5 7. d5 e6 { Black plan: Counter with ...c5, question d4, and keep the knight routes flexible. White plan: White may castle long and begin h4-h5. Decision: Read the king placement before choosing which wing to open. Warning: Copying a closed-center attack before the center is closed can expose Black. Memory: An unusual move matters through the plan it enables. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Bd3 setup"]
+
+{ Volume 11: Early e4 Deviations. Bd3 supports the kingside and Nge2 preserves f-pawn mobility, but the pieces can obstruct one another. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 e5 7. d5 c6 8. O-O cxd5 9. cxd5 { Black plan: Challenge the center and make White prove that the setup can coordinate. White plan: White may play f3 or f4 and seek a direct kingside expansion. Decision: Decide whether opening the center exploits White's slower kingside development. Warning: Closing automatically may give White time to arrange the attack. Memory: When White's pieces crowd one wing, open the center if your king is safer. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Nge2 clamp"]
+
+{ Volume 11: Early e4 Deviations. Nge2-g3 supports f5 and h5 ideas while leaving the f-pawn free, but the knight can become a target. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 e5 7. d5 h5 8. Bg5 Qe8 { Black plan: Use ...h5 and queen coordination to limit White's kingside space while preserving central play. White plan: White seeks h4, Be2, and a slow bind. Decision: Judge ...h5 by whether it fixes a target or merely creates one on g6. Warning: Flank prevention without central activity can become self-restraint. Memory: A useful hook is one your pieces can attack. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "London structure"]
+
+{ Volume 12: Anti-King's Indian Systems. Without c4 and e4, White gives Black more freedom to prepare ...e5 and to challenge the center directly. } 1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nbd7 7. h3 Qe8 { Black plan: Use ...e5, ...Nh5, or ...c5 according to White's support of d4 and the bishop's retreat squares. White plan: White wants a stable setup, c3, Nbd2, and sometimes h3 or Ne5. Decision: Do not spend tempi on a KID maneuver designed for a center White never built. Warning: A universal setup becomes passive when it ignores the missing central pawn. Memory: Attack the center that exists, not the one you expected. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Torre with Bg5"]
+
+{ Volume 12: Anti-King's Indian Systems. The early bishop pin aims for simple development and e4, so Black occupies or attacks the center before White completes the plan. } 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2 c5 { Black plan: Use ...d5 and ...c5 to gain direct central play and question the bishop's role. White plan: White prepares c3, Bd3, and e4. Decision: Choose a central structure that makes Bg5 less relevant. Warning: Playing ...d6 and waiting can concede a comfortable version of White's system. Memory: When White develops modestly, claim the center modesty leaves available. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Barry and 150-style attack"]
+
+{ Volume 12: Anti-King's Indian Systems. White builds an e4 center without c4 and often plans long castling and h-pawn play. } 1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Be3 O-O 6. Qd2 c6 { Black plan: Challenge with ...e5 or ...b5, create an escape route for the queen, and calculate opposite-wing races. White plan: White wants Bh6, long castling, and h4-h5. Decision: Treat the position as a Pirc-like attack with an extra d4 move, not as a closed KID. Warning: Castling into a prepared battery without planning ...c6 or counterplay invites a direct attack. Memory: Similar piece setups can demand different plans when one pawn is missing. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "English transposition with d4"]
+
+{ Volume 13: English and Reti Transpositions. Once White adds d4 and e4, the normal Classical KID map returns despite the different move order. } 1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O { Black plan: Use the same central-break repertoire and identify whether d5 closes the center. White plan: White may exploit move-order details before committing Nf3 or Be2. Decision: Confirm that every piece and pawn has reached the intended version before recalling theory. Warning: Remembering the opening name without checking the exact position causes move-order errors. Memory: Transposition is equality of positions, not similarity of appearance. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Botvinnik-style English center"]
+
+{ Volume 13: English and Reti Transpositions. White controls d5 with c4 and e4 but has not played d4, so the central geometry is different from the KID. } 1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 d6 6. Nge2 e5 7. O-O { Black plan: Challenge d5, use ...c6 or ...Nc6, and consider queenside or kingside play based on pawn locks. White plan: White may play d3, h3, and f4 while keeping d4 flexible. Decision: Do not force ...f5 merely because both sides have fianchettoed. Warning: A KID-looking shell can hide a Botvinnik structure with different breaks. Memory: Count central pawns before naming the plan. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Symmetrical Reti center"]
+
+{ Volume 13: English and Reti Transpositions. With neither c-pawn committed, the game is a maneuvering struggle rather than a standard KID space concession. } 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 e5 { Black plan: Develop, contest d5 and f5, and choose ...c5 or ...Nc6 according to White's setup. White plan: White may use Nbd2, Re1, and c3 or c4 to build later. Decision: Preserve flexibility until the c-pawns reveal the true structure. Warning: Launching a wing attack while the center can open is premature. Memory: A setup is not a structure until the central pawns speak. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The f4 wedge"]
+
+{ Volume 14: King's Indian Tactical Patterns. The pawn on f4 gains space, restricts g3 and e3, and prepares piece entry, but it also closes the f-file until contact is created. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. f3 f4 { Black plan: Bring pieces toward g4, h4, and f4 before opening the structure. White plan: White may play g4, h3, or c5 and race on the other wing. Decision: Decide whether ...g5, ...g4, or a piece maneuver is the next forcing step. Warning: Advancing the pawn wall without pieces creates targets instead of threats. Memory: The wedge restricts; another move must open access. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The g4 contact"]
+
+{ Volume 14: King's Indian Tactical Patterns. The g-pawns create a hook, and ...h5 can force a file or fix White's shelter for a later sacrifice. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. Be1 g5 14. g4 Ng6 15. h3 h5 { Black plan: Calculate captures on g4 and h4 with queen and rook routes included. White plan: White tries to keep the kingside closed while breaking with c5. Decision: Count effective attackers and defenders before every pawn sacrifice. Warning: A familiar attacking shape does not prove a sacrifice. Memory: Pattern recognition finds the move; calculation earns it. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The counterblow during the race"]
+
+{ Volume 14: King's Indian Tactical Patterns. Both sides have advanced, so a forcing move on either wing can make the other plan irrelevant. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. f3 f4 12. b4 g5 13. c5 Ng6 { Black plan: Search checks, captures, and direct threats before continuing the pawn script. White plan: White may break cxd6, Nb5, or b5 while Black attacks the king. Decision: Recalculate from the actual board after every pawn contact. Warning: Continuing a memorized attack after the queenside opens can lose material with no mating compensation. Memory: Every contact resets the calculation tree. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The e7-d7-f6 knight circuit"]
+
+{ Volume 15: Piece Maneuvers and Strategic Coordination. The knight's retreat clears f7-f5, supports c5 and f4 from d7, then returns to f6 after the pawn has advanced. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 { Black plan: Time the route against White's queenside break and preserve useful squares for the other knight. White plan: White gains tempi for c5, b4, and pressure on d6. Decision: Ask what each knight move enables immediately. Warning: A thematic circuit played too slowly becomes pure loss of time. Memory: A maneuver is a sequence of jobs, not a tour of squares. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The dark bishop after the center closes"]
+
+{ Volume 15: Piece Maneuvers and Strategic Coordination. The g7-bishop is blocked by e5 and d4, but it defends the king, pressures the center indirectly, and may awaken after captures. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 { Black plan: Keep the bishop unless an exchange removes a key defender or opens decisive dark squares. White plan: White may seek c5 and cxd6, changing the long diagonal. Decision: Forecast which central exchange will free the bishop. Warning: Calling the bishop bad can lead to an unnecessary trade that weakens the king. Memory: A blocked bishop may be a sleeping tactical piece and an active defender. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Queen and rook entry routes"]
+
+{ Volume 15: Piece Maneuvers and Strategic Coordination. Once pawn contact is prepared, the queen may enter through e8, g6, or h4 while rooks use f7-f8 or g-file openings. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. Be1 g5 14. g4 Ng6 15. h3 h5 { Black plan: Choose an entry route based on the file that will open, not on a memorized diagram. White plan: White may trade queens, close lines, or counter in the center. Decision: Before moving the queen, identify the opponent's forcing reply and the queen's retreat. Warning: A queen placed early can be chased while the queenside collapses. Memory: Heavy pieces belong behind the line that will actually open. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Meeting the Bayonet pressure"]
+
+{ Volume 16: Defense, Resilience, and Counterplay. Black combines kingside activity with a timely central challenge so White cannot expand without calculation. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 c6 { Black plan: Use ...c6 to question d5 and maintain enough queenside defense to keep the attack credible. White plan: White wants c5, a4, and b5 while exploiting the h5-knight. Decision: If the kingside attack is not forcing, spend a tempo reducing White's strongest break. Warning: Refusing all defensive moves is not bravery; it is loss of control. Memory: Counterattack works only while the position survives. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Neutralizing c5 with capture"]
+
+{ Volume 16: Defense, Resilience, and Counterplay. Black can sometimes meet c5 by exchanging the advanced pawn and simplifying White's queenside initiative. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. c5 dxc5 12. Nxc5 Nxc5 { Black plan: Calculate the resulting piece activity and whether the d6 weakness disappears or becomes worse. White plan: White uses the recapture to activate a knight and open files. Decision: Choose capture only if the resulting trade reduces White's force without killing your own play. Warning: Automatic closure of the queenside can leave a permanent cramp. Memory: Defense is a favorable transformation, not merely a blocked file. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Pausing the pawn storm"]
+
+{ Volume 16: Defense, Resilience, and Counterplay. White's c5 break may become more urgent than another kingside pawn push, requiring Black to improve a piece or defend a target. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. Be1 g5 14. c5 { Black plan: Preserve attacking potential while answering the concrete queenside threat. White plan: White attacks d6 and c7 and may use Nb5. Decision: Compare a forcing attack move with one consolidating move before deciding. Warning: Playing the "most King's Indian" move can be less accurate than playing the position. Memory: Identity never outranks necessity. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The open-center queen trade"]
+
+{ Volume 17: Exchanges, Endgames, and Transformations. When White releases the center, a queen trade can remove attacking chances and expose development and pawn-endgame details. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8. Qxd8 Rxd8 { Black plan: Activate the rook on d8, develop quickly, and judge e4 as a target rather than chasing a vanished kingside attack. White plan: White seeks simplification, Be3, and control of the d-file. Decision: Count king activity and central weaknesses before welcoming the queen trade. Warning: Assuming every queenless KID favors the side with more space can miss Black's active pieces. Memory: After queens leave, replace attack language with activity language. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The fianchetto central exchange"]
+
+{ Volume 17: Exchanges, Endgames, and Transformations. The exchange on d4 transforms space into piece pressure and often produces a strategic middlegame that may simplify further. } 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4 c6 9. h3 exd4 10. Nxd4 Re8 11. Re1 Nc5 { Black plan: Use active rooks and knights, pressure e4, and avoid a passive defense of d6. White plan: White seeks Be3, Qd2, and exchanges that preserve the better bishop. Decision: Forecast which minor piece you want in the ending before initiating trades. Warning: Trading all active pieces can leave Black with only weaknesses. Memory: Simplify the opponent's activity, not your own. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Saemisch structural liquidation"]
+
+{ Volume 17: Exchanges, Endgames, and Transformations. Central exchanges leave White with space and Black with clear targets and queenside breaks. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5 9. cxd5 a6 { Black plan: Use ...b5 and piece pressure to force White to defend the advanced center. White plan: White may castle long and use the open c-file or kingside pawns. Decision: Judge the ending by pawn targets, bishop scope, and king routes, not by space alone. Warning: Entering an ending with a permanently weak d6 pawn requires active compensation. Memory: A good transformation leaves a target you can reach. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.1"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "Classical Pirc boundary"]
+
+{ Volume 18: Pirc Bridge and Lifetime Repertoire System. The piece shell resembles the KID, but White's c-pawn is uncommitted and the center can open faster, so Black cannot assume a closed-wing race. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O { Black plan: Challenge with ...e5 or ...c6 and keep the queen and king ready for direct central tactics. White plan: White may castle quickly, play Re1, and use e5 or h3. Decision: Count the central pawns and ask how quickly the e- and d-files can open. Warning: Importing automatic ...f5 attacks from the KID can expose Black before development is complete. Memory: Same bishop, different center, different opening. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.2"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The Austrian Attack"]
+
+{ Volume 18: Pirc Bridge and Lifetime Repertoire System. White uses the f-pawn immediately, creating more central force and more dark-square and king-safety responsibility. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O { Black plan: Strike the center with ...c5 or ...e5 and calculate e4-e5 before slow moves. White plan: White wants e5, Be3, Qd2, and a direct kingside attack. Decision: Treat every central break as a tactical event and verify the king's escape squares. Warning: Passive KID-style maneuvering lets White's broad center attack before it becomes a target. Memory: In the Pirc, the center often must be hit before it closes. } *
+
+[Event "KID Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.3"]
+[White "Reference line"]
+[Black "Black repertoire"]
+[Result "*"]
+[Variation "The 150 Attack and study system"]
+
+{ Volume 18: Pirc Bridge and Lifetime Repertoire System. White aims for Bh6, long castling, and h-pawn contact, so Black builds queenside counterplay and a retreat square for the queen. } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 { Black plan: Use ...b5, ...Nbd7, and central breaks while tracking Bh6 and e5. White plan: White seeks a direct opposite-wing attack. Decision: Maintain separate KID and Pirc files, but tag shared patterns such as fianchetto defense, central breaks, and race counting. Warning: Combining the repertoires into one move tree hides the decisive difference made by White's c-pawn. Memory: Transfer questions and patterns; do not transfer moves blindly. } *
+

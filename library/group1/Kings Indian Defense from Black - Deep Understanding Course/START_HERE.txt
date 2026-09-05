@@ -1,0 +1,60 @@
+KING'S INDIAN DEFENSE FROM BLACK - DEEP UNDERSTANDING COURSE
+==================================================================
+
+18 PDF volumes | 108 deep lessons | 54 legal reference lines | 540 PDF pages
+
+This is a separately written, concept-first Black repertoire. It does not revise or
+duplicate the earlier compact King's Indian book. Every scenario is taught twice:
+first as a recognition problem, then as an execution problem. Each lesson contains
+two diagram pages, a move-by-move walkthrough, exercises, and an answer key.
+
+STARTING REPERTOIRE
+-------------------
+Against the Classical system, the course anchors Black with ...e5 and the main
+...Nc6 / ...Ne7 closed-center structures. It also explains the ...Nbd7 alternative.
+Against Saemisch, Four Pawns, Fianchetto, Averbakh, Makogonov, London, Torre,
+English, and Reti move orders, use the dedicated volumes rather than one setup blindly.
+Volume 18 explains the Pirc bridge against 1.e4 and the important structural differences.
+
+HOW TO STUDY
+------------
+1. Read one four-page lesson and reconstruct the board from memory.
+2. Import KID_BLACK_REPERTOIRE_FOR_FRITZ.pgn into Fritz for replay and sparring.
+3. Answer the workbook page before viewing its answer key.
+4. Review after 1, 3, 7, 14, and 30 days.
+5. Verify sharp forcing branches with Fritz or a current database before tournament use.
+6. Analyze every serious game and add only the positions you actually need.
+
+VOLUMES
+-------
+01. The King's Indian from First Principles - lessons 001-006 - 01_The_Kings_Indian_from_First_Principles.pdf
+02. Central Breaks and Structure Recognition - lessons 007-012 - 02_Central_Breaks_and_Structure_Recognition.pdf
+03. The Classical System Repertoire Map - lessons 013-018 - 03_The_Classical_System_Repertoire_Map.pdf
+04. Mar del Plata - Black's Attacking Engine - lessons 019-024 - 04_Mar_del_Plata_Blacks_Attacking_Engine.pdf
+05. The Bayonet Attack and Queenside Expansion - lessons 025-030 - 05_The_Bayonet_Attack_and_Queenside_Expansion.pdf
+06. Petrosian, Gligoric, and Orthodox Alternatives - lessons 031-036 - 06_Petrosian_Gligoric_and_Orthodox_Alternatives.pdf
+07. The Saemisch System - lessons 037-042 - 07_The_Saemisch_System.pdf
+08. The Four Pawns Attack - lessons 043-048 - 08_The_Four_Pawns_Attack.pdf
+09. The Fianchetto Variation - lessons 049-054 - 09_The_Fianchetto_Variation.pdf
+10. Averbakh and Makogonov Systems - lessons 055-060 - 10_Averbakh_and_Makogonov_Systems.pdf
+11. Early e4 Deviations - lessons 061-066 - 11_Early_e4_Deviations.pdf
+12. Anti-King's Indian Systems - lessons 067-072 - 12_Anti_Kings_Indian_Systems.pdf
+13. English and Reti Transpositions - lessons 073-078 - 13_English_and_Reti_Transpositions.pdf
+14. King's Indian Tactical Patterns - lessons 079-084 - 14_Kings_Indian_Tactical_Patterns.pdf
+15. Piece Maneuvers and Strategic Coordination - lessons 085-090 - 15_Piece_Maneuvers_and_Strategic_Coordination.pdf
+16. Defense, Resilience, and Counterplay - lessons 091-096 - 16_Defense_Resilience_and_Counterplay.pdf
+17. Exchanges, Endgames, and Transformations - lessons 097-102 - 17_Exchanges_Endgames_and_Transformations.pdf
+18. Pirc Bridge and Lifetime Repertoire System - lessons 103-108 - 18_Pirc_Bridge_and_Lifetime_Repertoire_System.pdf
+
+COMPANIONS
+----------
+MASTER_LESSON_INDEX.html - searchable offline lesson index
+MASTER_LESSON_INDEX.csv - filterable lesson and decision-rule index
+KID_BLACK_REPERTOIRE_FOR_FRITZ.pgn - 54 legal annotated study lines
+QA_REPORT.txt - structural and content verification
+PDF_HASHES.json - SHA-256 checksums for all 18 volumes
+
+ARTWORK
+-------
+Chess diagrams use the Cburnett piece set by Colin M. L. Burnett as distributed
+with python-chess/Lichess under GPLv2+; diagrams are rendered as vectors.

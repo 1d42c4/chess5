@@ -1,0 +1,990 @@
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Core shell against e4 and d4"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: The shell is a launch platform; scan for White's break before adding the last piece. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 b6 { Course-side plan: Complete the compact shell while keeping all four breaks available. Main danger: White may use e5 or h4 before Bb7 is useful. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/3PP3/2NB1N2/PPP2PPP/R1BQR1K1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Austrian-style center map"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: f4 makes e4 stronger and the king looser; choose the break from concrete support. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 Nd7 7. O-O b6 { Course-side plan: Restrain the center and prepare a challenge to e4 or d4. Main danger: White's f5 or e5 can arrive with tempo. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Early h-pawn map"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: When h4 appears, king safety becomes a move-order question. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h6 5. Be3 e6 6. Qd2 Ne7 7. O-O-O Nd7 { Course-side plan: Slow the h-pawn, keep the king flexible, and seek queenside counterplay. Main danger: Automatic castling can place the king on the wing White already attacks. Final FEN: r1bqk2r/pppnnpb1/3pp1pp/8/3PP2P/2N1B3/PPPQ1PP1/2KR1BNR w kq - 4 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Classical d4-c4-e4 shell"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: Against three central pawns, identify the base before selecting the break. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O b6 { Course-side plan: Build against the broad center and compare e5 with c5. Main danger: White may gain more space with d5 before Black acts. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Fianchetto center map"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: Matching fianchettos make the center, not the bishops, the first decision. } 1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 e6 5. O-O Ne7 6. c4 Nd7 7. Nc3 b6 { Course-side plan: Keep a compact position while preparing Bb7 and central contact. Main danger: White's long diagonal can punish careless queenside expansion. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "6"]
+[White "English transposition map"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: Flank openings become Hippos only after the center tells you they should. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. d3 Ne7 6. e4 Nd7 { Course-side plan: Reach a Hippo structure after White claims e4 later. Main danger: White can use d4 in one move if Black waits too long. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/2P1P3/2NP2P1/PP3PBP/R1BQK1NR w KQkq - 1 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Reti transposition map"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: Do not answer quietness with aimlessness; prepare a break while transposing. } 1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O e6 5. d3 Ne7 6. e4 Nd7 { Course-side plan: Preserve flexibility until White declares the center. Main danger: A quiet White setup can still seize d4 and c4 efficiently. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/4P3/3P1NP1/PPP2PBP/RNBQ1RK1 w kq - 1 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Bird center map"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: The first move changes tempo, not the structural questions. } 1. f4 g6 2. Nf3 Bg7 3. e4 d6 4. d4 e6 5. Bd3 Ne7 6. O-O Nd7 { Course-side plan: Treat the position as a reversed Austrian center and target e4. Main danger: White's extra tempo can make f5 fast. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3PPP2/3B1N2/PPP3PP/RNBQ1RK1 w kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "9"]
+[White "e5 break compass"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: Play e5 when contact activates pieces and the resulting d5 square is manageable. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 e5 { Course-side plan: Challenge d4 and open routes for the compact pieces. Main danger: The break can leave d5 weak or meet d5 with less space. Final FEN: r1bqk2r/pppnnpbp/3p2p1/4p3/3PP3/2NB1N2/PPP2PPP/R1BQR1K1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "10"]
+[White "c5 break compass"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: c5 is a question to the base of the center, not a decorative pawn move. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O c5 { Course-side plan: Attack d4 and create queenside files before White fixes the center. Main danger: White can close with d5 and gain space. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "11"]
+[White "f5 break compass"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: Count e4 support and king lines before touching the f-pawn. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 O-O 7. O-O f5 { Course-side plan: Challenge e4 and create kingside activity after securing the king. Main danger: Opening the f-file can expose Black as easily as White. Final FEN: rnbq1rk1/ppp1n1bp/3pp1p1/5p2/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 w - - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "12"]
+[White "b5 break compass"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 01: Hippo Foundations and Setup Map. Memory hook: b5 works when the center is stable and the rook or queen can use opened files. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O b6 8. Be3 Bb7 9. Qd2 a6 10. Rfe1 b5 { Course-side plan: Gain queenside space and prepare b4 against a stable center. Main danger: A central opening can make wing expansion irrelevant. Final FEN: r2qk2r/1bpnnpbp/p2pp1p1/1p6/2PPP3/2N1BN2/PP1QBPPP/R3R1K1 w kq - 0 11 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Classical center with Nf3 and Bd3"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: The classical center gives time only if every move prepares contact. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 b6 8. Be3 Bb7 9. Qd2 O-O { Course-side plan: Finish development while preparing the break that attacks White's less-supported center pawn. Main danger: White may play Bh6, e5, or h4 before Black is fully ready. Final FEN: r2q1rk1/pbpnnpbp/1p1pp1p1/8/3PP3/2NBBN2/PPPQ1PPP/R3R1K1 w - - 4 10 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Austrian center and f5 counterstrike"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: Against f4, f5 is thematic only after king safety and piece support are checked. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 Nd7 7. O-O O-O 8. Qe1 f5 { Course-side plan: Challenge e4 before White's e5-f5 expansion takes over the kingside. Main danger: exf5 can open lines against Black's king and e6. Final FEN: r1bq1rk1/pppnn1bp/3pp1p1/5p2/3PPP2/2NB1N2/PPP3PP/R1B1QRK1 w - - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "15"]
+[White "150 Attack style development"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: Qd2 and long castling move the target; answer on the queenside or in the center. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 e6 5. Qd2 Ne7 6. f3 Nd7 7. O-O-O b6 8. h4 Bb7 { Course-side plan: Delay castling, develop the queenside bishop, and create counterplay against the long-castled king. Main danger: h5 can open the g-file while Black is still compact. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/8/3PP2P/2N1BP2/PPPQ2P1/2KR1BNR w kq - 1 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "16"]
+[White "h4-h5 before castling"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: The best reply to a wing attack is often central contact, but h6 can buy the needed move. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h6 5. f4 e6 6. Nf3 Ne7 7. Bd3 Nd7 8. h5 { Course-side plan: Use h6 to slow opening of the h-file and prepare a central counterblow. Main danger: g4-g5 or hxg6 may pry open the king regardless. Final FEN: r1bqk2r/pppnnpb1/3pp1pp/7P/3PPP2/2NB1N2/PPP3P1/R1BQK2R b KQkq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "17"]
+[White "White advances e5 early"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: An early e5 is a concrete demand; solve it before returning to setup moves. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. e5 dxe5 5. dxe5 Nc6 6. f4 Nh6 7. Nf3 O-O { Course-side plan: Eliminate the advanced pawn or pressure it before completing the Hippo shell. Main danger: The e5 pawn can cramp both knights if Black treats it as harmless. Final FEN: r1bq1rk1/ppp1ppbp/2n3pn/4P3/5P2/2N2N2/PPP3PP/R1BQKB1R w KQ - 3 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "18"]
+[White "White closes with d5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: A closed center is permission to maneuver only after you name the second break. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. d5 e6 5. f4 Ne7 6. Nf3 O-O 7. Be3 exd5 { Course-side plan: Challenge the closed chain before White consolidates a space advantage. Main danger: After exd5, White may gain e-file pressure and a protected passer. Final FEN: rnbq1rk1/ppp1npbp/3p2p1/3p4/4PP2/2N1BN2/PPP3PP/R2QKB1R w KQ - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Four-pawn expansion"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: The more flank pawns White pushes, the more urgent and valuable central play becomes. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. g4 d5 { Course-side plan: Strike the center while White spends tempi expanding on the wing. Main danger: If the center stays closed, g5 and f5 may trap Black's pieces. Final FEN: rnbqk2r/ppp1npbp/4p1p1/3p4/3PPPP1/2N2N2/PPP4P/R1BQKB1R w KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Long castle with h5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 02: Hippo vs 1.e4: Classical Centers. Memory hook: Keep the king flexible until the open file and opponent's king location are known. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f3 e6 5. Be3 Ne7 6. Qd2 Nd7 7. O-O-O b6 8. h4 Bb7 9. h5 { Course-side plan: Develop Bb7 and prepare queenside play without ignoring the h-file. Main danger: hxg6 can open a direct line to the king if Black castles short carelessly. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/7P/3PP3/2N1BP2/PPPQ2P1/2KR1BNR b kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Classical Queen's Pawn center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: Against c4-d4-e4, attack the base before White fixes it. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O b6 8. Be3 Bb7 9. Qd2 O-O { Course-side plan: Complete the shell and prepare c5 or e5 against the broad center. Main danger: d5 can gain space and restrict both knights. Final FEN: r2q1rk1/pbpnnpbp/1p1pp1p1/8/2PPP3/2N1BN2/PP1QBPPP/R4RK1 w - - 4 10 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "22"]
+[White "London System"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: The London bishop is not the center; challenge d4 and e4. } 1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. e3 e6 5. h3 Ne7 6. Be2 Nd7 7. O-O b6 { Course-side plan: Develop without chasing Bf4 and prepare e5 or c5 against d4. Main danger: White may build e4 with Nbd2 and c3 if Black waits. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/3P1B2/4PN1P/PPP1BPP1/RN1Q1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Colle System"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: Extra setup time is a resource only when it is invested in a break. } 1. d4 g6 2. Nf3 Bg7 3. e3 d6 4. Bd3 e6 5. O-O Ne7 6. Nbd2 Nd7 7. e4 b6 { Course-side plan: Use White's modest setup to complete development before central contact. Main danger: e5 can arrive with a strong kingside attack if Black remains passive. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/3PP3/3B1N2/PPPN1PPP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Torre bishop on g5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: Do not spend time attacking Bg5 unless the gain helps the central break. } 1. d4 g6 2. Nf3 Bg7 3. Bg5 d6 4. Nbd2 e6 5. e4 Ne7 6. Bd3 Nd7 7. O-O { Course-side plan: Build the shell while asking whether the bishop's pin has any concrete force. Main danger: e5 can exploit the bishop's pressure and Black's cramped knights. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/6B1/3PP3/3B1N2/PPPN1PPP/R2Q1RK1 b kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Jobava-style Nc3 and Bf4"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: Nc3 plus long castling makes move order tactical; counter in the center and queenside. } 1. d4 g6 2. Nc3 Bg7 3. Bf4 d6 4. e4 e6 5. Qd2 Ne7 6. O-O-O Nd7 { Course-side plan: Keep the king flexible and seek c5 against White's queenside castling plan. Main danger: Nb5, h4, and e5 can create tactics before Black castles. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3PPB2/2N5/PPPQ1PPP/2KR1BNR w kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Catalan fianchetto"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: In a double fianchetto, the pawn break decides which bishop is real. } 1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. g3 e6 5. Bg2 Ne7 6. O-O Nd7 7. Nc3 b6 { Course-side plan: Prepare Bb7 and central contact while respecting the long diagonal. Main danger: d5 or e4 can give White lasting space and pressure. Final FEN: r1bqk2r/p1pnnpbp/1p1pp1p1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Trompowsky-style Bg5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: White's e3 protects d4; now Black can build the shell without overlooking a loose pawn. } 1. d4 g6 2. Bg5 Bg7 3. e3 d6 4. Nd2 e6 5. Ngf3 Ne7 6. Bd3 Nd7 { Course-side plan: Complete development and prepare e5 before White establishes an unchallenged center. Main danger: h4-h5 can combine with e4-e5 and a quick attack. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/6B1/3P4/3BPN2/PPPN1PPP/R2QK2R w KQkq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Stonewall formation"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 03: Hippo vs 1.d4: Queen's Pawn Centers. Memory hook: The Stonewall gains space and permanently concedes e4; make that square useful. } 1. d4 g6 2. e3 Bg7 3. f4 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 { Course-side plan: Target the dark-square holes and prepare e5 or c5 against the fixed chain. Main danger: f5 and a kingside attack can arrive quickly. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3P1P2/3BPN2/PPP3PP/RNBQ1RK1 w kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "29"]
+[White "English fianchetto"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: The English label disappears once e4 arrives; read the pawns. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. e4 Ne7 6. Nge2 Nd7 7. O-O { Course-side plan: Transpose to a Hippo after White occupies e4 and prepare c5 or e5. Main danger: White can play d4 in one move and obtain a large center. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/2P1P3/2N3P1/PP1PNPBP/R1BQ1RK1 b kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Botvinnik English setup"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: Against pawns on c4 and e4, control d4 and identify the correct wing. } 1. c4 g6 2. Nc3 Bg7 3. e4 d6 4. g3 e6 5. Bg2 Ne7 6. Nge2 Nd7 7. d3 { Course-side plan: Restrict d4, develop compactly, and aim for f5 or c5. Main danger: White may use f4-f5 with extra tempo. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/2P1P3/2NP2P1/PP2NPBP/R1BQK2R b KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "31"]
+[White "Reti with e4"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: Transpose by position, not by the first-move name. } 1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O e6 5. d3 Ne7 6. e4 Nd7 { Course-side plan: Maintain flexibility until e4 identifies a familiar Hippo center. Main danger: d4 and c4 can still expand before Black makes contact. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/4P3/3P1NP1/PPP2PBP/RNBQ1RK1 w kq - 1 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "32"]
+[White "King's Indian Attack shell"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: A quiet setup can hide a fast kingside plan; watch e5. } 1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O e6 5. d3 Ne7 6. Nbd2 Nd7 7. e4 { Course-side plan: Use the extra central space before choosing e5 or c5. Main danger: White's e5 and h4 attack can mirror dangerous anti-Hippo ideas. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/4P3/3P1NP1/PPPN1PBP/R1BQ1RK1 b kq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "33"]
+[White "Bird Opening"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: Treat the Bird center as an e4 system with the f-pawn already committed. } 1. f4 g6 2. Nf3 Bg7 3. e4 d6 4. d4 e6 5. Bd3 Ne7 6. O-O Nd7 { Course-side plan: Target e4 and prepare f5 or e5 against the reversed Austrian center. Main danger: White's extra tempo supports e5 and f5. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3PPP2/3B1N2/PPP3PP/RNBQ1RK1 w kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Larsen Opening"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: Against b3, develop and make the center earn its space. } 1. b3 g6 2. Bb2 Nf6 3. Nf3 Bg7 4. g3 d6 5. Bg2 e6 6. O-O { Course-side plan: Occupy the center only after development clarifies White's plan. Main danger: The b2 bishop can punish a careless e5 break along the diagonal. Final FEN: rnbqk2r/ppp2pbp/3ppnp1/8/8/1P3NP1/PBPPPPBP/RN1Q1RK1 b kq - 1 6 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "35"]
+[White "Polish Opening"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: Wing expansion is answered first by center and development, then by pawn attacks. } 1. b4 g6 2. Bb2 Nf6 3. Nf3 Bg7 4. e3 d6 5. c4 e6 { Course-side plan: Develop, attack the advanced b-pawn later, and keep central options open. Main danger: b5 can gain space and restrict c6 before Black is ready. Final FEN: rnbqk2r/ppp2pbp/3ppnp1/8/1PP5/4PN2/PB1P1PPP/RN1QKB1R w KQkq - 0 6 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "36"]
+[White "1.Nc3 transposition"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 04: Hippo vs English, Reti, and Flank Openings. Memory hook: The knight's first move removes ambiguity once e4 and d4 appear. } 1. Nc3 g6 2. e4 Bg7 3. d4 d6 4. Be3 e6 5. Qd2 Ne7 6. O-O-O { Course-side plan: Recognize the 150 Attack structure and keep the king flexible. Main danger: h4-h5 can open lines rapidly. Final FEN: rnbqk2r/ppp1npbp/3pp1p1/8/3PP3/2N1B3/PPPQ1PPP/2KR1BNR b kq - 3 6 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "37"]
+[White "1...d6 first against e4"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: d6 first changes options, not the final structure. } 1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 { Course-side plan: Use d6 to discourage some early e5 tactics, then transpose into the shell. Main danger: White may choose f4 before Black completes development. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3PP3/2NB1N2/PPP2PPP/R1BQ1RK1 w kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "38"]
+[White "1...d6 first against d4"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: Reach the shell with the order that removes the opponent's most forcing option. } 1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 e6 5. Nf3 Ne7 { Course-side plan: Keep the move order compact while reading White's center. Main danger: e5 or d5 can gain space before Black finishes. Final FEN: rnbqk2r/ppp1npbp/3pp1p1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 6 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "39"]
+[White "Delay d6 until the center appears"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: Flexibility has value only until the opponent makes a threat. } 1. e4 g6 2. Nc3 Bg7 3. d4 d6 4. Be3 e6 5. Qd2 Ne7 6. O-O-O Nd7 { Course-side plan: Preserve transpositions, then choose d6 once White shows e4-d4. Main danger: White's h4 can force king-safety decisions immediately. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3PP3/2N1B3/PPPQ1PPP/2KR1BNR w kq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Delay the kingside castle"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: Delayed castling is a decision, not a habit; reassess after every file opens. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Be3 Ne7 6. Qd2 Nd7 { Course-side plan: Complete useful development while waiting to see where White castles. Main danger: Keeping the king central too long can make e5 decisive. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/3PPP2/2N1B3/PPPQ2PP/R3KBNR w KQkq - 4 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "41"]
+[White "Early f4 changes the order"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: When f4 appears, kingside contact outranks decorative completion. } 1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 e6 5. f4 Ne7 6. Nf3 O-O { Course-side plan: Secure the king and prepare f5 or e5 before slower queenside moves. Main danger: f5 may meet e5 and open a dangerous diagonal. Final FEN: rnbq1rk1/ppp1npbp/3pp1p1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R w KQ - 3 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Early h4 requires h6"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: h6 is useful only if the saved tempo produces central play. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h6 5. f4 e6 6. Nf3 Ne7 { Course-side plan: Buy time against h5 while building the central counterstrike. Main danger: h5 may still sacrifice a pawn to open the file. Final FEN: rnbqk2r/ppp1npb1/3pp1pp/8/3PPP1P/2N2N2/PPP3P1/R1BQKB1R w KQkq - 2 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "43"]
+[White "Hold the queen until the center settles"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: Place the queen behind the break, not behind the opening's name. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Be3 Ne7 6. Qd2 Nd7 7. f3 { Course-side plan: Keep Qe8, Qd7, and c7 available until the break and king location are known. Main danger: White may castle long and attack before Black chooses a plan. Final FEN: r1bqk2r/pppnnpbp/3pp1p1/8/2PPP3/2N1BP2/PP1Q2PP/R3KBNR b KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Meet Bh6 before routine castling"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 05: Hippo Move Orders, Transpositions, and Early Deviations. Memory hook: A direct bishop challenge is a concrete event; the checklist pauses here. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 e6 5. Qd2 Ne7 6. O-O-O Nd7 7. Bh6 { Course-side plan: Decide whether to exchange bishops, retreat, or keep the king central before castling. Main danger: Bxh6 can remove the main dark-square defender and open h-file ideas. Final FEN: r1bqk2r/pppnnpbp/3pp1pB/8/3PP3/2N5/PPPQ1PPP/2KR1BNR b kq - 5 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "45"]
+[White "e5 against the classical d4 center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: Before e5, calculate d5, dxe5, and the tension-maintaining reply. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O e5 { Course-side plan: Attack d4, free the queen and knights, and force White to define the center. Main danger: d5 gains space and can leave Black's pieces short of squares. Final FEN: r1bqk2r/pppnnpbp/3p2p1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "46"]
+[White "e5 against a rook on e1"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: A rook on e1 makes the break more tactical, not automatically bad. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 e5 { Course-side plan: Challenge d4 while using piece support to survive e-file tactics. Main danger: dxe5 can expose the rook against the e-pawn or queen. Final FEN: r1bqk2r/pppnnpbp/3p2p1/4p3/3PP3/2NB1N2/PPP2PPP/R1BQR1K1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "47"]
+[White "e5 against the Austrian center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: Against f4, e5 is a race against White's own e5 push. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 Nd7 7. O-O e5 { Course-side plan: Hit d4 before White advances e5 and f5. Main danger: fxe5 can open the f-file and leave e6 sensitive. Final FEN: r1bqk2r/pppnnpbp/3p2p1/4p3/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "48"]
+[White "e5 with White's c-pawn committed"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: The broad center gives targets, but only if contact happens before it advances. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. f4 Ne7 6. Nf3 O-O 7. Be2 e5 { Course-side plan: Fix or exchange the center, then use the c-pawn's commitment to choose queenside play. Main danger: d5 may create a space clamp and a protected e4 pawn. Final FEN: rnbq1rk1/ppp1npbp/3p2p1/4p3/2PPPP2/2N2N2/PP2B1PP/R1BQK2R w KQ - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "49"]
+[White "e5 in a fianchetto center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: After e5-d5, plan the second break before accepting the closed center. } 1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 e6 5. O-O Ne7 6. c4 Nd7 7. Nc3 e5 { Course-side plan: Challenge d4 while the g2 bishop and c-pawn define White's pressure. Main danger: d5 can close Bg7 and give White queenside space. Final FEN: r1bqk2r/pppnnpbp/3p2p1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "50"]
+[White "e5 against the Botvinnik English"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: When White cannot play d4 easily, e5 can create a useful closed chain. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. d3 Ne7 6. e4 O-O 7. Nge2 e5 { Course-side plan: Fix d4, restrain White's center, and prepare f5. Main danger: f4-f5 can attack before Black reorganizes. Final FEN: rnbq1rk1/ppp1npbp/3p2p1/4p3/2P1P3/2NP2P1/PP2NPBP/R1BQK2R w KQ - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "51"]
+[White "White closes before Black breaks"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: A closed chain is not sacred; remove its base when the exchange improves development. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. d5 e6 5. f4 exd5 6. Nxd5 Ne7 { Course-side plan: Exchange one central pawn and attack the advanced knight and remaining center. Main danger: White may use c3 and f5 to support a lasting space edge. Final FEN: rnbqk2r/ppp1npbp/3p2p1/3N4/4PP2/8/PPP3PP/R1BQKBNR w KQkq - 1 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "52"]
+[White "e5 against long castling"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 06: The Hippo e5 Break. Memory hook: Against long castling, central contact and queenside files must be coordinated. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Be3 Ne7 6. Qd2 Nd7 7. O-O-O e5 { Course-side plan: Open central lines before White's kingside pawn storm becomes fast. Main danger: d5 can close the center and free White to attack the king. Final FEN: r1bqk2r/pppnnpbp/3p2p1/4p3/3PP3/2N1BN2/PPPQ1PPP/2KR1B1R w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "53"]
+[White "c5 against the broad d4 center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: c5 asks the base of the center a direct question. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O c5 { Course-side plan: Attack d4 and open a queenside route for the rook and queen. Main danger: d5 can gain a Benoni-style space advantage. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "54"]
+[White "c5 in a double-fianchetto position"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: In fianchetto structures, the first useful diagonal often appears after c5. } 1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 e6 5. O-O Ne7 6. c4 Nd7 7. Nc3 c5 { Course-side plan: Challenge d4 while both bishops point toward the center. Main danger: d5 can close Bg7 and give White a protected queenside chain. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "55"]
+[White "c5 against the classical e4 center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: Choose c5 when d4 is less stable than e4. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 c5 { Course-side plan: Pressure d4 and invite a structure Black can attack on the c-file. Main danger: d5 may gain space and support e5. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/3PP3/2NB1N2/PPP2PPP/R1BQR1K1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "56"]
+[White "c5 against f4"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: Central contact is the antidote to wing expansion only when it arrives on time. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 Nd7 7. O-O c5 { Course-side plan: Attack d4 before White's kingside expansion becomes forcing. Main danger: d5 can close the queenside and permit f5. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "57"]
+[White "c5 against long-castle development"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: If White may castle long, c5 gains an attacking purpose beyond d4. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Be3 Ne7 6. Qd2 Nd7 7. f3 c5 { Course-side plan: Open queenside lines before White decides where to place the king. Main danger: d5 can lock the c-file and give White time for h4. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/2PPP3/2N1BP2/PP1Q2PP/R3KBNR w KQkq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "58"]
+[White "c5 after Be2"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: When both knights are compact, the break must create their next squares. } 1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O c5 { Course-side plan: Use the safe king as permission to challenge the center immediately. Main danger: d5 can cramp Ne7 and Nd7 together. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "59"]
+[White "c5 in the English"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: Against c4-e4, c5 fights for d4 before White owns it. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. e4 Ne7 6. Nge2 Nd7 7. O-O c5 { Course-side plan: Control d4 and prevent White from building the full center for free. Main danger: White may use d4 after exchanges or close with d5. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/2P1P3/2N3P1/PP1PNPBP/R1BQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "60"]
+[White "c5 against a restrained Reti center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 07: The Hippo c5 Break. Memory hook: A quiet center should be challenged while its support is incomplete. } 1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O e6 5. d3 Ne7 6. e4 Nd7 7. c3 c5 { Course-side plan: Gain central contact before White expands with d4. Main danger: d4 may still arrive with a favorable Maroczy-like structure. Final FEN: r1bqk2r/pp1nnpbp/3pp1p1/2p5/4P3/2PP1NP1/PP3PBP/RNBQ1RK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "61"]
+[White "f5 against the Austrian center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: The f-pawn is a lever, not a shield; calculate the opened file. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 O-O 7. O-O f5 { Course-side plan: Attack e4 and contest the kingside before White plays f5. Main danger: exf5 can expose Black's king and the e6 pawn. Final FEN: rnbq1rk1/ppp1n1bp/3pp1p1/5p2/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 w - - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "62"]
+[White "f5 against long-castle preparation"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: White's king location can make f5 safer but does not remove central tactics. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 e6 5. Qd2 Ne7 6. O-O-O Nd7 7. f3 f5 { Course-side plan: Challenge e4 while White's king is headed away from the f-file. Main danger: h4-h5 may arrive before Black creates queenside counterplay. Final FEN: r1bqk2r/pppnn1bp/3pp1p1/5p2/3PP3/2N1BP2/PPPQ2PP/2KR1BNR w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "63"]
+[White "f5 against a four-pawn center"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: Attack the chain before it moves; afterwards the target may disappear. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. f4 Ne7 6. Nf3 O-O 7. Be2 f5 { Course-side plan: Break the e4-f4 chain before White advances both pawns. Main danger: e5 can close the position and gain kingside space. Final FEN: rnbq1rk1/ppp1n1bp/3pp1p1/5p2/2PPPP2/2N2N2/PP2B1PP/R1BQK2R w KQ - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "64"]
+[White "f5 in the reversed Austrian"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: A reversed opening requires faster calculation, not copied moves. } 1. f4 g6 2. Nf3 Bg7 3. e4 d6 4. d4 e6 5. Bd3 Ne7 6. O-O Nd7 7. Qe1 f5 { Course-side plan: Use symmetrical contact to exploit White's exposed e4 pawn. Main danger: e5 can gain time and space because White has an extra tempo. Final FEN: r1bqk2r/pppnn1bp/3pp1p1/5p2/3PPP2/3B1N2/PPP3PP/RNB1QRK1 w kq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "65"]
+[White "b5 with central stability"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: Prepare b5 with a6 and piece support; then ask what opens after the exchange. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O b6 8. Be3 Bb7 9. Qd2 a6 10. Rac1 b5 { Course-side plan: Gain queenside space and threaten b4 while the center remains closed enough. Main danger: cxb5 or a central e5 break can make the wing pawns weak. Final FEN: r2qk2r/1bpnnpbp/p2pp1p1/1p6/2PPP3/2N1BN2/PP1QBPPP/2R2RK1 w kq - 0 11 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "66"]
+[White "b5 against the Botvinnik English"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: Against c4, b5 is a direct lever only if the center is not about to open. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. d3 Ne7 6. e4 Nd7 7. Nge2 a6 8. O-O b5 { Course-side plan: Create queenside space and pressure c4 before White's f4 attack. Main danger: cxb5 can open the a-file or leave a weak b-pawn. Final FEN: r1bqk2r/2pnnpbp/p2pp1p1/1p6/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 w kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "67"]
+[White "b5 in a Reti transposition"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: A wing break must survive the opponent's best central reply. } 1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 e6 5. O-O Ne7 6. c4 Nd7 7. Nc3 a6 8. e4 b5 { Course-side plan: Gain space and make b4 a threat against the c3 knight. Main danger: e5 can punish a wing move if Black's center is underprepared. Final FEN: r1bqk2r/2pnnpbp/p2pp1p1/1p6/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 w kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "68"]
+[White "When b5 should be restrained"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 08: The Hippo f5 and b5 Breaks. Memory hook: A prevented break is information; switch plans instead of forcing it. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 a6 8. a4 b6 { Course-side plan: Use b6 and Bb7 instead of forcing b5 into White's a4 restraint. Main danger: White may use a5 to fix queenside weaknesses. Final FEN: r1bqk2r/2pnnpbp/pp1pp1p1/8/P2PP3/2NB1N2/1PP2PPP/R1BQR1K1 w kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "69"]
+[White "Reroute the e7 knight"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: The e7 knight needs a destination chosen by the break, not by habit. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 b6 8. Bg5 h6 9. Bh4 { Course-side plan: Use h6 to ask the bishop a question and prepare a knight route to f5 or g6. Main danger: g5 can weaken the king and trap Black's own pieces. Final FEN: r1bqk2r/p1pnnpb1/1p1pp1pp/8/3PP2B/2NB1N2/PPP2PPP/R2QR1K1 b kq - 1 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Queen on e8 behind e5 or f5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: Qe8 is useful when it supports two plans and does not obstruct the rook. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Nf3 Ne7 6. Be2 Nd7 7. O-O b6 8. Be3 Bb7 9. Qd2 O-O 10. Rad1 Qe8 { Course-side plan: Connect the rooks and support e5 or f5 while keeping d8 available. Main danger: The queen can become exposed on the e-file after exchanges. Final FEN: r3qrk1/pbpnnpbp/1p1pp1p1/8/2PPP3/2N1BN2/PP1QBPPP/3R1RK1 w - - 6 11 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "71"]
+[White "Rook behind the e-pawn"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: A rook belongs behind the file your break is likely to open. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Bd3 Nd7 7. O-O b6 8. Be3 Bb7 9. Qd2 O-O 10. Rae1 { Course-side plan: Put a rook behind the central contact point and increase the force of e5 ideas. Main danger: The a-rook move may leave the queenside underdefended. Final FEN: r2q1rk1/pbpnnpbp/1p1pp1p1/8/3PPP2/2NBBN2/PPPQ2PP/4RRK1 b - - 5 10 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Activate Bb7"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: Fianchetto the bishop because the diagonal will open, not because the setup says so. } 1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 e6 5. O-O Ne7 6. c4 Nd7 7. Nc3 b6 8. e4 Bb7 9. Re1 O-O { Course-side plan: Aim the bishop at e4 and coordinate pressure before playing c5 or e5. Main danger: A closed diagonal can make Bb7 a slow spectator. Final FEN: r2q1rk1/pbpnnpbp/1p1pp1p1/8/2PPP3/2N2NP1/PP3PBP/R1BQR1K1 w - - 3 10 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "73"]
+[White "King stays flexible under h-pawn pressure"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: Flexible king placement expires as soon as the center can open. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h6 5. Be3 e6 6. Qd2 Ne7 7. O-O-O Nd7 8. g4 a6 { Course-side plan: Avoid short castling into an attack and prepare queenside space. Main danger: The central king can become vulnerable if e5 opens files. Final FEN: r1bqk2r/1ppnnpb1/p2pp1pp/8/3PP1PP/2N1B3/PPPQ1P2/2KR1BNR w kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Knight route through h3"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: Unusual knight routes are justified only by the square they will reach. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. Be3 Ne7 6. Qd2 Nd7 7. f3 b6 8. Nh3 Bb7 { Course-side plan: Use h3 to preserve central pawn support and prepare Nf2 or g5. Main danger: The rim knight may remain irrelevant if the center opens quickly. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/8/2PPP3/2N1BP1N/PP1Q2PP/R3KB1R w KQkq - 2 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "75"]
+[White "Improve the c1 bishop before breaking"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: Improve the worst piece, then reassess whether the break is ready. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 e6 5. Bd3 Ne7 6. O-O Nd7 7. Re1 b6 8. h3 Bb7 9. Bf4 { Course-side plan: Develop the last piece and increase control of e5 before the center changes. Main danger: Bf4 can be hit by e5 with tempo if timing is wrong. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/8/3PPB2/2NB1N1P/PPP2PP1/R2QR1K1 b kq - 2 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "76"]
+[White "English knight architecture"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 09: Hippo Piece Maneuvers and Defensive Architecture. Memory hook: Compact knights are useful only when the planned break gives them squares. } 1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 e6 5. d3 Ne7 6. e4 Nd7 7. Nge2 b6 8. O-O Bb7 { Course-side plan: Coordinate both knights around d4, c5, and f5 without blocking the c-pawn. Main danger: f4-f5 can outrun slow queenside preparation. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/8/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 w kq - 2 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "77"]
+[White "Close the h-file attack carefully"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: Closing a wing buys time; spend it on the center. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 h6 5. f4 e6 6. Nf3 Ne7 7. h5 g5 { Course-side plan: Block immediate hxg6 ideas and prepare a central counterbreak. Main danger: g5 creates permanent dark-square holes and may be undermined by e5. Final FEN: rnbqk2r/ppp1npb1/3pp2p/6pP/3PPP2/2N2N2/PPP3P1/R1BQKB1R w KQkq - 0 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Answer g4 with d5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: A wing pawn move is a tempo you may use for central contact. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. g4 d5 { Course-side plan: Open the center while White's king and pieces lag behind the pawn storm. Main danger: e5 can close the position and maintain the space advantage. Final FEN: rnbqk2r/ppp1npbp/4p1p1/3p4/3PPPP1/2N2N2/PPP4P/R1BQKB1R w KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "79"]
+[White "Emergency reaction to e5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: When e5 cramps both knights, the setup phase is over. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. e5 dxe5 5. dxe5 Nc6 6. f4 Nh6 7. Nf3 O-O { Course-side plan: Attack or exchange the advanced pawn before it freezes the shell. Main danger: Nxe5 tactics may fail if the knight is pinned or underdefended. Final FEN: r1bq1rk1/ppp1ppbp/2n3pn/4P3/5P2/2N2N2/PPP3PP/R1BQKB1R w KQ - 3 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Break the d5 clamp"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: A space clamp must be undermined at its base, not stared at. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. d5 exd5 6. cxd5 Ne7 { Course-side plan: Exchange the base and prepare c6 or f5 against White's space. Main danger: White's d5 pawn can become protected and restrict c6. Final FEN: rnbqk2r/ppp1npbp/3p2p1/3P4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "81"]
+[White "Five-pawn center: strike now"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: Maximum space creates maximum targets only while the center is still mobile. } 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e6 5. f4 Ne7 6. g4 d5 { Course-side plan: Exploit White's delayed development with immediate central contact. Main danger: If e5 closes the center, the kingside bind can become dangerous. Final FEN: rnbqk2r/ppp1npbp/4p1p1/3p4/2PPPPP1/2N5/PP5P/R1BQKBNR w KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Long castle and kingside storm"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: Against opposite-side intentions, count forcing moves on both wings. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 e6 5. Qd2 Ne7 6. O-O-O Nd7 7. h4 h6 8. g4 a6 { Course-side plan: Keep the king uncommitted and prepare b5 while slowing the h-pawn. Main danger: h5 and Bxh6 can open lines before b5 arrives. Final FEN: r1bqk2r/1ppnnpb1/p2pp1pp/8/3PP1PP/2N1B3/PPPQ1P2/2KR1BNR w kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "83"]
+[White "London space clamp with d5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: A quiet system can still create a clamp; react when d5 fixes the chain. } 1. d4 g6 2. Nf3 Bg7 3. Bf4 d6 4. e3 e6 5. h3 Ne7 6. Bd3 Nd7 7. O-O b6 8. c4 Bb7 9. d5 { Course-side plan: Prepare exd5 or e5 and reorganize before the closed center becomes permanent. Main danger: White can support e4 and squeeze the compact knights. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/3P4/2P2B2/3BPN1P/PP3PP1/RN1Q1RK1 b kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Pawn storm with f5"]
+[Black "Black Hippo repertoire"]
+[Result "*"]
+
+{ Volume 10: Fighting Anti-Hippo Space Attacks. Memory hook: When f5 lands, calculate captures and central breaks before continuing the shell. } 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Be3 Ne7 6. Qd2 Nd7 7. O-O-O b6 8. g4 Bb7 9. f5 { Course-side plan: Choose between exf5, e5, or queenside counterplay from calculation. Main danger: Opening the e- or g-file can expose an uncastled king. Final FEN: r2qk2r/pbpnnpbp/1p1pp1p1/5P2/3PP1P1/2N1B3/PPPQ3P/2KR1BNR b kq - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "85"]
+[White "White Hippo companion"]
+[Black "White Hippo vs classical center"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: The extra tempo must become central contact. } 1. g3 d5 2. Bg2 e5 3. d3 Nf6 4. Nd2 Be7 5. e3 O-O 6. Ne2 c5 7. b3 Nc6 8. Bb2 { Course-side plan: Complete the flexible shell, then challenge the center with e4 or c4. Main danger: Black can gain too much space if White keeps waiting. Final FEN: r1bq1rk1/pp2bppp/2n2n2/2ppp3/8/1P1PP1P1/PBPNNPBP/R2QK2R b KQ - 2 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "86"]
+[White "White Hippo companion"]
+[Black "White Hippo vs e5-d5"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Against a full center, identify its weaker base before completing every setup move. } 1. g3 e5 2. Bg2 d5 3. d3 Nf6 4. Nd2 Bd6 5. e3 O-O 6. Ne2 c6 7. b3 { Course-side plan: Prepare Bb2 and choose e4 or c4 based on Black's support. Main danger: f5 can start a kingside attack before White is coordinated. Final FEN: rnbq1rk1/pp3ppp/2pb1n2/3pp3/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "87"]
+[White "White Hippo companion"]
+[Black "White Hippo vs Sicilian setup"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Before b3 exposes a1, place a pawn on c3 or move the rook. } 1. g3 c5 2. Bg2 Nc6 3. d3 g6 4. Nd2 Bg7 5. e3 e6 6. Ne2 Nge7 7. c3 O-O 8. b3 d5 { Course-side plan: Use c3 to close the long diagonal, then choose e4 or d4 to contest the center. Main danger: Black may play d5 in one move and equalize comfortably. Final FEN: r1bq1rk1/pp2npbp/2n1p1p1/2pp4/8/1PPPP1P1/P2NNPBP/R1BQK2R w KQ - 0 9 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "88"]
+[White "White Hippo companion"]
+[Black "White Hippo vs Caro-Kann shell"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Challenge the center before Black completes an ideal Caro structure. } 1. g3 c6 2. Bg2 d5 3. d3 Bf5 4. Nd2 e6 5. e3 Nf6 6. Ne2 Be7 7. b3 { Course-side plan: Prepare Bb2 and e4 while Black's bishop sits outside the chain. Main danger: e5 can gain space and make e4 harder to achieve. Final FEN: rn1qk2r/pp2bppp/2p1pn2/3p1b2/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "89"]
+[White "White Hippo companion"]
+[Black "White Hippo vs French shell"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: The French pawn chain is easiest to challenge before it advances. } 1. g3 e6 2. Bg2 d5 3. d3 Nf6 4. Nd2 Be7 5. e3 O-O 6. Ne2 c5 7. b3 { Course-side plan: Use e4 or c4 to prevent a free central occupation. Main danger: d4 can close the center on Black's terms. Final FEN: rnbq1rk1/pp2bppp/4pn2/2pp4/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "90"]
+[White "White Hippo companion"]
+[Black "White Hippo vs Slav shell"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: The shell is successful only when e4 arrives under good conditions. } 1. g3 c6 2. Bg2 d5 3. d3 Bf5 4. Nd2 e6 5. e3 Nf6 6. Ne2 Be7 7. b3 { Course-side plan: Complete development while preparing e4 as the main central break. Main danger: Black can use e5 if White is too slow. Final FEN: rn1qk2r/pp2bppp/2p1pn2/3p1b2/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQkq - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "91"]
+[White "White Hippo companion"]
+[Black "White Hippo vs King's Indian"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: In mirrored fianchettos, the first meaningful break defines the game. } 1. g3 Nf6 2. Bg2 g6 3. d3 Bg7 4. Nd2 O-O 5. e3 d6 6. Ne2 e5 7. b3 { Course-side plan: Prepare Bb2 and choose c4 or e4 according to Black's center. Main danger: Black may attack with f5 before White creates counterplay. Final FEN: rnbq1rk1/ppp2pbp/3p1np1/4p3/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "92"]
+[White "White Hippo companion"]
+[Black "White Hippo vs Dutch"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Against f5, make the e4 square a real strategic target. } 1. g3 f5 2. Bg2 Nf6 3. d3 g6 4. Nd2 Bg7 5. e3 O-O 6. Ne2 d6 7. b3 { Course-side plan: Control e4 and prepare Bb2, then challenge with e4 or f4. Main danger: Black's e5 and kingside attack can arrive quickly. Final FEN: rnbq1rk1/ppp1p1bp/3p1np1/5p2/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "93"]
+[White "White Hippo companion"]
+[Black "White Hippo vs Queen's Indian shell"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Choose one central break before adding another quiet move. } 1. g3 Nf6 2. Bg2 e6 3. d3 d5 4. Nd2 Be7 5. e3 O-O 6. Ne2 c5 7. b3 { Course-side plan: Develop harmoniously and use c4 or e4 before Black owns the center. Main danger: d4 may fix White in a passive structure. Final FEN: rnbq1rk1/pp2bppp/4pn2/2pp4/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "94"]
+[White "White Hippo companion"]
+[Black "White Hippo vs Owen-style b6"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Once d5 blocks the long diagonal, improve the knights and prepare central contact. } 1. g3 b6 2. Bg2 Bb7 3. d3 d5 4. Nd2 Nf6 5. e3 e6 6. Ne2 Be7 7. O-O O-O { Course-side plan: Use Black's d5 commitment to complete the shell and prepare e4 or c4. Main danger: Black may use c5 before White challenges the center. Final FEN: rn1q1rk1/pbp1bppp/1p2pn2/3p4/8/3PP1P1/PPPNNPBP/R1BQ1RK1 w - - 4 8 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "95"]
+[White "White Hippo companion"]
+[Black "White mirrored Hippo"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: In symmetry, the first purposeful break is the real extra tempo. } 1. g3 g6 2. Bg2 Bg7 3. d3 d6 4. Nd2 e5 5. e3 Ne7 6. Ne2 O-O 7. b3 { Course-side plan: Use the extra tempo to claim a useful central break first. Main danger: Copying Black can throw away the first-move advantage. Final FEN: rnbq1rk1/ppp1npbp/3p2p1/4p3/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "96"]
+[White "White Hippo companion"]
+[Black "White Hippo and e4 preparation"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: The setup points toward e4; it is not the final destination. } 1. g3 d5 2. Bg2 Nf6 3. d3 e5 4. Nd2 Bd6 5. e3 O-O 6. Ne2 Re8 7. b3 { Course-side plan: Finish the shell only long enough to make e4 safe and effective. Main danger: Black may play e4 first and gain space. Final FEN: rnbqr1k1/ppp2ppp/3b1n2/3pp3/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "97"]
+[White "White Hippo companion"]
+[Black "White Hippo vs English defense"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Flexibility has a deadline when the opponent controls both central breaks. } 1. g3 c5 2. Bg2 Nc6 3. d3 e6 4. Nd2 Nge7 5. e3 d5 6. Ne2 { Course-side plan: Prepare c4 or e4 while keeping both knights flexible. Main danger: Black can gain comfortable central equality with d4. Final FEN: r1bqkb1r/pp2nppp/2n1p3/2pp4/8/3PP1P1/PPPNNPBP/R1BQK2R b KQkq - 1 6 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "98"]
+[White "White Hippo companion"]
+[Black "White Hippo vs immediate d5-e5"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: A broad center must be contacted before the shell becomes a cage. } 1. g3 d5 2. Bg2 Nc6 3. d3 e5 4. Nd2 Nf6 5. e3 Be7 6. Ne2 O-O 7. b3 { Course-side plan: Build toward Bb2 and e4, using the extra tempo to challenge Black's center. Main danger: d4 can close space and leave White cramped. Final FEN: r1bq1rk1/ppp1bppp/2n2n2/3pp3/8/1P1PP1P1/P1PNNPBP/R1BQK2R b KQ - 0 7 } *
+
+[Event "Complete Hippopotamus System Course"]
+[Site "Repertoire branch"]
+[Date "????.??.??"]
+[Round "99"]
+[White "White Hippo companion"]
+[Black "White Hippo vs delayed queenside fianchetto"]
+[Result "*"]
+
+{ Volume 11: White Hippopotamus Companion. Memory hook: Black's d5 must block the long diagonal before Bb7; move order prevents Bxb7. } 1. g3 Nf6 2. Bg2 b6 3. d3 d5 4. Nd2 Bb7 5. e3 c5 6. Ne2 Nc6 7. O-O e6 { Course-side plan: Use the move-order information to prepare c4 or e4 before Black completes development. Main danger: d4 can close the center and leave White without an active break. Final FEN: r2qkb1r/pb3ppp/1pn1pn2/2pp4/8/3PP1P1/PPPNNPBP/R1BQ1RK1 w kq - 0 8 } *
+

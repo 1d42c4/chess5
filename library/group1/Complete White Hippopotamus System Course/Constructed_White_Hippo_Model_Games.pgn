@@ -1,0 +1,120 @@
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: e4 against the full center. Constructed training game, not a historical game. } 1. g3 d5 2. Bg2 e5 3. d3 Nf6 4. Nd2 Be7 5. e3 O-O 6. Ne2 c5 7. e4 dxe4 8. dxe4 Nc6 9. O-O Be6 10. Nc3 Bg4 11. f3 { Prediction answer: f3. Plan: Attack d5 and create central contact before Black advances. } 11... Be6 12. f4 exf4 13. gxf4 Ng4 14. Nd5 f5 15. c3 c4 16. Qe2 Bc5+ 17. Kh1 Nxh2 18. Kxh2 Qh4+ 19. Bh3 fxe4 20. Qg2 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Meet an early h5-h4. Constructed training game, not a historical game. } 1. g3 d5 2. Bg2 e5 3. d3 h5 4. Nd2 h4 5. e4 d4 6. Ne2 h3 7. Bf1 Nc6 8. Ng1 Be7 9. Be2 g5 10. Nf1 { Prediction answer: Nf1. Plan: Counter in the center and avoid weakening the king with automatic pawn moves. } 10... Qd7 11. f4 gxf4 12. gxf4 Qd6 13. Qd2 Nf6 14. Nf3 exf4 15. Qxf4 Qc5 16. Ng3 Ng4 17. Bd2 Qxc2 18. Qxc7 Nb4 19. Rc1 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Single e5 with d4 challenge. Constructed training game, not a historical game. } 1. g3 e5 2. Bg2 Nf6 3. d3 Nc6 4. Nd2 d5 5. e3 Bd6 6. Ne2 O-O 7. a3 Ne7 8. c4 c6 9. cxd5 cxd5 10. Nf3 { Prediction answer: Nf3. Plan: Prepare d4 and develop rapidly against a single central pawn. } 10... Bf5 11. Nh4 Be6 12. O-O Qd7 13. b4 a5 14. Bd2 Qb5 15. bxa5 Qxd3 16. Rb1 Rfd8 17. Nf3 Ne4 18. Rb3 Qa6 19. Rb6 Qa7 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Sicilian with e6 and d5. Constructed training game, not a historical game. } 1. g3 c5 2. Bg2 Nc6 3. d3 e6 4. Nd2 d5 5. e4 Nf6 6. Ne2 Be7 7. O-O O-O 8. b3 Rb8 9. exd5 Nxd5 10. Bb2 b5 11. Nf4 { Prediction answer: Nf4. Plan: Build a Closed Sicilian center and prepare f4 or c3. } 11... Rb6 12. Nxd5 exd5 13. Nf3 Bf6 14. d4 Ra6 15. c3 Qb6 16. dxc5 Qxc5 17. Re1 Rd8 18. a4 h6 19. Bf1 Bg4 20. h3 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: French shell with e4. Constructed training game, not a historical game. } 1. g3 e6 2. Bg2 d5 3. d3 Nf6 4. Nd2 Be7 5. e3 O-O 6. Ne2 c5 7. e4 Nc6 8. O-O e5 9. b3 Be6 10. c4 dxc4 11. dxc4 { Prediction answer: dxc4. Plan: Attack d5 and transpose toward a King's Indian Attack structure. } 11... Qa5 12. Nf3 b5 13. Bb2 Rad8 14. Qe1 Qxe1 15. Rfxe1 bxc4 16. Nxe5 Nxe5 17. Bxe5 Rd2 18. bxc4 Nd7 19. Bc3 Rc2 20. Rac1 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Mirrored fianchetto with e4. Constructed training game, not a historical game. } 1. g3 Nf6 2. Bg2 g6 3. d3 Bg7 4. Nd2 O-O 5. e3 d6 6. Ne2 e5 7. e4 Nc6 8. h3 Be6 9. O-O d5 10. exd5 Bxd5 11. Nf3 { Prediction answer: Nf3. Plan: Use the extra tempo to claim e4 and prepare f4 or d4. } 11... e4 12. dxe4 Bxe4 13. Nc3 Qxd1 14. Rxd1 Rfd8 15. Rxd8+ Rxd8 16. Ne1 Bxg2 17. Kxg2 Ne8 18. Bg5 Rd6 19. Nd1 Rd7 20. Nf3 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Leningrad Dutch structure. Constructed training game, not a historical game. } 1. g3 f5 2. Bg2 Nf6 3. d3 g6 4. Nd2 Bg7 5. e3 O-O 6. Ne2 d6 7. e4 Nc6 8. O-O e5 9. exf5 gxf5 10. Nf3 Bd7 11. b4 { Prediction answer: b4. Plan: Occupy e4 and prepare f4 or a central exchange against Black's f-pawn. } 11... Ne7 12. Nh4 c6 13. Rb1 Ng6 14. Bg5 Qe8 15. b5 cxb5 16. c4 Kh8 17. Nc3 a6 18. Nxg6+ Qxg6 19. Bxf6 Qxf6 20. Bxb7 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Early h5. Constructed training game, not a historical game. } 1. g3 h5 2. Bg2 h4 3. d3 e5 4. Nd2 d5 5. e4 dxe4 6. Nxe4 h3 7. Bf3 Nc6 8. Be3 Be7 9. Qd2 { Prediction answer: Qd2. Plan: Counter the wing advance with central occupation and development. } 9... Be6 10. Ne2 Nh6 11. O-O-O Qd7 12. d4 O-O-O 13. N4c3 Bg4 14. Bxg4 Nxg4 15. d5 Qf5 16. Kb1 Bf6 17. Qc1 Ne7 18. Bxa7 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Nf3-first move order. Constructed training game, not a historical game. } 1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. d3 Be7 5. O-O O-O 6. Nbd2 c5 7. c3 Nc6 8. e4 a5 9. Re1 b6 10. e5 { Prediction answer: e5. Plan: Use Nf3 to restrain e5, then enter a White-Hippo shell with faster castling. } 10... Nd7 11. a4 Qc7 12. Qe2 Rb8 13. c4 Ba6 14. b3 Rbe8 15. Nb1 Qc8 16. Bb2 Bd8 17. Na3 d4 18. Nb5 Bc7 19. Nxc7 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Prepare e4 with d3 and Nd2. Constructed training game, not a historical game. } 1. g3 d5 2. Bg2 e5 3. d3 Nf6 4. Nd2 Be7 5. e3 O-O 6. Ne2 c5 7. e4 Nc6 8. exd5 Nxd5 9. Nc4 Bg4 10. h3 Be6 11. O-O { Prediction answer: O-O. Plan: Use d3, Nd2, and Ne2 to support e4 without blocking the f-pawn. } 11... b5 12. Ne3 Qd7 13. Kh2 Rab8 14. Bxd5 Bxd5 15. Nxd5 Qxd5 16. Be3 b4 17. Ng1 f5 18. f4 Rbe8 19. Qf3 Qd6 20. fxe5 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Prepare d4 against e5. Constructed training game, not a historical game. } 1. g3 e5 2. Bg2 Nf6 3. d3 Nc6 4. Nd2 d6 5. e3 Be7 6. Ne2 O-O 7. d4 Bg4 8. h3 Be6 9. c4 Bf5 10. g4 Bg6 11. f4 { Prediction answer: f4. Plan: Challenge e5 and open the center when White is fully developed. } 11... exf4 12. Nxf4 Nd7 13. O-O Bf6 14. a3 Re8 15. Nxg6 hxg6 16. Ne4 Qe7 17. b4 Nd8 18. Nxf6+ Nxf6 19. g5 Ne4 20. h4 *
+
+[Event "Complete White Hippopotamus Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: c4 attacks d5. Constructed training game, not a historical game. } 1. g3 d5 2. Bg2 e5 3. d3 Nf6 4. Nd2 Be7 5. e3 O-O 6. Ne2 c6 7. c4 Bf5 8. d4 Nbd7 9. O-O Rc8 10. Qb3 Bd6 11. dxe5 { Prediction answer: dxe5. Plan: Challenge d5 and prepare queenside play through the c-file. } 11... Nxe5 12. Nf3 dxc4 13. Qxb7 Be4 14. Nxe5 Bxg2 15. Kxg2 Bxe5 16. Qa6 Qd3 17. Qa5 Rfe8 18. Nf4 Bxf4 19. exf4 h5 20. Qa3 *
+

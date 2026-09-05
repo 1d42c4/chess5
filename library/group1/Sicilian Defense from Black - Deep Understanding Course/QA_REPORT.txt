@@ -1,0 +1,38 @@
+SICILIAN DEFENSE FROM BLACK - DEEP UNDERSTANDING COURSE - QA REPORT
+===================================================================
+
+STATUS: PASS
+PDF volumes: 18
+PDF pages: 540
+Deep lessons: 108
+Source scenarios: 54
+Unique legal source lines: 53
+Annotated PGN games: 54
+Annotated PGN move nodes: 248
+Unique lesson titles: 108
+Lesson modes: {'Decode': 54, 'Play': 54}
+
+PER-FILE CHECKS
+---------------
+01_The_Sicilian_from_First_Principles.pdf: 30 pages, 371,735 bytes, min text 438 chars
+02_The_Three_Sicilian_Centers.pdf: 30 pages, 370,730 bytes, min text 411 chars
+03_Map_of_the_Sicilian_Families.pdf: 30 pages, 370,145 bytes, min text 419 chars
+04_Najdorf_Foundations_and_Move_Orders.pdf: 30 pages, 371,365 bytes, min text 420 chars
+05_Najdorf_English_Attack.pdf: 30 pages, 370,707 bytes, min text 413 chars
+06_Najdorf_6_Bg5.pdf: 30 pages, 371,198 bytes, min text 407 chars
+07_Positional_Najdorf_Systems.pdf: 30 pages, 369,388 bytes, min text 398 chars
+08_6_Bc4_and_Sozin_Attacks.pdf: 30 pages, 369,547 bytes, min text 423 chars
+09_Modern_Najdorf_Sidelines.pdf: 30 pages, 370,400 bytes, min text 413 chars
+10_Closed_Sicilian_Systems.pdf: 30 pages, 370,360 bytes, min text 391 chars
+11_The_Alapin_2_c3.pdf: 30 pages, 368,744 bytes, min text 404 chars
+12_Moscow_and_Rossolimo_Systems.pdf: 30 pages, 369,981 bytes, min text 409 chars
+13_Grand_Prix_Attack.pdf: 30 pages, 370,609 bytes, min text 391 chars
+14_Smith_Morra_Gambit.pdf: 30 pages, 369,442 bytes, min text 417 chars
+15_Rare_Second_Moves_and_Move_Order_Traps.pdf: 30 pages, 369,321 bytes, min text 423 chars
+16_Sicilian_Tactical_Grammar.pdf: 30 pages, 371,106 bytes, min text 409 chars
+17_Defense_Endgames_and_Transformations.pdf: 30 pages, 370,607 bytes, min text 443 chars
+18_A_Lifetime_Najdorf_Repertoire.pdf: 30 pages, 371,848 bytes, min text 441 chars
+
+ERRORS
+------
+None

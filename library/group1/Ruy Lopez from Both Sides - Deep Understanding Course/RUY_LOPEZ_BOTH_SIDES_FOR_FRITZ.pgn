@@ -1,0 +1,594 @@
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Why 3.Bb5 is indirect pressure"]
+
+{ Volume 1: The Spanish from First Principles. Why it matters: Bb5 pins the defender of e5 only in a strategic sense: Bxc6 can remove it, but Black may recapture and still protect the pawn tactically. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Black develops, questions the bishop, and preserves the e5 center without making unnecessary concessions. White plan: White increases pressure with Re1 and c3-d4, turning the bishop's presence into central leverage. Decision: Does Bxc6 actually win e5 after every recapture and tactic, or is maintaining tension more valuable? Danger: Counting attackers and defenders without calculating the zwischenzug or changed pawn structure. Memory rule: Bb5 pressures the defender so White can build the center; it does not simply win e5. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The value of the e5 strongpoint"]
+
+{ Volume 1: The Spanish from First Principles. Why it matters: Black's e5 pawn claims central space and restricts White, but it needs support; White's whole setup asks how to increase pressure without releasing tension. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Reinforce e5, castle, and prepare counterplay that makes White spend time away from d4. White plan: White plays c3 and d4, sometimes h3 first, to challenge the pawn under ideal conditions. Decision: Which piece is doing a real job in the defense of e5, and can White distract or exchange it? Danger: Defending e5 with passive pieces until Black has no counterplay. Memory rule: A strongpoint is useful when it supports activity, not when every piece is chained to it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Useful tension versus premature exchange"]
+
+{ Volume 1: The Spanish from First Principles. Why it matters: The Spanish position stores energy in unresolved choices: Bxc6, d4, ...b5, and ...d5. Timing determines who benefits from the release. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Black keeps the center stable and creates queenside space while preparing a freeing break. White plan: White keeps the bishop, supports d4, and waits until an exchange improves piece placement or pawn structure. Decision: If the tension is released now, which side gains a tempo, file, or favorable recapture? Danger: Exchanging merely to simplify the position without identifying the improved piece or structure. Memory rule: Keep tension when the opponent must keep solving it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Closed Spanish center"]
+
+{ Volume 2: Spanish Pawn Structures. Why it matters: The intact e4-e5 tension keeps both sides maneuvering; White prepares d4 while Black looks for ...d5 or queenside activity. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 { h3: White prevents a pin and supports the coming central plan at the cost of one tempo. Black plan: Black improves pieces behind the chain, restrains d4, and prepares a central break that does not abandon e5. White plan: White reroutes the b1 knight through d2-f1-g3 and builds d4 under maximum control. Decision: Which side benefits if d4 or ...d5 happens now, and whose pieces are better placed for the opening center? Danger: Launching a wing operation without checking whether the center can open against the king. Memory rule: In a closed Spanish center, maneuver to improve the coming pawn break. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Open e-file transformation"]
+
+{ Volume 2: Spanish Pawn Structures. Why it matters: Black releases the e5 strongpoint and accepts open lines in return for active central pieces and immediate play. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Nxe4 6. d4 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d5 8. dxe5 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use central activity and development to justify the pawn capture; keep the king safe as the e-file opens. White plan: White uses the pin, c3, and Nbd2 to pressure the centralized knight and the d5 base. Decision: Can the e4 knight retreat safely after White's forcing sequence, and what activity does Black gain? Danger: Taking e4 because it is available without calculating d4 and the attack on the knight. Memory rule: An open center rewards activity; a pawn grab must develop the rest of the army. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Exchange structure after Bxc6"]
+
+{ Volume 2: Spanish Pawn Structures. Why it matters: Black accepts doubled c-pawns and the bishop pair; White obtains a healthier queenside majority and a long-term endgame target. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O f6 6. d4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Qxd4 Qxd4 8. Nxd4 { Nxd4: White releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Use the bishops and central majority before simplification fixes the pawn weaknesses. White plan: White exchanges pieces, restrains Black's active breaks, and creates a kingside pawn majority in the ending. Decision: Does the proposed exchange increase the bishop pair's activity or merely approach White's favorable pawn ending? Danger: Trading every piece because the position looks equal while the pawn ending is structurally inferior. Memory rule: In the Exchange Spanish, Black needs active bishops before the endgame becomes only pawns. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Closed Spanish family"]
+
+{ Volume 3: Map of the Ruy Lopez Families. Why it matters: Black maintains e5 and retreats the c6 knight to reorganize, accepting space pressure in exchange for a resilient center. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 { Nb8: Black reroutes a knight to b8; judge the move by the job at its destination and the time conceded on the way. Black plan: Reroute pieces, prepare ...d5, and create queenside or kingside activity according to White's setup. White plan: White completes c3-d4 and improves knights before opening the position. Decision: Which black piece has the least useful future, and what route gives it a central job? Danger: Calling a retreat passive without seeing the square and break it prepares. Memory rule: Spanish retreats are investments: name the destination and the break they support. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Berlin family"]
+
+{ Volume 3: Map of the Ruy Lopez Families. Why it matters: The Berlin trades castling rights for queenless solidity, bishop activity, and a famous structural endgame. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 Nf6 4. O-O Nxe4 { Nxe4: Black releases tension by capturing on e4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. d4 Nd6 6. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. dxe5 Nf5 8. Qxd8+ Kxd8 { Kxd8: Black releases tension by capturing on d8; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Activate the king and bishops, solve the rook connection, and pressure White's advanced e-pawn. White plan: White uses the safer structure, space, and queenside majority to restrict Black before the bishops awaken. Decision: Can Black activate quickly enough that the uncastled king becomes an asset rather than a delay? Danger: Assuming queenless means easy; one passive move can let White fix every weakness. Memory rule: The Berlin is an active endgame, not an early draw offer. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Open Spanish family"]
+
+{ Volume 3: Map of the Ruy Lopez Families. Why it matters: Black takes e4 and builds a broad active center; White receives targets and tactical pressure against the centralized knight. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Nxe4 6. d4 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d5 8. dxe5 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. c3 Bc5 { Bc5: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use development and central space, support the e4 knight, and calculate every d5 or f7 tactic. White plan: White attacks the center with c3, Nbd2, and tactical pins before Black consolidates. Decision: Which central pawn or knight is loose after White's next forcing move? Danger: Believing central activity excuses an undefended piece or delayed king safety. Memory rule: In the Open Spanish, activity is the compensation and must remain concrete. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The compact c3-d3 shell"]
+
+{ Volume 4: The c3-d3 Spanish System. Why it matters: d3 keeps e4 secure and delays central clarification, giving White time for Nbd2-f1-g3 and flexible kingside play. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. d3 { d3: White changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Black gains room for ...Na5, ...c5, or ...d5 and should use the extra time to challenge White's compact center. White plan: White improves pieces, plays h3, Nbd2-f1-g3, and chooses d4 only when it wins a favorable transformation. Decision: What did d3 concede in central space, and which maneuver compensates for it? Danger: Playing the universal setup without noticing Black has achieved ...d5 in one move. Memory rule: A quiet center buys maneuvering time but gives the opponent central freedom. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Knight route d2-f1-g3"]
+
+{ Volume 4: The c3-d3 Spanish System. Why it matters: The b1 knight often reaches g3 through d2 and f1, supporting f5, h5, and central squares without blocking the c-pawn. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. d3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. Nbd2 { Nbd2: White reroutes a knight to d2; judge the move by the job at its destination and the time conceded on the way. Black plan: Black uses the maneuvering time for ...c5, ...Re8, and pressure that limits the knight's destination. White plan: White accepts several tempi because the final g3 knight coordinates an attack and frees other pieces. Decision: Is g3 the knight's real destination, and what useful action can Black take during the journey? Danger: Following the route when f1 or g3 is tactically unavailable or strategically irrelevant. Memory rule: A reroute is justified by the job at the destination, not by tradition. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Choosing the d4 break"]
+
+{ Volume 4: The c3-d3 Spanish System. Why it matters: White waits until pieces support d4 and Black's pieces have declared themselves, then challenges e5 with maximum coordination. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. d3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. Nbd2 Re8 12. Nf1 Bf8 { Bf8: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 13. d4 { d4: White challenges e5 and opens lines after the preparatory pieces are ready. Black plan: Black decides whether to maintain tension, exchange, or counter with ...d5 based on piece placement. White plan: White opens lines for bishops and rooks while preventing Black from gaining a free central break. Decision: After d4, which recapture preserves the better center and which file opens for each rook? Danger: Playing d4 by schedule when the pieces are not ready for the resulting open center. Memory rule: Break only when your pieces improve after the pawn exchanges. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Why White plays h3"]
+
+{ Volume 5: Closed Spanish Foundations. Why it matters: h3 prevents ...Bg4 from increasing pressure on d4 and gives the king luft, but it also spends a tempo and slightly weakens g3. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 { h3: White prevents a pin and supports the coming central plan at the cost of one tempo. Black plan: Black uses the tempo to reorganize and prepares ...Na5, ...Nb8, or ...Bb7 according to the chosen system. White plan: White makes d4 easier and keeps the f3 knight free from a pin during central expansion. Decision: Is ...Bg4 a real problem in this move order, and what does White gain by stopping it now? Danger: Calling h3 useful without accounting for the development tempo it gives Black. Memory rule: A prophylactic move earns its place by protecting a future plan. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The c3 support point"]
+
+{ Volume 5: Closed Spanish Foundations. Why it matters: c3 prepares d4, gives the bishop c2 after ...Na5, and controls b4 and d4; it also takes the c3 square from the knight. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Na5 10. Bc2 { Bc2: White changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Black uses ...Na5 to gain the bishop pair or force Bc2, then expands with ...c5 against d4. White plan: White preserves the bishop and builds the d4 break with coordinated pieces. Decision: Which future square does c3 reserve for the bishop, and how will the b1 knight develop instead? Danger: Playing Nc3 and c3 plans simultaneously without noticing the square conflict. Memory rule: In the Spanish, pawn moves often reserve routes for pieces two moves later. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Maintaining the e4-e5 tension"]
+
+{ Volume 5: Closed Spanish Foundations. Why it matters: Both sides delay capture because the recapture changes piece activity. White wants d4 with space; Black wants a version where exchanges free the cramped position. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. Black plan: Reinforce the center and prepare ...Bb7, ...Re8, or ...Bf8 before releasing tension. White plan: White increases central control and may advance d5 to gain space if Black cannot break. Decision: Which side's worst piece improves after the central exchange? Danger: Resolving tension to reduce calculation while giving the opponent a free developing recapture. Memory rule: Release the center when the recapture helps you more than the opponent. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Breyer knight retreat"]
+
+{ Volume 6: Closed Spanish Maneuvering. Why it matters: ...Nb8 clears c6, reroutes to d7, supports e5, and prepares coordinated ...Bf8 and ...g6; the retreat solves several future problems. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Nbd2 Bb7 12. Bc2 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. Black plan: Complete the reroute, defend e5 economically, and seek ...d5 when the pieces support it. White plan: White uses the time for d4, Nbd2-f1-g3, and queenside space, trying to make the reroute too slow. Decision: What new square and pawn break become possible because c6 was vacated? Danger: Imitating ...Nb8 without knowing whether the Breyer structure and timing are present. Memory rule: A backward move is strong when it clears one square and improves two future moves. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "White's Nbd2-f1-g3 journey"]
+
+{ Volume 6: Closed Spanish Maneuvering. Why it matters: The knight reaches g3 where it supports f5, h5, e4, and f1 while leaving the c-pawn's work intact. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Nbd2 Bb7 12. Bc2 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. } 13. Nf1 Bf8 14. Ng3 { Ng3: White reroutes a knight to g3; judge the move by the job at its destination and the time conceded on the way. Black plan: Black restrains f5 and uses ...g6, ...c5, or ...d5 before White completes a kingside buildup. White plan: White accumulates pieces toward the king while preserving central tension. Decision: What attacking or central break does Ng3 make possible, and what can Black challenge now? Danger: Completing a long maneuver while the center changes and the destination loses relevance. Memory rule: Recheck the board at every station of a maneuver; the destination is not guaranteed. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Spanish light bishop"]
+
+{ Volume 6: Closed Spanish Maneuvering. Why it matters: The bishop retreats to c2 to preserve itself and aim at h7, but it can become buried behind e4 unless the center opens. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. d4 Qc7 12. Nbd2 { Nbd2: White reroutes a knight to d2; judge the move by the job at its destination and the time conceded on the way. Black plan: Black blocks or contests the diagonal and uses queenside space while monitoring kingside sacrifices. White plan: White opens the b1-h7 diagonal with d4 and sometimes e5, then coordinates queen and bishop against h7. Decision: Is the bishop currently active, and which pawn break turns its hidden diagonal into a threat? Danger: Valuing the bishop pair abstractly while the c2 bishop has no line or target. Memory rule: Preserve the Spanish bishop only if you can eventually open its diagonal. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The central pawn sacrifice"]
+
+{ Volume 7: The Marshall Attack. Why it matters: ...d5 gives a pawn to open diagonals, accelerate development, and pull White's pieces away from king defense. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. c3 d5 { d5: Black challenges the center or offers dynamic activity, depending on the system. } 9. exd5 Nxd5 10. Nxe5 Nxe5 { Nxe5: Black releases tension by capturing on e5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 11. Rxe5 c6 { c6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Use the lead in activity, bishop pair, and queen entry squares before White consolidates the extra pawn. White plan: White returns material or exchanges attackers, giving priority to king safety over keeping every pawn. Decision: After accepting the pawn, which black piece enters with tempo and which defensive piece can White trade? Danger: Black drifting after the sacrifice or White greedily defending material while lines open around the king. Memory rule: The Marshall pawn buys time and lines; spend both immediately. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The queen reaches h4"]
+
+{ Volume 7: The Marshall Attack. Why it matters: Qh4 creates direct threats on h2 and coordinates with bishops; White's pieces must defend squares, not merely count material. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. c3 d5 { d5: Black challenges the center or offers dynamic activity, depending on the system. } 9. exd5 Nxd5 10. Nxe5 Nxe5 { Nxe5: Black releases tension by capturing on e5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 11. Rxe5 c6 12. d4 Bd6 { Bd6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 13. Re1 Qh4 { Qh4: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Increase forcing pressure with bishops and rooks while preventing simplifying exchanges. White plan: White plays g3 or h3 accurately, offers material back, and tries to exchange the dark-squared bishop or queen. Decision: What is the immediate threat after ...Qh4, and which defense also improves coordination? Danger: Answering the visible mating threat while allowing a second tactical entry on h2 or f2. Memory rule: In the Marshall, list all threats before choosing a defensive move. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Returning material for safety"]
+
+{ Volume 7: The Marshall Attack. Why it matters: White's extra pawn has little value if the king remains boxed in; returning it can trade queens or attacking pieces and reach a playable ending. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. c3 d5 { d5: Black challenges the center or offers dynamic activity, depending on the system. } 9. exd5 Nxd5 10. Nxe5 Nxe5 { Nxe5: Black releases tension by capturing on e5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 11. Rxe5 c6 12. d4 Bd6 { Bd6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 13. Re1 Qh4 14. g3 Qh3 { Qh3: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Black avoids premature exchanges and keeps threats linked, but must recognize when the attack has ended. White plan: White creates luft, covers h2, and offers material to eliminate the most dangerous attacker. Decision: Which material return removes the largest share of Black's attacking force? Danger: Trying to refute the attack tactically when a calm material return solves the king-safety problem. Memory rule: Against compensation, return material when it buys coordination and king safety. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "8.a4 restrains ...b5"]
+
+{ Volume 8: Anti-Marshall Systems. Why it matters: a4 attacks the queenside chain and changes Black's ...d5 sacrifice because b5 can become loose. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. a4 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. d3 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. Black plan: Black maintains development, protects the queenside, and switches toward central or kingside piece play. White plan: White fixes a queenside target, keeps the center compact, and later chooses c3-d4. Decision: Does a4 win a target now, or does it merely force Black into a different stable structure? Danger: Assuming the Marshall is avoided and relaxing about Black's central activity. Memory rule: Avoiding one system means accepting another; know what a4 weakens and attacks. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Early h3 move order"]
+
+{ Volume 8: Anti-Marshall Systems. Why it matters: h3 keeps options open and prevents a pin, but it does not challenge the center directly. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. h3 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. d3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Black develops flexibly and can choose ...d6, ...Bb7, or central play without the exact Marshall move order. White plan: White uses the useful waiting move to select d3 or c3-d4 after Black reveals the setup. Decision: What option did h3 preserve, and what central freedom did it give Black? Danger: Thinking a move-order sidestep removes the need to understand the resulting middlegame. Memory rule: A move-order tool is successful only if you know the new position it creates. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Anti-Marshall d3 center"]
+
+{ Volume 8: Anti-Marshall Systems. Why it matters: The d3 center denies immediate central liquidation and leads to maneuvering where queenside weaknesses and piece routes matter. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. a4 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. d3 Re8 10. Nbd2 Bf8 { Bf8: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Black uses ...Bf8, ...g6, or ...d5 preparation and avoids defending b5 passively. White plan: White pressures b5, reroutes knights, and chooses d4 when the pieces are ideally placed. Decision: Which side can improve a piece without fixing a new weakness? Danger: Obsessing over the b5 pawn while the opponent takes over the center. Memory rule: In anti-Marshall positions, the game returns to Spanish maneuvering; improve the worst piece. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Entering the Berlin endgame"]
+
+{ Volume 9: The Berlin Defense. Why it matters: Queens come off, but the position remains rich: White has better pawns and space; Black has bishops, king activity, and pressure on e5. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 Nf6 4. O-O Nxe4 { Nxe4: Black releases tension by capturing on e4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. d4 Nd6 6. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. dxe5 Nf5 8. Qxd8+ Kxd8 { Kxd8: Black releases tension by capturing on d8; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Black activates the king and bishops, connects rooks, and undermines e5 before White consolidates. White plan: White restricts the bishops, protects e5 efficiently, and uses the kingside pawn majority. Decision: Whose slow asset becomes active first: Black's bishops or White's pawn majority? Danger: Playing automatically because the queens are gone and allowing the opponent's strategic asset to mature. Memory rule: The Berlin trades tactical danger for a race between activity and structure. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Activating the uncastled king"]
+
+{ Volume 9: The Berlin Defense. Why it matters: Without queens, the king can walk toward e8 or c8 to connect rooks and defend central squares; lost castling is not automatically lost time. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 Nf6 4. O-O Nxe4 { Nxe4: Black releases tension by capturing on e4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. d4 Nd6 6. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. dxe5 Nf5 8. Qxd8+ Kxd8 { Kxd8: Black releases tension by capturing on d8; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 9. Nc3 Ke8 { Ke8: Black improves coordination and changes the candidate set. Black plan: Choose the king route that frees the h8 rook and avoids tactical checks or pins. White plan: White gains space and tries to prevent easy rook coordination with active minor pieces. Decision: Which king square connects the rooks fastest without blocking a bishop or entering a tactic? Danger: Hiding the king as if queens remained, leaving the rook trapped and the position passive. Memory rule: In queenless play, the king is a piece; activate it with calculation. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The advanced e5 pawn"]
+
+{ Volume 9: The Berlin Defense. Why it matters: White's e5 pawn gains space and restricts f6, but it can become a fixed target for bishops, king, and rooks. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 Nf6 4. O-O Nxe4 { Nxe4: Black releases tension by capturing on e4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. d4 Nd6 6. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. dxe5 Nf5 8. Qxd8+ Kxd8 { Kxd8: Black releases tension by capturing on d8; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 9. Nc3 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Attack e5 without becoming tied down, use ...h6 or ...Ke8 as needed, and activate the light bishop. White plan: White supports e5 economically and uses the space to improve knights and the kingside majority. Decision: Is e5 a protected strength or an overextended target, and which defender can be overloaded? Danger: Defending or attacking the pawn with too many pieces and surrendering activity elsewhere. Memory rule: An advanced pawn is strong when it restricts more pieces than it needs to defend. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Why 5...Nxe4 works"]
+
+{ Volume 10: The Open Spanish. Why it matters: Black can take e4 because ...d5 supports the knight and opens active lines; the apparent pawn grab is a prepared central system. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Nxe4 6. d4 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d5 8. dxe5 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Keep the knight coordinated, develop with tempo, and use the broad center before White attacks its base. White plan: White challenges the center immediately and uses pins against c6 and tactical pressure on d5. Decision: After White's next forcing move, where can the e4 knight go and which pawn holds the center together? Danger: Taking e4 in a move order where ...d5 cannot support the knight. Memory rule: The Open Spanish pawn capture is sound because the center arrives behind it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "White attacks the d5 base"]
+
+{ Volume 10: The Open Spanish. Why it matters: White does not chase the knight blindly; c3 and Nbd2 add pressure to the central base and improve development. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Nxe4 6. d4 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d5 8. dxe5 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. c3 Bc5 10. Nbd2 { Nbd2: White reroutes a knight to d2; judge the move by the job at its destination and the time conceded on the way. Black plan: Black defends d5 dynamically, castles, and uses piece activity to prevent White from collecting central pawns. White plan: White attacks d5 and e4 while keeping tactical pressure on f7 and the pinned c6 knight. Decision: Which defender of d5 is pinned, overloaded, or vulnerable to exchange? Danger: Black defending the pawn passively or White taking before completing the tactical sequence. Memory rule: Attack the base of an active center; its advanced piece often depends on it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Piece activity as compensation"]
+
+{ Volume 10: The Open Spanish. Why it matters: Black's center may later dissolve, so development and piece activity must create threats while it exists. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Nxe4 6. d4 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d5 8. dxe5 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. c3 Bc5 10. Nbd2 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Castle, centralize rooks, and use bishops on active diagonals before accepting simplification. White plan: White seeks exchanges that leave Black with weak central pawns and no initiative. Decision: Does the proposed exchange preserve Black's activity or leave only structural targets? Danger: Trading active pieces because it simplifies calculation while the center becomes weak. Memory rule: Dynamic compensation expires; convert it into development, tactics, or a sound structure. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Archangel bishop on b7"]
+
+{ Volume 11: Archangel and Neo-Arkhangelsk. Why it matters: ...Bb7 develops actively against e4 before locking the bishop with ...d6, increasing central pressure at the cost of queenside pawn moves. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O b5 6. Bb3 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 7. d3 Be7 8. Re1 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Keep pressure on e4, castle, and choose ...d6 or ...Bc5 without allowing a central tactic. White plan: White supports e4, plays a4 against b5, and prepares c3-d4 to challenge the bishops. Decision: Does the b7 bishop create a concrete burden on e4, or is it biting into a defended chain? Danger: Spending more tempi on queenside pawns while the king remains in the center. Memory rule: An active diagonal is valuable when it forces the opponent to defend. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Neo-Arkhangelsk ...Bc5"]
+
+{ Volume 11: Archangel and Neo-Arkhangelsk. Why it matters: ...Bc5 develops outside the pawn chain and eyes f2, producing immediate activity and tactical pressure. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O b5 6. Bb3 Bc5 { Bc5: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 7. d3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Castle quickly, preserve the bishop's influence, and meet d4 with a central choice that keeps activity. White plan: White plays c3-d4, a4, or Be3 to challenge the active bishop and queenside structure. Decision: Can White gain a useful tempo on the c5 bishop while opening the center? Danger: Falling in love with the active bishop and retreating it repeatedly while White develops. Memory rule: Active placement must survive the opponent's central tempo. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "White's a4 lever"]
+
+{ Volume 11: Archangel and Neo-Arkhangelsk. Why it matters: a4 challenges the advanced b5 pawn and can open the a-file or fix a queenside weakness before Black consolidates. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O b5 6. Bb3 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 7. d3 Bc5 8. a4 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Decide whether to maintain, exchange, or advance the pawn chain based on the resulting files and bishop safety. White plan: White opens a queenside file, weakens b5, and distracts Black from central pressure. Decision: After axb5 or ...b4, which rook and bishop become better, and which pawn becomes a target? Danger: Responding to a4 by habit without evaluating the opened file. Memory rule: A pawn lever is judged by the lines it opens and the targets it leaves. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Vacating c6 for the c-pawn"]
+
+{ Volume 12: The Breyer Defense. Why it matters: ...Nb8 lets the c-pawn move, sends the knight to d7, and supports e5 without blocking the b7 bishop. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. Black plan: Complete ...Nbd7 and ...Bb7, then choose ...Re8, ...Bf8, and ...d5 in an order that meets White's threats. White plan: White uses the retreat tempo to occupy space with d4 and improve the queenside knight. Decision: What concrete central or queenside move becomes possible only because c6 is empty? Danger: Playing the Breyer retreat in a position where c6 is still the knight's best defensive square. Memory rule: Vacate a square only when another piece or pawn has a valuable claim to it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...Bf8 defensive regrouping"]
+
+{ Volume 12: The Breyer Defense. Why it matters: ...Bf8 protects g7 and h6, supports the king, and clears e7 for other pieces while keeping the bishop for a later diagonal. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Nbd2 Bb7 12. Bc2 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. } 13. Nf1 Bf8 { Bf8: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use the bishop as a defensive anchor, then reactivate it after the center or kingside structure changes. White plan: White adds Ng3, a4, and kingside pressure, trying to make Black's regrouping too slow. Decision: What square is the bishop defending now, and what event will release it later? Danger: Calling a defensive retreat complete without a reactivation plan. Memory rule: A good defensive piece prevents a break now and returns to activity later. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Preparing the freeing ...d5"]
+
+{ Volume 12: The Breyer Defense. Why it matters: The Breyer's moves reinforce e5 and organize the pieces so ...d5 can challenge White's center without tactical collapse. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Nbd2 Bb7 12. Bc2 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. } 13. Nf1 Bf8 14. Ng3 g6 { g6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Complete coordination, watch d5 and e4 tactics, and play the break when exchanges free the bishops and rooks. White plan: White restrains ...d5, uses a4, and builds kingside pressure while Black prepares. Decision: If ...d5 is played, which white capture or advance is strongest and where do the black pieces go afterward? Danger: Delaying the break beyond the moment of readiness until White's space squeeze becomes permanent. Memory rule: Preparation has an expiry date; break when every piece supports the transformation. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Chigorin ...Na5 and ...c5"]
+
+{ Volume 13: Chigorin and Zaitsev Systems. Why it matters: Black gains the bishop retreat and attacks White's center with ...c5, accepting that the a5 knight may need a later route. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. d4 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Use queenside space and c-file pressure, then reroute the a5 knight before it becomes irrelevant. White plan: White builds d4, may play d5, and uses the a5 knight's distance from the kingside. Decision: After ...c5, where is the a5 knight's next useful square and what happens if the center closes? Danger: Completing ...Na5-c5 by habit while the knight has no return route. Memory rule: A gain of bishop tempo is temporary; budget a route for the knight. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Zaitsev bishop pressure"]
+
+{ Volume 13: Chigorin and Zaitsev Systems. Why it matters: ...Bb7 and ...Re8 intensify pressure on e4 and prepare active central play without retreating the c6 knight. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Bb7 10. d4 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. } 11. Nbd2 Bf8 { Bf8: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Coordinate the bishop and rook against e4, then use ...Bf8 and ...h6 or ...g6 to stabilize the king. White plan: White uses d5, a4, or Ng5 ideas to exploit the exposed long diagonal and move order. Decision: Does pressure on e4 create a real tactical obligation, or can White advance d5 with gain of time? Danger: Adding attackers to e4 while ignoring White's central advance or repetition resources. Memory rule: Pressure matters when it changes the opponent's move; otherwise improve the worst piece. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Comparing the two systems"]
+
+{ Volume 13: Chigorin and Zaitsev Systems. Why it matters: Chigorin creates immediate queenside and c-file play; Zaitsev keeps more central pressure and piece tension. The choice changes the long-term knight problem. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. d4 Qc7 12. Nbd2 { Nbd2: White reroutes a knight to d2; judge the move by the job at its destination and the time conceded on the way. Black plan: Select the system whose piece route and central break match the current move order, not merely personal taste. White plan: White adapts the center: d5 against queenside play, or tactical pressure against e4-focused pieces. Decision: Which black knight or bishop will be worst after the center closes? Danger: Mixing moves from both systems and producing a position where neither plan works fully. Memory rule: A system is a coordinated package; do not collect its moves one at a time. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Schliemann 3...f5"]
+
+{ Volume 14: Schliemann, Bird, and Classical Defenses. Why it matters: ...f5 challenges e4 immediately and creates tactical imbalance, but weakens the king and e6 while development is incomplete. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 f5 4. d4 fxe4 { fxe4: Black releases tension by capturing on e4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. Nxe5 Nf6 6. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use the open f-file and central activity, develop quickly, and calculate checks before keeping extra material. White plan: White opens the center, targets the king, and uses rapid development against the weakened dark squares. Decision: After ...f5, does Black have a safe king and enough development for every opened line? Danger: Treating surprise value as compensation for a permanently exposed king. Memory rule: A gambit defense succeeds through activity; if development stops, the weaknesses remain. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Bird Defense 3...Nd4"]
+
+{ Volume 14: Schliemann, Bird, and Classical Defenses. Why it matters: ...Nd4 offers a structural transformation that gains central space but can leave the d4 pawn overextended and the c-pawn committed. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 Nd4 4. Nxd4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O c6 6. Be2 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. Black plan: Use the space to develop with tempo, support or exchange the d4 pawn, and avoid a static target. White plan: White exchanges, attacks d4, and uses the open e-file plus faster castling. Decision: Is the d4 pawn a space-gaining wedge or a target that blocks Black's own pieces? Danger: Defending the advanced pawn with more pawn moves while falling behind in development. Memory rule: An advanced central pawn must restrict pieces or open lines; otherwise it is a target. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Classical 3...Bc5"]
+
+{ Volume 14: Schliemann, Bird, and Classical Defenses. Why it matters: ...Bc5 develops actively and allows a more immediate central confrontation than the Morphy Defense. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 Bc5 4. c3 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. d4 exd4 6. e5 Ne4 { Ne4: Black reroutes a knight to e4; judge the move by the job at its destination and the time conceded on the way. } 7. cxd4 Bb4+ { Bb4+: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use piece activity and tactical checks to meet d4; do not let the bishop become a target without compensation. White plan: White builds c3-d4 with tempo and uses e5 to drive the f6 knight. Decision: After White's central advance, which active check or capture preserves Black's initiative? Danger: Leaving the bishop on c5 while White gains d4 and e5 with tempo. Memory rule: Active development must anticipate the pawn moves that attack it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Why White gives up the Spanish bishop"]
+
+{ Volume 15: The Exchange Variation. Why it matters: White surrenders the bishop pair to damage Black's queenside majority and create a favorable long-term pawn ending. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O f6 6. d4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Qxd4 { Qxd4: White releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Black uses the bishops, central pawns, and open lines before the damaged majority becomes an endgame liability. White plan: White simplifies selectively, creates a kingside majority, and limits the bishops. Decision: Does this exchange approach the favorable pawn ending or activate Black's bishops too much? Danger: White trading every piece regardless of bishop activity, or Black accepting passive simplification. Memory rule: The Exchange Spanish is a time race: bishops now versus structure later. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black's ...f6 support"]
+
+{ Volume 15: The Exchange Variation. Why it matters: ...f6 supports e5 and prepares king activity, but it blocks the g8 knight's best square and slightly loosens the king. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O f6 6. d4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Qxd4 Qxd4 8. Nxd4 Bd7 { Bd7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Develop through e7 or h6, use the bishop pair, and avoid letting f6 become a permanent hook. White plan: White opens the center while Black's kingside development is awkward and seeks exchanges. Decision: Which route develops the g8 knight and king most efficiently after ...f6? Danger: Protecting e5 so heavily that the kingside pieces never become active. Memory rule: A pawn that supports the center must not imprison the pieces behind it. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The pawn-ending warning"]
+
+{ Volume 15: The Exchange Variation. Why it matters: If all pieces disappear, White can often create a passed pawn with the kingside majority while Black's doubled c-pawns fail to make one. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O f6 6. d4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Qxd4 Qxd4 8. Nxd4 Bd7 { Bd7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. Be3 O-O-O { O-O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Keep active pieces, create counterplay, and exchange into pawn endings only after calculating the majority race. White plan: White welcomes piece trades that preserve a healthy kingside four-against-three majority. Decision: After all exchanges, can each wing create a passed pawn and whose king reaches it first? Danger: Calling a queenless or rookless ending equal without calculating the pawn majorities. Memory rule: Before simplifying, play the pawn ending in your head. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The e5 pawn and the c6 pin"]
+
+{ Volume 16: Ruy Lopez Tactical Grammar. Why it matters: Pressure on e5 often depends on whether the c6 knight is pinned and whether Black has a tactical reply against e4. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. d4 Bg4 { Bg4: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Unpin when necessary, defend e5 with active pieces, and use counter-pressure instead of piling up passive defenders. White plan: White combines Bxc6, dxe5, and tactical pressure on pinned pieces to win central time. Decision: If the c6 knight moves or disappears, what becomes loose on e5, d4, or b5? Danger: Using simple attacker-defender counting while a pin changes which piece can legally recapture. Memory rule: In Spanish tactics, ask whether the c6 knight is a defender in fact or only on paper. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The bishop sacrifice on f7 or h7"]
+
+{ Volume 16: Ruy Lopez Tactical Grammar. Why it matters: The c2 bishop can become a tactical weapon on h7 once d4 or e5 clears the diagonal and the queen joins the attack. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. d4 Qc7 12. Nbd2 { Nbd2: White reroutes a knight to d2; judge the move by the job at its destination and the time conceded on the way. Black plan: Monitor the b1-h7 diagonal, create luft or defenders, and challenge the center before White aligns every attacker. White plan: White opens the diagonal with tempo and calculates Bxh7+ motifs based on king squares and knight support. Decision: After Bxh7+, where can the king go and what material or attack follows? Danger: Sacrificing because the bishop points at h7 without a queen route or knight follow-up. Memory rule: A Greek-gift pattern needs access, support, and a trapped king. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Noah's Ark queenside trap"]
+
+{ Volume 16: Ruy Lopez Tactical Grammar. Why it matters: ...a6, ...b5, ...Na5, and ...c5 can gain bishop tempi, but the famous trap pattern works only if the bishop truly lacks a safe square. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 Na5 { Na5: Black reroutes a knight to a5; judge the move by the job at its destination and the time conceded on the way. } 9. Bc2 c5 10. d4 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Gain space while tracking the bishop's retreat route and the central cost of each pawn move. White plan: White preserves the bishop via c2 and uses d4 to attack the pawn chain before it advances again. Decision: If the queenside pawns advance one more time, where exactly can the bishop retreat? Danger: Playing the trap pattern by rote while White opens the center and escapes with tempo. Memory rule: A trapping net is real only when every flight square is controlled. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Bishop pair versus fixed pawns"]
+
+{ Volume 17: Spanish Endgames and Transformations. Why it matters: Black's bishops need open diagonals; if pawns become fixed on one color, one bishop may become a large pawn while White attacks targets. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O f6 6. d4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Qxd4 Qxd4 8. Nxd4 Bd7 { Bd7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. Be3 O-O-O { O-O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Create pawn breaks, keep both bishops active, and avoid fixing every pawn on the bishop's own color. White plan: White blockades, exchanges the active bishop, and attacks the doubled pawns with knights and rooks. Decision: Which pawn break opens a diagonal for the restricted bishop? Danger: Keeping the bishop pair as a label while the structure denies both bishops useful lines. Memory rule: The bishop pair is an asset only when the position can open. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The queenside majority"]
+
+{ Volume 17: Spanish Endgames and Transformations. Why it matters: Black's doubled c-pawns often cannot create a clean passed pawn, while White's kingside majority can; piece activity must alter that arithmetic. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O f6 6. d4 exd4 { exd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Qxd4 Qxd4 8. Nxd4 Bd7 { Bd7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. Be3 O-O-O 10. Nc3 { Nc3: White reroutes a knight to c3; judge the move by the job at its destination and the time conceded on the way. Black plan: Use the c-pawns for square control or exchanges, activate the king, and create counterplay before the distant majority advances. White plan: White fixes the c-pawns, centralizes the king, and prepares a kingside passer. Decision: Can Black trade one doubled pawn for a healthy enemy pawn and repair the majority? Danger: Treating doubled pawns as immobile weaknesses rather than potential levers and exchange tools. Memory rule: Damaged pawns can still buy squares and exchanges; spend them actively. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Releasing central tension into a rook ending"]
+
+{ Volume 17: Spanish Endgames and Transformations. Why it matters: When the center opens, the e- and d-files determine rook activity; the better recapture can matter more than one isolated pawn. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Nbd2 Bb7 12. Bc2 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. Black plan: Choose exchanges that give a rook an open file and prevent White's knight from occupying the best central outpost. White plan: White uses the space and open files to enter the seventh rank or fix d6. Decision: After the pawn exchanges, which rook gets the first active file and which pawn becomes fixed? Danger: Evaluating only pawn structure while conceding active-rook tempi. Memory rule: In rook endings, activity can outweigh structure, but only if the entry square exists. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "White's main-plan rehearsal"]
+
+{ Volume 18: A Lifetime Ruy Lopez System. Why it matters: White's durable plan links pressure on e5, c3-d4, bishop preservation, and knight rerouting; each move prepares the central release. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Nb8 10. d4 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Nbd2 Bb7 12. Bc2 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. } 13. Nf1 Bf8 { Bf8: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Black organizes a freeing break and challenges White's buildup before every piece reaches its ideal square. White plan: White identifies the least active piece, improves it, and plays d4 only when the transformation helps the whole army. Decision: Which preparatory move is still essential, and which can be omitted because Black changed the setup? Danger: Reciting the full maneuvering script after the position has already demanded concrete action. Memory rule: The Spanish plan is modular: keep the purpose, adjust the move order. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black's defense-choice tree"]
+
+{ Volume 18: A Lifetime Ruy Lopez System. Why it matters: Black's major systems answer the same pressure differently: maintain e5, sacrifice with ...d5, enter a queenless Berlin, or activate through an Open Spanish center. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 O-O 8. c3 d5 { d5: Black challenges the center or offers dynamic activity, depending on the system. Black plan: Choose a system whose strategic debt you accept, then play its coordinated package rather than mixing move fragments. White plan: White identifies the debt: weak squares, sacrificed pawn, uncastled king, or delayed development, and builds pressure against it. Decision: What did Black gain, what permanent concession was made, and how must the gain be used? Danger: Selecting a defense by reputation while disliking the middlegames it intentionally creates. Memory rule: Every Spanish defense is a bargain; know both the asset and the debt. } *
+
+[Event "Ruy Lopez Both Sides Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Repairing Spanish theory from games"]
+
+{ Volume 18: A Lifetime Ruy Lopez System. Why it matters: Because the Ruy Lopez branches deeply, efficient study begins at the first position where your plan became unclear, not at move one after every loss. } 1. e4 e5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 a6 4. Ba4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. O-O Be7 6. Re1 b5 { b5: Black gains bishop tempo and queenside space while creating a possible pawn target. } 7. Bb3 d6 8. c3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. h3 Na5 10. Bc2 c5 { c5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 11. d4 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Record the structure, candidate moves, and strongest opponent reply; add one corrected line and one verbal rule to the repertoire. White plan: Use both colors in training so opponent resources become familiar plans rather than surprises. Decision: At what move did you stop understanding the position, and what cue should trigger the correct plan next time? Danger: Replacing understanding with ever-longer files or abandoning the opening after one tactical loss. Memory rule: Repair the first unexplained decision and rehearse it from both sides. } *
+

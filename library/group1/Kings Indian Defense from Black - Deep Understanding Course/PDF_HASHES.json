@@ -1,0 +1,128 @@
+[
+  {
+    "file": "01_The_Kings_Indian_from_First_Principles.pdf",
+    "pages": 30,
+    "bytes": 370296,
+    "min_text_chars": 381,
+    "sha256": "7434afa588b8382a57a0dcc7cde8218f99ae6e18728e5f9d00ff592c5c893c26"
+  },
+  {
+    "file": "02_Central_Breaks_and_Structure_Recognition.pdf",
+    "pages": 30,
+    "bytes": 369545,
+    "min_text_chars": 376,
+    "sha256": "13c9603b8617e873f65eb92c174a0eb9a5f6bfd7b6fd9bfba9e229e7c11104a5"
+  },
+  {
+    "file": "03_The_Classical_System_Repertoire_Map.pdf",
+    "pages": 30,
+    "bytes": 369812,
+    "min_text_chars": 377,
+    "sha256": "5338e821e6ff6365e8d1e6dd20299a46958eff92a6ed525887d5ef10378e3f1e"
+  },
+  {
+    "file": "04_Mar_del_Plata_Blacks_Attacking_Engine.pdf",
+    "pages": 30,
+    "bytes": 369388,
+    "min_text_chars": 377,
+    "sha256": "ff5a5bf78105ba4fae8d976125233c3e40a48ee4e9ececa482d77ab7f24a66b8"
+  },
+  {
+    "file": "05_The_Bayonet_Attack_and_Queenside_Expansion.pdf",
+    "pages": 30,
+    "bytes": 368250,
+    "min_text_chars": 384,
+    "sha256": "80560450f2afacb3d5b851a4d915275bf76cc2925f42f5e3fcc4c3c9fcd15375"
+  },
+  {
+    "file": "06_Petrosian_Gligoric_and_Orthodox_Alternatives.pdf",
+    "pages": 30,
+    "bytes": 369614,
+    "min_text_chars": 392,
+    "sha256": "daac12f681316d8ad570fb2d2ad1b76d9b603eba2d51321838dd2147b3531145"
+  },
+  {
+    "file": "07_The_Saemisch_System.pdf",
+    "pages": 30,
+    "bytes": 368560,
+    "min_text_chars": 359,
+    "sha256": "f38f8bd7ef0778ebc8966cb06ae93f74b521cf24f6159148d617ebc2a462e742"
+  },
+  {
+    "file": "08_The_Four_Pawns_Attack.pdf",
+    "pages": 30,
+    "bytes": 367830,
+    "min_text_chars": 360,
+    "sha256": "7034a9e1a29beb6ed27a53aa616801a87d719e8a6ee0de7277aae1a5d04479ef"
+  },
+  {
+    "file": "09_The_Fianchetto_Variation.pdf",
+    "pages": 30,
+    "bytes": 369327,
+    "min_text_chars": 374,
+    "sha256": "fd44d0b20807926115b5f50f936380a4260c4b00a79a0efa2370cdab5ee5165e"
+  },
+  {
+    "file": "10_Averbakh_and_Makogonov_Systems.pdf",
+    "pages": 30,
+    "bytes": 368621,
+    "min_text_chars": 365,
+    "sha256": "5ea212b82ef6cbb925d4ddc2126ff8f2a3be6ac11ae7deaecd2862c59fabd01c"
+  },
+  {
+    "file": "11_Early_e4_Deviations.pdf",
+    "pages": 30,
+    "bytes": 367854,
+    "min_text_chars": 352,
+    "sha256": "aa7ae23c0c9551163b7351cd87d2322118619a4fb21da401ce60c10cefa2fe44"
+  },
+  {
+    "file": "12_Anti_Kings_Indian_Systems.pdf",
+    "pages": 30,
+    "bytes": 368877,
+    "min_text_chars": 353,
+    "sha256": "be83e8bc830396cf016351bab1c0f2d849b2b54039a5c7fb50b1ca99f07f3824"
+  },
+  {
+    "file": "13_English_and_Reti_Transpositions.pdf",
+    "pages": 30,
+    "bytes": 368913,
+    "min_text_chars": 364,
+    "sha256": "e8372f682e14a9f810edd1b27bc5e03d5189bc091765794fee2bb3a44baecc87"
+  },
+  {
+    "file": "14_Kings_Indian_Tactical_Patterns.pdf",
+    "pages": 30,
+    "bytes": 368272,
+    "min_text_chars": 374,
+    "sha256": "f1ffc0c9ea90dd3f7759061a2a0b3c3419c161cc51d91a294ac56ad88847ef7e"
+  },
+  {
+    "file": "15_Piece_Maneuvers_and_Strategic_Coordination.pdf",
+    "pages": 30,
+    "bytes": 369300,
+    "min_text_chars": 380,
+    "sha256": "ce4029269d906570c24b7199b1fd8be16cedc9bb90d549cc16711f722b940845"
+  },
+  {
+    "file": "16_Defense_Resilience_and_Counterplay.pdf",
+    "pages": 30,
+    "bytes": 368892,
+    "min_text_chars": 378,
+    "sha256": "85edd6416c387f26e68337756b3a0d89bc794df7c98334ee84bfe5b0e20cac98"
+  },
+  {
+    "file": "17_Exchanges_Endgames_and_Transformations.pdf",
+    "pages": 30,
+    "bytes": 365225,
+    "min_text_chars": 374,
+    "sha256": "a9333dd4838dc7dd87cc9c070f5c1f31fb4a7d2b6cb4ac934bb4fb84086bffc8"
+  },
+  {
+    "file": "18_Pirc_Bridge_and_Lifetime_Repertoire_System.pdf",
+    "pages": 30,
+    "bytes": 369830,
+    "min_text_chars": 400,
+    "sha256": "9ccd0ca60c81c67a5d37918edefad8d9a6ef2fdf4e98720450f7cbef30eb914a"
+  }
+]

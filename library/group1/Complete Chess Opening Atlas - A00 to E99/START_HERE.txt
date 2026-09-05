@@ -1,0 +1,33 @@
+COMPLETE CHESS OPENING ATLAS - A00 TO E99
+===========================================
+
+This library contains 500 individual PDFs and 3,810 named opening lines.
+
+HOW TO USE IT
+-------------
+1. Pick one opening you actually meet in your games.
+2. Study pages 1-2 first: description, goals, pawn breaks, and danger signs.
+3. Rebuild the featured diagram on a board without looking.
+4. Browse the named-line catalogue only after you understand the position.
+5. Import ALL_3810_NAMED_OPENING_LINES.pgn into Fritz or another chess program.
+6. Play training games and explain every move in words before checking an engine.
+
+FOLDER MAP
+----------
+A - flank openings, English, Benoni systems, and Dutch
+B - semi-open games, Caro-Kann, and Sicilian
+C - French and open games after 1.e4 e5
+D - closed games, Queen's Gambit, Slav, and Grunfeld
+E - Catalan, Queen's Indian, Nimzo-Indian, and King's Indian
+
+A practical recommendation: do not try to memorize all 500. Use the atlas as a map.
+Build a small personal repertoire, then consult the relevant code when a new opening
+appears in your games.
+
+FILES
+-----
+OPENING_ATLAS_MANIFEST.csv - one row per PDF, including page count and path
+ALL_3810_NAMED_OPENING_LINES.csv - searchable source catalogue with FEN positions
+ALL_3810_NAMED_OPENING_LINES.pgn - importable Fritz training/reference file
+SOURCE_AND_SCOPE.txt - dataset, license, and limitations
+OPENING_ATLAS_INDEX.html - clickable offline index

@@ -1,0 +1,128 @@
+[
+  {
+    "file": "01_The_Spanish_from_First_Principles.pdf",
+    "pages": 30,
+    "bytes": 371351,
+    "min_text_chars": 428,
+    "sha256": "2617459662bfe7771df0cdbe0faec41f7abfd005a04d26c2a0a6f5f2f1692c34"
+  },
+  {
+    "file": "02_Spanish_Pawn_Structures.pdf",
+    "pages": 30,
+    "bytes": 367117,
+    "min_text_chars": 388,
+    "sha256": "fbd7c1d96f2fa17e01a48a0b301fc0401be997bc977ab58a278e7aa2d7437664"
+  },
+  {
+    "file": "03_Map_of_the_Ruy_Lopez_Families.pdf",
+    "pages": 30,
+    "bytes": 364779,
+    "min_text_chars": 398,
+    "sha256": "7a43d99a807e9b5b11fe47aeb7a024bd13cf9e560c571e0c7f2125e42290f26c"
+  },
+  {
+    "file": "04_The_c3_d3_Spanish_System.pdf",
+    "pages": 30,
+    "bytes": 370879,
+    "min_text_chars": 393,
+    "sha256": "52e929416cf89a083a0d0c982b42445a9612e63d2991462d0ef40b2c850445e3"
+  },
+  {
+    "file": "05_Closed_Spanish_Foundations.pdf",
+    "pages": 30,
+    "bytes": 370173,
+    "min_text_chars": 381,
+    "sha256": "fb679e2107036de2dbad430e37555b2c265acb3064dead7df2818b78f6b1079d"
+  },
+  {
+    "file": "06_Closed_Spanish_Maneuvering.pdf",
+    "pages": 30,
+    "bytes": 370688,
+    "min_text_chars": 392,
+    "sha256": "924da9f5a746b228260f5e99130055282358d237606adf152480739a28b3362f"
+  },
+  {
+    "file": "07_The_Marshall_Attack.pdf",
+    "pages": 30,
+    "bytes": 369244,
+    "min_text_chars": 410,
+    "sha256": "248b4aced79c29c1942f996d91a2829606b1329724e6323ea19642e9fd4049d3"
+  },
+  {
+    "file": "08_Anti_Marshall_Systems.pdf",
+    "pages": 30,
+    "bytes": 370033,
+    "min_text_chars": 406,
+    "sha256": "8ddf1ac343f48f15123048db8126976af0bbd0d8af13eb9b912cf8f61a73007a"
+  },
+  {
+    "file": "09_The_Berlin_Defense.pdf",
+    "pages": 30,
+    "bytes": 355338,
+    "min_text_chars": 406,
+    "sha256": "8eb63ce2bfa6012be0330645f40ee8d2f3d64f046cc11998672551a60aab1282"
+  },
+  {
+    "file": "10_The_Open_Spanish.pdf",
+    "pages": 30,
+    "bytes": 369236,
+    "min_text_chars": 397,
+    "sha256": "61f09a6483a3d6f62c6664dffe5ff015633502b09132aeb3fbd694b81fe1dedf"
+  },
+  {
+    "file": "11_Archangel_and_Neo_Arkhangelsk.pdf",
+    "pages": 30,
+    "bytes": 369193,
+    "min_text_chars": 382,
+    "sha256": "a5a7edf29354c68fab51dbeb6b8ac67880540d25c41832465fd893ca73aad96d"
+  },
+  {
+    "file": "12_The_Breyer_Defense.pdf",
+    "pages": 30,
+    "bytes": 370553,
+    "min_text_chars": 376,
+    "sha256": "cadcd3b3f28bde65b870b1f4cf788ddd92ecc82462f01c1600d0f7988e615f6e"
+  },
+  {
+    "file": "13_Chigorin_and_Zaitsev_Systems.pdf",
+    "pages": 30,
+    "bytes": 370652,
+    "min_text_chars": 385,
+    "sha256": "c81778c18ce6cd42915a8314ab9d762acbf5c089d37e5b89f2dd8f47f817f1c7"
+  },
+  {
+    "file": "14_Schliemann_Bird_and_Classical_Defenses.pdf",
+    "pages": 30,
+    "bytes": 368705,
+    "min_text_chars": 396,
+    "sha256": "ccb518d09d97d9852dd52e7b7f6d7e47d4b5e4d2a070e5044e5ece8ecbfecef0"
+  },
+  {
+    "file": "15_The_Exchange_Variation.pdf",
+    "pages": 30,
+    "bytes": 359045,
+    "min_text_chars": 401,
+    "sha256": "88710fc46d811687203ce1893b65c00d2e11372daaa26fa2bd676f3610e1adba"
+  },
+  {
+    "file": "16_Ruy_Lopez_Tactical_Grammar.pdf",
+    "pages": 30,
+    "bytes": 370258,
+    "min_text_chars": 394,
+    "sha256": "8c918c81bfbae539409fac6e79173944e6d3a46f5acc434b98260d5d4560e7f5"
+  },
+  {
+    "file": "17_Spanish_Endgames_and_Transformations.pdf",
+    "pages": 30,
+    "bytes": 359271,
+    "min_text_chars": 428,
+    "sha256": "95cd4c8122efe5c486d735c71f30a05f06239dbb88dcc71518ed19bac6139050"
+  },
+  {
+    "file": "18_A_Lifetime_Ruy_Lopez_System.pdf",
+    "pages": 30,
+    "bytes": 373133,
+    "min_text_chars": 435,
+    "sha256": "91c2cce4c0b31a021d820c7d118601dfcdf0f4351921ca74422616e2f1f4e2a7"
+  }
+]

@@ -1,0 +1,55 @@
+SICILIAN DEFENSE FROM BLACK - DEEP UNDERSTANDING COURSE
+=======================================================
+
+18 PDF volumes | 108 deep lessons | 54 legal annotated study lines | 540 PDF pages
+
+This is a separately written, concept-first Black repertoire built around the Najdorf, with complete practical coverage of the major anti-Sicilians.
+Every scenario is taught twice: first as a recognition problem, then as an execution problem.
+Each lesson contains two diagram pages, a move-by-move walkthrough, exercises, and an answer key.
+
+STARTING REPERTOIRE
+-------------------
+Use 1...c5 against 1.e4; enter the Najdorf with ...d6, ...cxd4, ...Nf6, and ...a6 when White chooses an Open Sicilian. Against deviations, classify White's intended center first and use the dedicated anti-Sicilian volumes.
+
+HOW TO STUDY
+------------
+1. Read one four-page lesson and reconstruct the board from memory.
+2. Import SICILIAN_BLACK_REPERTOIRE_FOR_FRITZ.pgn into Fritz for replay and sparring.
+3. Answer the workbook page before viewing its answer key.
+4. Review after 1, 3, 7, 14, and 30 days.
+5. Verify sharp forcing branches with Fritz or a current database before tournament use.
+6. Analyze every serious game and repair the first position you could not explain.
+
+VOLUMES
+-------
+01. The Sicilian from First Principles - lessons 001-006 - 01_The_Sicilian_from_First_Principles.pdf
+02. The Three Sicilian Centers - lessons 007-012 - 02_The_Three_Sicilian_Centers.pdf
+03. Map of the Sicilian Families - lessons 013-018 - 03_Map_of_the_Sicilian_Families.pdf
+04. Najdorf Foundations and Move Orders - lessons 019-024 - 04_Najdorf_Foundations_and_Move_Orders.pdf
+05. Najdorf English Attack - lessons 025-030 - 05_Najdorf_English_Attack.pdf
+06. Najdorf 6.Bg5 - lessons 031-036 - 06_Najdorf_6_Bg5.pdf
+07. Positional Najdorf Systems - lessons 037-042 - 07_Positional_Najdorf_Systems.pdf
+08. 6.Bc4 and Sozin Attacks - lessons 043-048 - 08_6_Bc4_and_Sozin_Attacks.pdf
+09. Modern Najdorf Sidelines - lessons 049-054 - 09_Modern_Najdorf_Sidelines.pdf
+10. Closed Sicilian Systems - lessons 055-060 - 10_Closed_Sicilian_Systems.pdf
+11. The Alapin 2.c3 - lessons 061-066 - 11_The_Alapin_2_c3.pdf
+12. Moscow and Rossolimo Systems - lessons 067-072 - 12_Moscow_and_Rossolimo_Systems.pdf
+13. Grand Prix Attack - lessons 073-078 - 13_Grand_Prix_Attack.pdf
+14. Smith-Morra Gambit - lessons 079-084 - 14_Smith_Morra_Gambit.pdf
+15. Rare Second Moves and Move-Order Traps - lessons 085-090 - 15_Rare_Second_Moves_and_Move_Order_Traps.pdf
+16. Sicilian Tactical Grammar - lessons 091-096 - 16_Sicilian_Tactical_Grammar.pdf
+17. Defense, Endgames, and Transformations - lessons 097-102 - 17_Defense_Endgames_and_Transformations.pdf
+18. A Lifetime Najdorf Repertoire - lessons 103-108 - 18_A_Lifetime_Najdorf_Repertoire.pdf
+
+COMPANIONS
+----------
+MASTER_LESSON_INDEX.html - searchable offline lesson index
+MASTER_LESSON_INDEX.csv - filterable lesson and decision-rule index
+SICILIAN_BLACK_REPERTOIRE_FOR_FRITZ.pgn - 54 legal annotated study lines for Fritz
+QA_REPORT.txt - structural, text, and chess-legality verification
+PDF_HASHES.json - SHA-256 checksums for all 18 volumes
+
+ARTWORK
+-------
+The diagrams use solid Cburnett chess pieces from the open-source python-chess/Lichess artwork
+under GPLv2+; every board is rendered as vector artwork for clear phone viewing.

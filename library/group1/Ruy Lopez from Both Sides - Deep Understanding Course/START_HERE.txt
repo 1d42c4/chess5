@@ -1,0 +1,55 @@
+RUY LOPEZ FROM BOTH SIDES - DEEP UNDERSTANDING COURSE
+=====================================================
+
+18 PDF volumes | 108 deep lessons | 54 legal annotated study lines | 540 PDF pages
+
+This is a separately written, concept-first course taught from both chairs. It covers White's Spanish method and Black's major defensive families so plans and transformations become recognizable.
+Every scenario is taught twice: first as a recognition problem, then as an execution problem.
+Each lesson contains two diagram pages, a move-by-move walkthrough, exercises, and an answer key.
+
+STARTING REPERTOIRE
+-------------------
+Study the first six volumes as the common language. Then learn the Marshall, Berlin, Open Spanish, Archangel, Breyer, Chigorin, Zaitsev, and rare defenses as distinct bargains. Rehearse every reference line once as White and once as Black.
+
+HOW TO STUDY
+------------
+1. Read one four-page lesson and reconstruct the board from memory.
+2. Import RUY_LOPEZ_BOTH_SIDES_FOR_FRITZ.pgn into Fritz for replay and sparring.
+3. Answer the workbook page before viewing its answer key.
+4. Review after 1, 3, 7, 14, and 30 days.
+5. Verify sharp forcing branches with Fritz or a current database before tournament use.
+6. Analyze every serious game and repair the first position you could not explain.
+
+VOLUMES
+-------
+01. The Spanish from First Principles - lessons 001-006 - 01_The_Spanish_from_First_Principles.pdf
+02. Spanish Pawn Structures - lessons 007-012 - 02_Spanish_Pawn_Structures.pdf
+03. Map of the Ruy Lopez Families - lessons 013-018 - 03_Map_of_the_Ruy_Lopez_Families.pdf
+04. The c3-d3 Spanish System - lessons 019-024 - 04_The_c3_d3_Spanish_System.pdf
+05. Closed Spanish Foundations - lessons 025-030 - 05_Closed_Spanish_Foundations.pdf
+06. Closed Spanish Maneuvering - lessons 031-036 - 06_Closed_Spanish_Maneuvering.pdf
+07. The Marshall Attack - lessons 037-042 - 07_The_Marshall_Attack.pdf
+08. Anti-Marshall Systems - lessons 043-048 - 08_Anti_Marshall_Systems.pdf
+09. The Berlin Defense - lessons 049-054 - 09_The_Berlin_Defense.pdf
+10. The Open Spanish - lessons 055-060 - 10_The_Open_Spanish.pdf
+11. Archangel and Neo-Arkhangelsk - lessons 061-066 - 11_Archangel_and_Neo_Arkhangelsk.pdf
+12. The Breyer Defense - lessons 067-072 - 12_The_Breyer_Defense.pdf
+13. Chigorin and Zaitsev Systems - lessons 073-078 - 13_Chigorin_and_Zaitsev_Systems.pdf
+14. Schliemann, Bird, and Classical Defenses - lessons 079-084 - 14_Schliemann_Bird_and_Classical_Defenses.pdf
+15. The Exchange Variation - lessons 085-090 - 15_The_Exchange_Variation.pdf
+16. Ruy Lopez Tactical Grammar - lessons 091-096 - 16_Ruy_Lopez_Tactical_Grammar.pdf
+17. Spanish Endgames and Transformations - lessons 097-102 - 17_Spanish_Endgames_and_Transformations.pdf
+18. A Lifetime Ruy Lopez System - lessons 103-108 - 18_A_Lifetime_Ruy_Lopez_System.pdf
+
+COMPANIONS
+----------
+MASTER_LESSON_INDEX.html - searchable offline lesson index
+MASTER_LESSON_INDEX.csv - filterable lesson and decision-rule index
+RUY_LOPEZ_BOTH_SIDES_FOR_FRITZ.pgn - 54 legal annotated study lines for Fritz
+QA_REPORT.txt - structural, text, and chess-legality verification
+PDF_HASHES.json - SHA-256 checksums for all 18 volumes
+
+ARTWORK
+-------
+The diagrams use solid Cburnett chess pieces from the open-source python-chess/Lichess artwork
+under GPLv2+; every board is rendered as vector artwork for clear phone viewing.

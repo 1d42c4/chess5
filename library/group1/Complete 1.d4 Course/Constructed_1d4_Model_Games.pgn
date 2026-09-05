@@ -1,0 +1,120 @@
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Exchange QGD core. This is a constructed training game, not a historical game. } 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 c6 10. O-O h6 11. Bf4 a5 12. Nb5 Nc5 13. Nc7 { Prediction point answer: Nc7. Plan: Build toward f3 and e4 or a queenside minority attack. } 13... Nxd3 14. Qxd3 Ra7 15. Nxe8 Qxe8 16. Rac1 Bf8 17. Rfe1 Ra8 18. f3 a4 19. h3 Bb4 20. Red1 a3 21. bxa3 Bxa3 22. Rc2 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Tarrasch Defense. This is a constructed training game, not a historical game. } 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. dxc5 d4 10. Na4 Bf5 11. b4 d3 12. e3 { Prediction point answer: e3. Plan: Pressure the isolated d5-pawn while finishing development. } 12... b5 13. cxb6 axb6 14. b5 Nb4 15. Nd4 Be4 16. Ba3 Bxg2 17. Kxg2 Re8 18. Kg1 d2 19. Qb3 Nbd5 20. Nc6 Qd7 21. Bxe7 Nxe7 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: QGA classical recovery. This is a constructed training game, not a historical game. } 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Be2 Nbd7 10. Nd4 O-O 11. Nb3 Be7 12. Bd2 { Prediction point answer: Bd2. Plan: Recover c4 through development and accept a clean active endgame. } 12... b6 13. f3 Bb7 14. e4 Rfc8 15. Be3 Rc7 16. Nc3 h6 17. Na4 Rc6 18. Kf1 g5 19. h4 gxh4 20. Bf2 h3 21. gxh3 Kg7 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Main Slav recovery. This is a constructed training game, not a historical game. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O Nbd7 9. Nh4 O-O 10. Nxf5 exf5 11. Qc2 Nb6 12. Be2 { Prediction point answer: Be2. Plan: Limit ...b5, recover c4, and castle before central expansion. } 12... Qd7 13. a5 Nbd5 14. Qb3 Bd6 15. Nxd5 cxd5 16. h3 Qe7 17. Bd2 h5 18. Ra4 Rfd8 19. Bd3 g6 20. a6 Rab8 21. Bb4 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Closed Catalan core. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8. Nbd2 b6 9. e4 dxe4 10. Nxe4 Nxe4 11. Qxe4 Bb7 12. Bf4 Nf6 13. Qe2 { Prediction point answer: Qe2. Plan: Complete the fianchetto and prepare e4 while the center remains closed. } 13... Qc8 14. Rfd1 Re8 15. Ne5 c5 16. Bf3 Bd6 17. dxc5 Bxf3 18. Nxf3 Bxf4 19. gxf4 e5 20. Nxe5 bxc5 21. b3 Qf5 22. Re1 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Queen's Indian ...Ba6. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O d5 9. cxd5 exd5 10. Nc3 Nbd7 11. Bf4 Re8 12. Ne5 { Prediction point answer: Ne5. Plan: Use b3 to protect c4 and force the bishop to declare its purpose. } 12... Bb7 13. Rc1 c5 14. Nc4 Rc8 15. Ne3 cxd4 16. Qxd4 Bc5 17. Qd2 d4 18. Bxb7 dxe3 19. fxe3 Rb8 20. Ba6 Qe7 21. Bb5 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Classical King's Indian. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. Be3 b6 10. Nd2 c5 11. a4 a5 12. Nb5 { Prediction point answer: Nb5. Plan: Close the center and prepare queenside expansion while tracking ...f5. } 12... h6 13. f4 Ne8 14. fxe5 dxe5 15. Qc2 Kh8 16. Nf3 Bd7 17. Rae1 Nc8 18. g4 Ncd6 19. g5 hxg5 20. Nxg5 Bh6 21. Nxf7+ Rxf7 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: KID ...c5. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. O-O exd5 9. cxd5 Re8 10. Nd2 Na6 11. f3 Nc7 12. Kh1 Nh5 13. f4 { Prediction point answer: f4. Plan: Recognize the Benoni structure and use space with e4 and queenside play. } 13... Nf6 14. a4 b6 15. h3 Rb8 16. Bf3 Bb7 17. Qc2 Ba6 18. Rd1 Qe7 19. Ra3 Nd7 20. e5 dxe5 21. Nde4 Qf8 22. f5 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Exchange Grunfeld core. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Bd2 O-O 10. h3 Nc6 11. Be2 cxd4 12. cxd4 { Prediction point answer: cxd4. Plan: Build the center, develop with tempo, and protect d4. } 12... Qa3 13. d5 Ne5 14. Nxe5 Bxe5 15. Rb1 Qxa2 16. O-O Rd8 17. f4 Bg7 18. Bb4 Bd7 19. Bxe7 Ba4 20. Qe1 Bc2 21. Bxd8 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Modern Benoni core. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+ Nfd7 9. Nf3 a6 10. Be2 b5 11. O-O { Prediction point answer: O-O. Plan: Use e4-f4 and prepare e5 while Black seeks queenside counterplay. } 11... O-O 12. Qc2 b4 13. Nd1 Nf6 14. Ne3 a5 15. e5 dxe5 16. fxe5 Nxd5 17. Nxd5 Qxd5 18. Bc4 Qd8 19. Ng5 Nc6 20. Nxf7 Qd4+ *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Benko accepted. This is a constructed training game, not a historical game. } 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8. Kxf1 g6 9. Nf3 Qc8 10. Kg1 Bg7 11. g3 Qh3 12. Ng5 { Prediction point answer: Ng5. Plan: Consolidate the extra pawn while neutralizing files and the g7 bishop. } 12... Qh5 13. Qb3 Nbd7 14. Kg2 Rb8 15. Qa4 h6 16. Nf3 O-O 17. h3 Ne5 18. Nxe5 Qxe5 19. Qc2 Qd4 20. Rd1 Qb4 21. e5 *
+
+[Event "Complete 1.d4 Course - constructed model game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Training engine"]
+[Black "Training engine"]
+[Result "*"]
+
+{ Opening branch: Leningrad Dutch. This is a constructed training game, not a historical game. } 1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 a5 8. Re1 Na6 9. Qb3 Qe8 10. Bg5 a4 11. Nxa4 { Prediction point answer: Nxa4. Plan: Fianchetto, control e4, and prepare d5 or Qc2 depending on ...e5. } 11... e5 12. Bxf6 Bxf6 13. e4 f4 14. gxf4 Qf7 15. dxe5 dxe5 16. Rad1 Bg4 17. a3 Bg7 18. Qxb7 Qxf4 19. Re3 Bh5 20. b4 *
+

@@ -1,0 +1,594 @@
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Why Black attacks d4 from the flank"]
+
+{ Volume 1: The Sicilian from First Principles. Why it matters: Black does not mirror 1.e4. The c-pawn challenges d4 while preserving the e-pawn, creating an unbalanced center and genuine winning chances. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 { Nc3: White reroutes a knight to c3; judge the move by the job at its destination and the time conceded on the way. Black plan: Finish development without surrendering d5, use the half-open c-file, and choose ...e6 or ...e5 only when its square concessions are understood. White plan: White uses the lead in space and development to build pressure before Black's queenside assets become active. Decision: After the c-pawn exchange, which central square needs protection and which file became Black's long-term highway? Danger: Playing thematic pawn moves automatically while the king and queenside pieces remain undeveloped. Memory rule: 1...c5 buys asymmetry; Black must pay for it with accurate development. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The half-open c-file bargain"]
+
+{ Volume 1: The Sicilian from First Principles. Why it matters: The exchange on d4 gives White a central pawn majority but gives Black a half-open c-file and targets on c2 and the queenside. } 1. e4 c5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 d6 6. Be2 g6 { g6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. O-O Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Coordinate queen and rook on the c-file, pressure c2, and make White spend time guarding entry squares. White plan: White seeks central expansion or a kingside initiative before c-file pressure becomes concrete. Decision: Is the c-file currently an attacking line, or must development and a pawn break open access first? Danger: Confusing possession of a half-open file with control of its entry squares. Memory rule: A file matters only when pieces can enter it with tempo. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Development before decoration"]
+
+{ Volume 1: The Sicilian from First Principles. Why it matters: Najdorf flexibility is valuable only after Black survives the development race; ...a6 is preparation, not permission to drift. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Develop, castle, and only then decide whether queenside expansion or central action is justified. White plan: White tries to exploit every slow move with f4, Be3, or a central break while Black's king is still exposed. Decision: Can Black complete one useful developing move before starting the wing operation? Danger: Collecting thematic moves such as ...a6, ...b5, and ...Qc7 without checking tactical readiness. Memory rule: In the Sicilian, a slow move is safe only when it supports the next forcing event. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Scheveningen small center"]
+
+{ Volume 2: The Three Sicilian Centers. Why it matters: Pawns on d6 and e6 form a compact shell. Black concedes space temporarily in exchange for flexible ...d5 and ...b5 breaks. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 e6 6. Be2 Be7 { Be7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 7. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Complete development, watch e5 and d5, and time ...d5 when exchanges release the cramped pieces. White plan: White adds pressure with f4, Qf3, Be3, and sometimes g4 before Black equalizes with a break. Decision: Does ...d5 work tactically now, or does one white piece still overload the d5 square? Danger: Remaining passive because the shell looks safe; without a break the space deficit becomes permanent. Memory rule: The small center is a spring: defend it, then release it with ...d5. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Najdorf ...e5 clamp"]
+
+{ Volume 2: The Three Sicilian Centers. Why it matters: ...e5 gains time on the knight and controls d4, but it permanently weakens d5 and leaves d6 backward. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. Be3 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Control d5 with ...Be6, ...Nbd7, and rooks on central files; seek ...d5 only when preparation makes it possible. White plan: White installs a knight on d5, trades the defender on f6, or attacks d6 after fixing Black's structure. Decision: What is the concrete plan for the d5 hole before committing the e-pawn to e5? Danger: Admiring the space gain while allowing Nd5 under favorable circumstances. Memory rule: ...e5 gains a tempo but creates a square; every gain sends a bill. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...d5 liberation break"]
+
+{ Volume 2: The Three Sicilian Centers. Why it matters: Many Sicilians are strategically organized around one question: can Black achieve ...d5 without losing material or king safety? } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Qd2 b5 8. f3 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. g4 h6 10. O-O-O Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 11. Kb1 Rc8 { Rc8: Black places a rook behind a file or pawn break expected to become important. Black plan: Improve control of d5, distract White on the c-file or queenside, and break only when the resulting exchanges activate the pieces. White plan: White restrains ...d5, keeps more space, and launches first on the kingside. Decision: After ...d5, can White capture, push, or exploit an opened diagonal with tempo? Danger: Playing ...d5 because it is thematic without calculating every forcing capture. Memory rule: A freeing break is earned by control, not by hope. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Dragon: speed and the long diagonal"]
+
+{ Volume 3: Map of the Sicilian Families. Why it matters: The Dragon develops the bishop in one move and attacks the center from g7, accepting a sharp race against queenside castling. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 g6 6. Be3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 7. f3 O-O 8. Qd2 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. Black plan: Use the g7 bishop, c-file, and tactical exchange sacrifices to attack before White opens the h-file. White plan: White builds the Yugoslav setup, castles long, and pushes h4-h5 to strip the king. Decision: Whose forcing attack lands first, and which exchange changes the race clock? Danger: Playing on the queenside too slowly while White's pawn storm opens lines with tempo. Memory rule: The Dragon is a race; count forcing moves, not attractive moves. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Sveshnikov: activity for holes"]
+
+{ Volume 3: Map of the Sicilian Families. Why it matters: ...e5 and ...b5 seize space and activity, while d5 and d6 become lasting strategic targets. } 1. e4 c5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 e5 6. Ndb5 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Bg5 a6 8. Na3 b5 { b5: Black starts queenside expansion and prepares files or a bishop diagonal. Black plan: Use dynamic piece play and timely ...f5 before White consolidates on the weak squares. White plan: White occupies d5, pressures d6, and tries to convert structural weaknesses after exchanges. Decision: Does Black's next active move create a concrete threat before White fixes the weaknesses? Danger: Entering the structure without accepting that passive defense will simply lose the weak pawns. Memory rule: The Sveshnikov trades squares for time; spend the time immediately. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Taimanov: flexible development"]
+
+{ Volume 3: Map of the Sicilian Families. Why it matters: The Taimanov delays ...d6 and develops flexibly, preserving several central structures and move-order tricks. } 1. e4 c5 2. Nf3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 Qc7 6. Be3 a6 { a6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Qd2 Nf6 8. O-O-O Bb4 { Bb4: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Pressure c3, choose ...Nf6 or ...Nge7 intelligently, and use ...b5 or ...d5 according to White's setup. White plan: White seeks fast long castling, f3-g4, or a Maroczy-style bind before Black defines the center. Decision: Which white setup has appeared, and which flexible option should now be converted into a concrete plan? Danger: Keeping every option open so long that no piece receives a definite job. Memory rule: Flexibility is useful only when you know the trigger that ends it. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The meaning of 5...a6"]
+
+{ Volume 4: Najdorf Foundations and Move Orders. Why it matters: ...a6 denies Nb5, prepares ...b5, and keeps pieces off a useful square. Its value is strategic flexibility rather than an immediate threat. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Qd2 b5 { b5: Black starts queenside expansion and prepares files or a bishop diagonal. Black plan: Read White's sixth move, choose the matching central structure, then expand only when development supports it. White plan: White uses the extra tempo for a purposeful setup: Bg5, Be3, Be2, Bc4, f3, h3, or g3. Decision: What did White's sixth move reveal about castling, pawn breaks, and the critical central response? Danger: Answering every setup with the same move order and walking into a refined attacking scheme. Memory rule: ...a6 asks White to declare a plan; Black's next move must answer that declaration. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Choosing between ...e6 and ...e5"]
+
+{ Volume 4: Najdorf Foundations and Move Orders. Why it matters: ...e6 keeps d5 flexible and supports ...d5; ...e5 gains space and tempo but creates a permanent d5 outpost. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. f4 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Select the center from concrete demands: piece placement, White's pressure, and whether d5 can be controlled. White plan: White chooses plans that expose the price of the center: a space squeeze against ...e6 or Nd5 against ...e5. Decision: Which structure gives your pieces active squares while denying White a favorable break? Danger: Choosing the familiar pawn move without checking whether White's setup was designed to punish it. Memory rule: The central pawn decides the whole position; choose it after reading the pieces. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "When ...b5 is real"]
+
+{ Volume 4: Najdorf Foundations and Move Orders. Why it matters: Queenside expansion is useful when it gains space, drives a piece, supports ...Bb7, or creates a file; otherwise it may expose b6 and a6. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. O-O Be7 8. f4 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. } 9. Kh1 O-O 10. a4 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. Black plan: Prepare ...b5 with piece control, king safety, and an answer to e5 or a4; use ...b4 only when the knight displacement matters. White plan: White restrains with a4 or opens the center while Black spends tempi on pawns. Decision: If ...b5 is played, what concrete improvement arrives on the next move? Danger: Treating ...b5 as a compulsory Najdorf badge rather than a calculated operation. Memory rule: A wing pawn move must buy time, a square, or a file. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The standard Be3-f3-Qd2-g4 setup"]
+
+{ Volume 5: Najdorf English Attack. Why it matters: White's pieces and pawns point at the kingside while Black's queenside play targets the castled king; development speed sets the race clock. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. f3 b5 8. Qd2 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. g4 h6 10. O-O-O Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use ...b5, ...Bb7, ...Nbd7, and the c-file, while keeping ...d5 or ...h5 as tactical brakes. White plan: White pushes g4-g5 and h4-h5, opens files, and often sacrifices material to expose Black's king. Decision: Which forcing move changes the race now: a central break, a pawn contact, or a direct threat to the king? Danger: Making a quiet improving move when the opponent already has a forcing sequence. Memory rule: In opposite-side attacks, count checks, captures, and pawn contacts. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...Ng4 disruption"]
+
+{ Volume 5: Najdorf English Attack. Why it matters: ...Ng4 challenges the key e3 bishop before White finishes the attacking setup, but it spends tempi and loosens dark squares. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 Ng4 { Ng4: Black reroutes a knight to g4; judge the move by the job at its destination and the time conceded on the way. } 7. Bg5 h6 8. Bh4 g5 { g5: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 9. Bg3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use the gained bishop tempo to seize kingside space, then return to development before the advanced pawns become targets. White plan: White preserves the bishop, attacks the pawn chain, and exploits weakened f5, h5, and dark squares. Decision: Does the bishop chase win useful structure or merely move the same knight and pawns repeatedly? Danger: Continuing the pawn chase after its strategic purpose is complete. Memory rule: Disrupt the setup, then develop; harassment is not a development plan. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...e5 English Attack structure"]
+
+{ Volume 5: Najdorf English Attack. Why it matters: Black accepts d5 in exchange for central space and a tempo on the knight, producing a slower race with precise square control. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be6 8. f3 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. g4 Be7 10. Qd2 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Control d5, complete development, and use ...b5 while watching whether ...d5 can ever be prepared. White plan: White uses Nd5, g5, and queenside castling to combine an outpost with a direct attack. Decision: Can White occupy d5 under favorable exchanges, and which black piece must prevent it? Danger: Launching queenside play while d5 and d6 collapse in the center. Memory rule: In the ...e5 structure, d5 is the alarm bell for every plan. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Classical 6...e6 development"]
+
+{ Volume 6: Najdorf 6.Bg5. Why it matters: The pin increases pressure on f6 and makes e5 a tactical possibility; Black builds a position that can answer central contact. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Bg5 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. f4 Be7 8. Qf3 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. } 9. O-O-O Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. Black plan: Unpin or reinforce f6, develop the queenside, and meet e5 with calculation rather than a reflex. White plan: White combines Qf3, long castling, f5, and e5 to exploit the pinned knight and the e6 pawn. Decision: If White plays e5 now, what are every capture and discovered attack on f6 and e6? Danger: Castling or expanding without calculating the immediate e5 break. Memory rule: Against Bg5, the center is tactical because the f6 defender is pinned. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Poisoned Pawn queen expedition"]
+
+{ Volume 6: Najdorf 6.Bg5. Why it matters: Black wins b2 but sends the queen far from the king. Material matters only if the queen escapes and development catches up. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Bg5 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. f4 Qb6 8. Qd2 Qxb2 { Qxb2: Black releases tension by capturing on b2; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 9. Rb1 Qa3 { Qa3: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Know the evacuation squares, return the queen when necessary, and meet central threats with exact moves. White plan: White uses e5, f5, and direct piece development to trap the queen or attack the uncastled king. Decision: Before taking b2, can the queen survive White's forcing sequence and can Black answer the next central break? Danger: Counting the extra pawn while ignoring lost tempi and a trapped queen. Memory rule: A poisoned pawn is safe only after calculating the queen's route home. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The queenside race after long castling"]
+
+{ Volume 6: Najdorf 6.Bg5. Why it matters: Once White castles long, ...b5 gains tactical force, but central contact can open lines against either king before the pawn storm arrives. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Bg5 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. f4 Be7 8. Qf3 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. } 9. O-O-O b5 10. e5 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Combine ...b5 with ...Bb7 and calculate e5; open files only when Black's king has a defensible destination. White plan: White strikes e5 or f5 to make the center explode while Black's king remains undecided. Decision: Is the wing attack faster than White's central forcing line? Danger: Assuming opposite-side castling makes every pawn push automatically correct. Memory rule: The center can end a wing race before the pawns reach their targets. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "6.Be2 and the d5 outpost"]
+
+{ Volume 7: Positional Najdorf Systems. Why it matters: White develops without committing the king to a race, then pressures d5 and may expand with f4. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. Be3 Be6 10. f4 { f4: White claims kingside space and announces e5 or f5 attacking ideas. Black plan: Secure d5, coordinate rooks, and choose queenside play only after the center is stable. White plan: White uses Nd5, f4-f5, and pressure on d6 in a controlled positional squeeze. Decision: Which exchange reduces White's control of d5 without creating a new weakness? Danger: Playing as if a direct attack is required when patient central defense is enough. Memory rule: Against Be2, solve d5 first and attack second. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "6.g3 kingside fianchetto"]
+
+{ Volume 7: Positional Najdorf Systems. Why it matters: The fianchetto controls dark squares and supports a slower central game; White reduces tactical targets and keeps several pawn breaks available. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. g3 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nde2 Be7 8. Bg2 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. O-O b5 { b5: Black starts queenside expansion and prepares files or a bishop diagonal. Black plan: Take space with ...b5, control d5, and prevent White from achieving a cost-free f4 or Nd5 setup. White plan: White reroutes pieces, uses f4, and exploits the long diagonal once the center opens. Decision: Can Black improve queenside space without weakening the diagonal toward the king? Danger: Forcing tactics in a position whose main demand is patient square control. Memory rule: Quiet systems still contain a race, but the currency is squares rather than checks. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "6.a4 restrains ...b5"]
+
+{ Volume 7: Positional Najdorf Systems. Why it matters: a4 spends a tempo to restrain the most natural Najdorf expansion, inviting Black to prove another source of counterplay. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. a4 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nf3 Be7 8. Bc4 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. O-O Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. Black plan: Use development and central control; prepare ...Be6, ...Nc6, or ...d5 instead of forcing a weakened ...b5. White plan: White fixes b5, develops rapidly, and may occupy d5 before Black creates play. Decision: If ...b5 is restricted, which central or piece break replaces it? Danger: Playing ...b5 anyway and creating exploitable a- and b-pawn weaknesses. Memory rule: When a wing plan is restrained, switch fronts; do not force the locked door. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The bishop points at f7"]
+
+{ Volume 8: 6.Bc4 and Sozin Attacks. Why it matters: Bc4 creates tactical motifs on e6 and f7, but the bishop can lose time when ...b5 attacks it. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Bc4 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Bb3 b5 8. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. f4 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Build ...e6, develop, and use ...b5 with tempo only when e6 cannot be tactically destroyed. White plan: White uses f4-f5, e5, and sacrifices on e6 to open the king before Black consolidates. Decision: What happens after Bxe6 or Nxe6 in every candidate position? Danger: Winning a bishop tempo with ...b5 while the e6 pawn is tactically undefended. Memory rule: Before expanding, calculate the sacrifice on the base of the center. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Sozin queenside expansion"]
+
+{ Volume 8: 6.Bc4 and Sozin Attacks. Why it matters: Immediate ...b5 gains space and develops the bishop to b7, but Black must survive pressure on e6 and the long diagonal. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Bc4 b5 { b5: Black starts queenside expansion and prepares files or a bishop diagonal. } 7. Bb3 Bb7 8. O-O Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. Re1 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Finish development rapidly and make the b7 bishop relevant through central contact. White plan: White centralizes with Re1 and prepares e5, turning Black's queenside tempi into a test of the center. Decision: Does ...b5 create a useful bishop and tempo before White's e5 break lands? Danger: Expanding farther with ...b4 while the king and central pawns remain vulnerable. Memory rule: The queenside gain is justified only if it helps answer the central hit. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Sozin with controlled castling"]
+
+{ Volume 8: 6.Bc4 and Sozin Attacks. Why it matters: Early castling removes many sacrificial checks and lets Black meet the attack with coordinated pieces. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Bc4 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. O-O Be7 8. Bb3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. f4 Qc7 { Qc7: Black coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Secure the king, connect rooks, and challenge White's center before the f-pawn advance becomes a direct attack. White plan: White gains space with f4 and seeks e5 or f5 while the bishop keeps f7 under observation. Decision: Which white break is actually ready, and what forcing reply meets it? Danger: Playing a routine developing move when White has already prepared e5 with tempo. Memory rule: King safety converts scary-looking sacrifices into calculable lines. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "6.h3 and the g4 plan"]
+
+{ Volume 9: Modern Najdorf Sidelines. Why it matters: h3 prevents ...Ng4 and prepares g4 without declaring the bishop or queen, making Black's move-order choice important. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. h3 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nde2 Be7 8. g4 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 9. Bg2 { Bg2: White changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Choose a central structure that controls d5 and strike on the queenside before White's flexible setup becomes a full attack. White plan: White plays g4, Bg2, and Ng3, combining kingside space with control of d5. Decision: Has h3 signaled g4, and does ...e5 help or give White the exact d5 route desired? Danger: Ignoring the setup because it lacks an immediate threat. Memory rule: A waiting move can carry a plan; read what it prevents and prepares. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "6.f3 without Be3"]
+
+{ Volume 9: Modern Najdorf Sidelines. Why it matters: f3 supports e4 and g4 while keeping the light bishop flexible; White may transpose or choose a quieter king placement. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. f3 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be6 8. Be3 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. Qd2 { Qd2: White coordinates several plans, but the queen's safety and the opponent's forcing reply must be checked. Black plan: Control d5, complete development, and avoid revealing the king's destination too early. White plan: White adapts: Be3-Qd2, g4, or a central plan depending on Black's setup. Decision: Which transposition is White inviting, and can Black choose a version with one useful extra move? Danger: Assuming f3 forces long castling and launching a premature queenside attack. Memory rule: When the opponent stays flexible, improve pieces without making irreversible weaknesses. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "6.Rg1 and the rook-led storm"]
+
+{ Volume 9: Modern Najdorf Sidelines. Why it matters: Rg1 commits to a direct g-pawn advance while keeping the king in the center or preparing queenside castling later. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Rg1 g6 { g6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. g4 Bg7 8. g5 Nfd7 { Nfd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. Be3 { Be3: White changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Challenge the center and attack the overextended pawns; do not allow g5 to gain a free tempo on the f6 knight. White plan: White drives g4-g5, opens the g-file, and uses the rook immediately against the kingside. Decision: Where will the f6 knight go after g5, and does that route improve or disorganize Black's defense? Danger: Castling into the advertised file without calculating the pawn contact. Memory rule: A rook move in the opening is a warning: identify the file it intends to open. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Fianchetto Closed Sicilian"]
+
+{ Volume 10: Closed Sicilian Systems. Why it matters: Without d4, the center stays closed and White can build f4-f5; Black receives time for central and queenside counterplay. } 1. e4 c5 2. Nc3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. g3 g6 4. Bg2 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. d3 Nc6 6. f4 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Nf3 Nge7 { Nge7: Black reroutes a knight to e7; judge the move by the job at its destination and the time conceded on the way. Black plan: Prepare ...d5, use ...Nge7, and challenge the pawn chain before White's kingside space becomes an attack. White plan: White plays f4, Nf3, O-O, and g4 or f5, often using the closed center as a shield. Decision: Can Black play ...d5 now, or which preparatory move makes it safe? Danger: Copying White's slow wing play and allowing an uncontested kingside bind. Memory rule: Against a closed wing attack, open the center before the storm arrives. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Botvinnik pawn triangle"]
+
+{ Volume 10: Closed Sicilian Systems. Why it matters: White's e4-d3-f4 triangle clamps central squares and prepares f5, but d4 and the dark squares can become targets. } 1. e4 c5 2. Nc3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. g3 g6 4. Bg2 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. d3 d6 6. f4 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nf3 Nge7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Use ...exf4 only for a reason, maneuver toward d4, and seek queenside space or a timed ...f5. White plan: White maintains the clamp, reroutes pieces behind it, and chooses f5 when Black cannot counter in the center. Decision: Which square behind White's pawn chain can become an outpost, and which exchange opens it? Danger: Closing the position further without a route for the minor pieces. Memory rule: A space clamp has squares behind it; attack the base, not the tip. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Early ...d5 equalizer"]
+
+{ Volume 10: Closed Sicilian Systems. Why it matters: ...d5 challenges White before the kingside buildup is complete and often turns the game into an open central struggle. } 1. e4 c5 2. Nc3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. g3 g6 4. Bg2 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. d3 e6 6. f4 Nge7 { Nge7: Black reroutes a knight to e7; judge the move by the job at its destination and the time conceded on the way. } 7. Nf3 d5 { d5: Black plays the freeing central break; its tactical soundness matters more than its thematic reputation. Black plan: Support the break, accept exchanges that free the pieces, and avoid leaving d5 as a loose target. White plan: White may e5, exd5, or keep tension, choosing the structure that best preserves kingside chances. Decision: After each white response to ...d5, which side benefits from the opened files and changed knight squares? Danger: Playing the correct break with insufficient support and losing the d5 pawn tactically. Memory rule: The best answer to a slow flank buildup is often a timely central question. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "2...Nf6 attacks e4"]
+
+{ Volume 11: The Alapin 2.c3. Why it matters: Black attacks e4 before White builds d4, forcing e5 and gaining targets on d4 and the advanced pawn chain. } 1. e4 c5 2. c3 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 3. e5 Nd5 4. d4 cxd4 { cxd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. Nf3 Nc6 6. cxd4 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Pressure e5 and d4, develop with tempo, and use ...d6 to undermine the chain. White plan: White supports the broad center and uses development to keep the advanced e-pawn safe. Decision: Can Black attack the pawn chain without allowing a tactic on the exposed d5 knight? Danger: Moving the knight repeatedly without completing development or challenging the center. Memory rule: When White builds a center, attack its front and base while developing. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "2...d5 immediate equality test"]
+
+{ Volume 11: The Alapin 2.c3. Why it matters: ...d5 challenges e4 immediately and often produces an isolated queen's pawn or symmetrical development battle. } 1. e4 c5 2. c3 d5 { d5: Black plays the freeing central break; its tactical soundness matters more than its thematic reputation. } 3. exd5 Qxd5 4. d4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nf3 e6 6. Be2 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 7. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Develop behind the active queen, pressure d4, and avoid unnecessary queen moves that donate tempi. White plan: White gains time on the queen and tries to use the central space before exchanges simplify it. Decision: Where can the queen stand so each white developing move does not attack it again? Danger: Winning central equality but losing two tempi to careless queen placement. Memory rule: The central break works when the queen's recapture has a stable square. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Isolated d-pawn transition"]
+
+{ Volume 11: The Alapin 2.c3. Why it matters: An isolated d-pawn grants White space and active lines but becomes a fixed endgame target if the initiative fades. } 1. e4 c5 2. c3 d5 { d5: Black plays the freeing central break; its tactical soundness matters more than its thematic reputation. } 3. exd5 Qxd5 4. d4 cxd4 { cxd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. cxd4 Nc6 6. Nf3 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nc3 Bb4 { Bb4: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Blockade d5 or pressure d4, exchange active pieces selectively, and watch for White's d5 break. White plan: White uses open files, rapid development, and d5 to convert the isolated pawn into activity. Decision: Can White play d5 with tactical force, and which piece is the best blockader if not? Danger: Attacking the isolated pawn too early while White's pieces gain tempi against the king. Memory rule: First stop the pawn's break; only then collect the weakness. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Moscow with 3...Bd7"]
+
+{ Volume 12: Moscow and Rossolimo Systems. Why it matters: ...Bd7 offers a bishop trade and keeps the pawn structure intact, accepting that the queen may recapture and lose a tempo later. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. Bb5+ Bd7 4. Bxd7+ Qxd7 { Qxd7: Black releases tension by capturing on d7; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O Nc6 6. c3 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 7. Re1 g6 { g6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Develop smoothly, prepare ...Bg7, and use ...d5 when White's modest center permits it. White plan: White uses c3-d4 and Re1 to gain central time against the queen and black king. Decision: After the exchange on d7, does the queen have a useful role or become a target to central tempi? Danger: Treating the bishop exchange as automatic equality while White builds a free center. Memory rule: Keeping the structure is useful only if the queen's recapture does not cost coordination. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Moscow with 3...Nc6"]
+
+{ Volume 12: Moscow and Rossolimo Systems. Why it matters: Blocking with the knight preserves more pieces and invites a strategic game where White may retreat rather than exchange. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. Bb5+ Nc6 4. O-O Bd7 { Bd7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. Re1 Nf6 6. c3 a6 { a6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Bf1 g6 { g6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Develop, question the bishop, and prepare ...Bg7 without allowing e5 to gain decisive time. White plan: White preserves the bishop, builds c3-d4, and uses the pin or retreat to gain a favorable center. Decision: Should Black challenge the bishop now, or is central development more urgent? Danger: Chasing the bishop with pawns while White occupies the center with tempo. Memory rule: A bishop check often asks for a development choice, not a bishop hunt. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Rossolimo doubled c-pawns"]
+
+{ Volume 12: Moscow and Rossolimo Systems. Why it matters: Bxc6 gives Black doubled c-pawns but also the bishop pair, central control, and an open b-file; the structure is unbalanced, not simply damaged. } 1. e4 c5 2. Nf3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. Bb5 g6 4. Bxc6 dxc6 { dxc6: Black releases tension by capturing on c6; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. d3 Bg7 6. h3 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 7. Nc3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. Black plan: Use the bishop pair, prepare ...e5 or ...f5, and make the c-pawns control important central squares. White plan: White targets c5 and c6, uses dark-square control, and seeks a favorable knight-versus-bishop game. Decision: Which asset compensates the doubled pawns, and how can it become active before an endgame fixes the weaknesses? Danger: Defending the pawns passively and never using the bishop pair or open files. Memory rule: Doubled pawns are weaknesses only when their dynamic compensation is unused. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Grand Prix setup with ...g6"]
+
+{ Volume 13: Grand Prix Attack. Why it matters: White develops an immediate kingside attack with f4 and often Qe1-h4, while Black seeks central and queenside counterplay. } 1. e4 c5 2. Nc3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. f4 g6 4. Nf3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. Bb5+ Bd7 6. Bxd7+ Qxd7 { Qxd7: Black releases tension by capturing on d7; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. O-O Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. Black plan: Control d4 and e5, exchange the active bishop when useful, and prepare ...e6 or ...Nd4. White plan: White uses f5, Qe1-h4, and e5 to open the king before Black organizes the center. Decision: Which square stops White's attack most efficiently: e5, d4, or the h4 route? Danger: Castling automatically into a fully prepared attack without checking alternative king plans. Memory rule: Against the Grand Prix, control the launch squares before chasing the attacking pieces. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Bb5+ exchange decision"]
+
+{ Volume 13: Grand Prix Attack. Why it matters: Bb5 often aims to remove a key defender or provoke a blocking piece; Black can sometimes use ...Nd4 to gain central activity instead. } 1. e4 c5 2. Nc3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. f4 g6 4. Nf3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. Bb5 Nd4 6. O-O Nxb5 { Nxb5: Black releases tension by capturing on b5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 7. Nxb5 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Calculate exchanges on b5 and d4, and welcome trades that reduce attacking force without conceding structure. White plan: White preserves attacking pieces or damages Black's queenside before continuing f5. Decision: After each bishop response, who benefits from the resulting knight placement and pawn structure? Danger: Avoiding every structural imperfection even when an exchange extinguishes White's attack. Memory rule: Trade attackers when the resulting structure remains playable and active. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Central ...d5 against the attack"]
+
+{ Volume 13: Grand Prix Attack. Why it matters: Black's central control can force White to spend time stabilizing e4 and d3 instead of building the kingside attack. } 1. e4 c5 2. Nc3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 3. f4 g6 4. Nf3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 5. Bb5 Nd4 6. O-O e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. d3 Ne7 { Ne7: Black reroutes a knight to e7; judge the move by the job at its destination and the time conceded on the way. Black plan: Use ...e6, ...Ne7, and a prepared ...d5; challenge the center while White's pieces point away from it. White plan: White tries to play f5 or e5 before Black's break equalizes the space. Decision: Is ...d5 tactically sound now, and if not, which move makes it unavoidable? Danger: Answering a wing attack only with wing defense and leaving the center untouched. Memory rule: The center is the shortest route to an attacker whose pieces face the wing. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Accepting the gambit"]
+
+{ Volume 14: Smith-Morra Gambit. Why it matters: Black takes a pawn but gives White open lines and rapid development. Survival depends on development, not on defending the extra pawn at all costs. } 1. e4 c5 2. d4 cxd4 { cxd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 3. c3 dxc3 4. Nxc3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 5. Nf3 d6 6. Bc4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 7. O-O e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Control d5 and e5, develop every piece, and return the pawn if it neutralizes White's initiative. White plan: White places rooks on central files, attacks e6 and f7, and uses sacrifices to keep Black uncastled. Decision: Which move develops with defense against White's next forcing threat? Danger: Spending tempi to preserve the c3 pawn or another material detail while the king stays central. Memory rule: In a gambit, extra material is stored value; spend it to finish development. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The e5-square blockade"]
+
+{ Volume 14: Smith-Morra Gambit. Why it matters: ...e6 denies White an easy e5 advance and supports development, but it makes the dark squares and d6 setup important. } 1. e4 c5 2. d4 cxd4 { cxd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 3. c3 dxc3 4. Nxc3 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 5. Nf3 e6 6. Bc4 a6 { a6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. O-O b5 8. Bb3 Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use ...a6 and ...b5 only when they gain a real bishop tempo and do not neglect ...Nf6 and king safety. White plan: White exploits the lead in development with e5, Qe2, Rd1, and tactical pressure on the king. Decision: Does the queenside expansion solve a development problem or create one? Danger: Winning tempi on one bishop while three black pieces remain asleep. Memory rule: A pawn gain survives only behind a completed development shell. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Declining into an Alapin"]
+
+{ Volume 14: Smith-Morra Gambit. Why it matters: Declining with ...Nf6 avoids the gambit pawn and transposes to an Alapin-type center where e5 and d4 are the targets. } 1. e4 c5 2. d4 cxd4 { cxd4: Black releases tension by capturing on d4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 3. c3 Nf6 4. e5 Nd5 { Nd5: Black reroutes a knight to d5; judge the move by the job at its destination and the time conceded on the way. } 5. Nf3 e6 6. cxd4 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Bc4 dxe5 { dxe5: Black releases tension by capturing on e5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Attack the advanced center, develop with tempo, and know that declining changes the problem rather than removing theory. White plan: White keeps space and uses quick development to support the center. Decision: Can Black undermine e5 or d4 without allowing a tactical jump on the centralized knight? Danger: Calling the gambit declined and then playing passively against the broad center. Memory rule: Declining a gambit means choosing a center you understand, not refusing to fight. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Bowdler bishop development"]
+
+{ Volume 15: Rare Second Moves and Move-Order Traps. Why it matters: Bc4 points at f7 but allows Black to challenge the center immediately because White has not prepared d4. } 1. e4 c5 2. Bc4 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. Nf3 d5 4. exd5 exd5 { exd5: Black releases tension by capturing on d5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. Bb5+ Bd7 6. Qe2+ Be7 { Be7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: Use ...e6 and ...d5 to gain central equality while developing against checks and pins. White plan: White creates tactical pressure on d5 and f7 and may use Bb5+ to interrupt development. Decision: Can ...d5 be played without losing the pawn or exposing the king to a forcing check? Danger: Treating Bc4 as harmless and making a slow Sicilian move while White builds d4 for free. Memory rule: Punish an early bishop move by claiming the center, but calculate the checks. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Wing Gambit"]
+
+{ Volume 15: Rare Second Moves and Move-Order Traps. Why it matters: White sacrifices a wing pawn to distract c5 and gain central development; Black must avoid a greedy pawn-holding operation. } 1. e4 c5 2. b4 cxb4 { cxb4: Black releases tension by capturing on b4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 3. a3 d5 4. exd5 Qxd5 { Qxd5: Black releases tension by capturing on d5; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. Nf3 e5 6. axb4 Bxb4 { Bxb4: Black releases tension by capturing on b4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Challenge the center with ...d5, return material if useful, and make the queen's development safe from tempi. White plan: White opens files, plays Nf3 and d4, and attacks the queen or uncastled king with rapid piece play. Decision: After accepting, what central move prevents White from building d4 with tempo? Danger: Protecting every extra pawn while White mobilizes all pieces. Memory rule: Meet a wing gambit in the center and value time above pawns. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Delayed c3 and quiet development"]
+
+{ Volume 15: Rare Second Moves and Move-Order Traps. Why it matters: White delays d4 and may build a restrained center, hoping Black commits before the structure is clear. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. c3 Nf6 4. Be2 g6 { g6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 5. O-O Bg7 6. d3 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 7. Re1 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. Black plan: Develop flexibly, keep ...d5 available, and do not force an Open Sicilian structure that White declined. White plan: White prepares d4 under ideal conditions or keeps a King's Indian Attack shell for kingside play. Decision: Is White still preparing d4, and which black move makes that break less favorable? Danger: Expanding on the queenside before identifying whether the center will open. Memory rule: Against a delayed center, preserve options and watch the break, not the opening label. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Dragon exchange sacrifice on c3"]
+
+{ Volume 16: Sicilian Tactical Grammar. Why it matters: ...Rxc3 motifs destroy the knight guarding e4 and the castled king, often trading exchange material for structure, dark squares, and attack. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 g6 6. Be3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 7. f3 O-O 8. Qd2 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 9. Bc4 Bd7 10. O-O-O Rc8 { Rc8: Black places a rook behind a file or pawn break expected to become important. } 11. Bb3 Ne5 12. h4 Nc4 { Nc4: Black reroutes a knight to c4; judge the move by the job at its destination and the time conceded on the way. } 13. Bxc4 Rxc4 { Rxc4: Black releases tension by capturing on c4; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. Black plan: Calculate ...Rxc3 only when the follow-up reaches c2, the king, or e4 before White consolidates. White plan: White protects c3 tactically, trades attacking pieces, and returns material to reach safety. Decision: After the exchange sacrifice, name the next two forcing moves and the exact compensation. Danger: Sacrificing because the pattern is famous when no queen entry or pawn destruction follows. Memory rule: A thematic sacrifice still needs a forcing continuation and countable compensation. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Najdorf ...d5 clearance"]
+
+{ Volume 16: Sicilian Tactical Grammar. Why it matters: A central ...d5 can clear diagonals, remove White's space, and turn queenside pressure into a direct attack. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. Qd2 b5 8. f3 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. g4 Bb7 10. O-O-O Rc8 { Rc8: Black places a rook behind a file or pawn break expected to become important. } 11. Kb1 Ne5 { Ne5: Black reroutes a knight to e5; judge the move by the job at its destination and the time conceded on the way. Black plan: Prepare the break with piece pressure and calculate every central capture, especially discovered attacks on the kings. White plan: White keeps d5 controlled and uses g5 or e5 to seize the initiative first. Decision: What opens after ...d5: which rook, bishop, and queen lines appear for both sides? Danger: Evaluating only the pawn exchange and overlooking the lines it uncovers. Memory rule: A clearance break is about the pieces released, not the pawn traded. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Pawn-storm contact points"]
+
+{ Volume 16: Sicilian Tactical Grammar. Why it matters: Opposite-side attacks become tactical when pawns make contact: g5, h5, ...b4, or ...d5 changes lines and tempos immediately. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. f3 b5 8. g4 h6 { h6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 9. Qd2 Nbd7 10. O-O-O Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 11. h4 { h4: White changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. Black plan: Identify the first profitable contact, calculate forcing replies, and use defensive pawn moves only when they slow more than they weaken. White plan: White opens h- or g-files and uses sacrifices to remove the last pawn shield. Decision: Which pawn contact is forcing, and does it create a line for a piece already aimed at the king? Danger: Counting squares advanced rather than files opened and tempi gained. Memory rule: Pawn storms are decided at contact, not by distance traveled. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Trading queens under attack"]
+
+{ Volume 17: Defense, Endgames, and Transformations. Why it matters: When White's initiative depends on queen pressure, a queen trade can reveal that Black's space or bishop pair is sufficient for the endgame. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. Be3 Be6 10. Qd2 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Rfd1 Rc8 { Rc8: Black places a rook behind a file or pawn break expected to become important. Black plan: Offer exchanges that remove attackers while preserving active rooks and control of d5. White plan: White avoids sterile trades and tries to retain pressure on d6 and the weak squares. Decision: Which exchange removes attacking potential without conceding a superior minor-piece ending? Danger: Trading automatically and entering a lost pawn ending or a permanent d5 bind. Memory rule: Trade the attacker, not the structure that holds your position together. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The c-file in queenless play"]
+
+{ Volume 17: Defense, Endgames, and Transformations. Why it matters: The c-file remains a durable asset after attacks fade; rooks can pressure c2 and enter through c4 or c1 if squares are controlled. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. O-O Be7 8. f4 O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. Kh1 Qc7 10. a4 Nc6 { Nc6: Black reroutes a knight to c6; judge the move by the job at its destination and the time conceded on the way. } 11. Be3 Re8 { Re8: Black places a rook behind a file or pawn break expected to become important. Black plan: Contest entry squares, improve the worst piece, and create a second target before invading. White plan: White blocks the file, activates centrally, and attacks d6 or queenside weaknesses before the rook enters. Decision: What is the rook's entry square, and which minor piece must control it first? Danger: Doubling rooks on a file with no target, entry square, or supporting piece. Memory rule: A file is a road; first identify the destination. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Converting the ...e5 structure"]
+
+{ Volume 17: Defense, Endgames, and Transformations. Why it matters: The d6 pawn and d5 hole can survive into the endgame, so activity and timely piece exchanges must compensate for structural defects. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. Be3 Be6 10. Qd2 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 11. Rfd1 Rc8 12. Rac1 { Rac1: White places a rook behind a file or pawn break expected to become important. Black plan: Control d5, activate rooks, and exchange the white knight that can occupy the outpost. White plan: White fixes d6, installs a knight on d5, and trades defenders to create a long-term squeeze. Decision: Which piece is White's ideal occupier of d5, and can Black exchange it before simplification? Danger: Entering an endgame because queens are gone while leaving the perfect blockading knight untouched. Memory rule: In an ...e5 ending, control the outpost before counting the pawns. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Main-line rehearsal"]
+
+{ Volume 18: A Lifetime Najdorf Repertoire. Why it matters: The repertoire backbone links development, ...b5, control of d5, the c-file, and a central break into one causal chain. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be3 e6 { e6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 7. f3 b5 8. Qd2 Nbd7 { Nbd7: Black reroutes a knight to d7; judge the move by the job at its destination and the time conceded on the way. } 9. g4 h6 10. O-O-O Bb7 { Bb7: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. } 11. Kb1 Rc8 { Rc8: Black places a rook behind a file or pawn break expected to become important. Black plan: Reach a known structure, identify White's attack, and choose the move that changes the race rather than merely following a memorized sequence. White plan: White varies move order to make Black reveal commitments or lose a tempo in the attack. Decision: Which move is essential to the position, and which move belongs only to the memorized order? Danger: Trying to reproduce a line after White has changed one detail that alters the tactics. Memory rule: Store structures and decisions; use move order only to reach them safely. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Anti-Sicilian decision tree"]
+
+{ Volume 18: A Lifetime Najdorf Repertoire. Why it matters: Anti-Sicilians ask Black to identify White's intended center quickly: immediate d4, delayed d4, f4 attack, or gambit development. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. Bb5+ Bd7 4. Bxd7+ Qxd7 { Qxd7: Black releases tension by capturing on d7; recalculate the pawn skeleton, open lines, and the opponent's most forcing recapture. } 5. O-O Nc6 6. c3 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 7. Re1 g6 8. d4 { d4: White builds the Open Sicilian center and offers the d-pawn for rapid development. Black plan: Classify the center, choose the matching break, and develop without importing Najdorf moves into the wrong structure. White plan: White avoids main-line theory to obtain a familiar setup and practical initiative. Decision: What pawn break is White preparing, and which black move challenges it most directly? Danger: Feeling relieved to be out of theory and responding with generic moves instead of a concrete plan. Memory rule: Name White's center first; the anti-Sicilian label comes second. } *
+
+[Event "Sicilian Black Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Repairing the repertoire from your games"]
+
+{ Volume 18: A Lifetime Najdorf Repertoire. Why it matters: A lifetime repertoire grows from recurring decisions in your games, not from collecting every database branch at once. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess breaks, weak squares, open lines, and king exposure. } 3. d4 cxd4 4. Nxd4 Nf6 { Nf6: Black reroutes a knight to f6; judge the move by the job at its destination and the time conceded on the way. } 5. Nc3 a6 6. Be2 e5 { e5: Black gains central space and a knight tempo while accepting a lasting weakness on d5. } 7. Nb3 Be7 8. O-O O-O { O-O: Black secures the king and connects a rook; central and wing operations can now be judged more concretely. } 9. f4 Be6 { Be6: Black changes a bishop's diagonal; identify the central pawn move that will make that diagonal useful. Black plan: After each game, find the first position you could not explain, record the cue and candidate set, then repair only that branch. White plan: Opponents will choose sidelines and imperfect moves; those are tests of understanding rather than failures of preparation. Decision: At what move did your reasoning disappear, and what one decision rule would restore it next time? Danger: Replacing the whole opening after one loss or adding hundreds of moves without retrieval practice. Memory rule: Repair the first unexplained decision, then test it again. } *
+

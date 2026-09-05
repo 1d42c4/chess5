@@ -1,0 +1,47 @@
+CHESS PRINCIPLES ENCYCLOPEDIA - VOLUME 3
+============================================
+
+Principles 201-225 | calculation discipline and tactical pattern integration
+25 individual PDFs | 6 pages each | 150 pages total
+
+HOW TO STUDY THIS VOLUME
+------------------------
+1. Study one PDF at a time and restate the rule without looking.
+2. Explain the causal mechanism: why should the rule improve the position?
+3. Set up the board and generate three candidates before reading your notes.
+4. State the limitation and calculate the opponent's strongest forcing reply.
+5. Find the pattern in a slow game, then review after 3, 7, 14, and 30 days.
+
+IMPORTANT
+---------
+Principles organize attention; they do not override tactics. Use this decision order:
+legal and tactical survival, king safety, forcing initiative, material, activity,
+structure, space, and finally the general rule as a tiebreaker.
+
+DIRECTORY
+---------
+201. Inventory the Position Before Calculating - Deep Calculation\201_Inventory_the_Position_Before_Calculating.pdf
+202. Rank Candidates by Reply Restriction - Deep Calculation\202_Rank_Candidates_by_Reply_Restriction.pdf
+203. Calculate the Best Countercheck First - Deep Calculation\203_Calculate_the_Best_Countercheck_First.pdf
+204. Audit Every Capture on the Critical Square - Deep Calculation\204_Audit_Every_Capture_on_the_Critical_Square.pdf
+205. Use Comparison Points in the Tree - Deep Calculation\205_Use_Comparison_Points_in_the_Tree.pdf
+206. Stop Only at a Quiescent Position - Deep Calculation\206_Stop_Only_at_a_Quiescent_Position.pdf
+207. Return to the Root Between Branches - Deep Calculation\207_Return_to_the_Root_Between_Branches.pdf
+208. Separate Seeing Errors from Judging Errors - Deep Calculation\208_Separate_Seeing_Errors_from_Judging_Errors.pdf
+209. Use Motifs as Search Cues - Deep Calculation\209_Use_Motifs_as_Search_Cues.pdf
+210. Refute Your Own Sacrifice - Deep Calculation\210_Refute_Your_Own_Sacrifice.pdf
+211. Search for Quiet Tactical Moves - Deep Calculation\211_Search_for_Quiet_Tactical_Moves.pdf
+212. Treat Move Order as a Tactical Resource - Deep Calculation\212_Treat_Move_Order_as_a_Tactical_Resource.pdf
+213. Distinguish Attraction from Deflection - Tactical Pattern Integration\213_Distinguish_Attraction_from_Deflection.pdf
+214. Interfere with a Defensive Line - Tactical Pattern Integration\214_Interfere_with_a_Defensive_Line.pdf
+215. Clear a Line by Sacrifice - Tactical Pattern Integration\215_Clear_a_Line_by_Sacrifice.pdf
+216. Open Lines with a Pawn Sacrifice - Tactical Pattern Integration\216_Open_Lines_with_a_Pawn_Sacrifice.pdf
+217. Build the Mating Net Before Checking - Tactical Pattern Integration\217_Build_the_Mating_Net_Before_Checking.pdf
+218. Prepare the Knight Fork - Tactical Pattern Integration\218_Prepare_the_Knight_Fork.pdf
+219. Test the Greek Gift Conditions - Tactical Pattern Integration\219_Test_the_Greek_Gift_Conditions.pdf
+220. Evaluate the Exchange Sacrifice on c3 or c6 - Tactical Pattern Integration\220_Evaluate_the_Exchange_Sacrifice_on_c3_or_c6.pdf
+221. Use the Rook Lift as a Route - Tactical Pattern Integration\221_Use_the_Rook_Lift_as_a_Route.pdf
+222. Align a Battery with a Future Target - Tactical Pattern Integration\222_Align_a_Battery_with_a_Future_Target.pdf
+223. Use Stalemate as an Active Defense - Tactical Pattern Integration\223_Use_Stalemate_as_an_Active_Defense.pdf
+224. Construct a Perpetual-Check Zone - Tactical Pattern Integration\224_Construct_a_Perpetual_Check_Zone.pdf
+225. Remove the Opponent's Tactic First - Tactical Pattern Integration\225_Remove_the_Opponents_Tactic_First.pdf

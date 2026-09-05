@@ -1,0 +1,594 @@
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The universal-looking shell"]
+
+{ Volume 1: The King's Indian Attack from First Principles. Why it matters: Nf3, g3, Bg2, O-O, d3, Nbd2, e4, and Re1 form a recognizable shell, but their order must respond to Black's central breaks. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. e4 Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. Black plan: Black uses the space White concedes to claim d5, expand with ...c5 or ...b5, and seek a central break before the kingside buildup matures. White plan: White completes development, keeps e4 secure, and chooses e5, exd5, or a different center according to Black's pawn placement. Decision: Which black pawn break is already possible, and does the next 'system move' prevent it or merely ignore it? Danger: Playing the setup from memory while Black achieves an ideal center without paying a price. Memory rule: The KIA is a decision system: read Black's center before completing White's shell. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The 1.e4 route against the French"]
+
+{ Volume 1: The King's Indian Attack from First Principles. Why it matters: Starting with 1.e4 invites a French structure while d3 and Nd2 keep White out of the main French center and preserve the KIA plan. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 { Re1: White places a rook behind a pawn break or file expected to open. Black plan: Black develops naturally, gains space with ...d5 and ...c5, and attacks the base of White's center before e5 becomes stable. White plan: White secures e4, develops the kingside, and prepares e5 only when the resulting closed center favors a kingside attack. Decision: If White plays e5 now, where must the f3 knight go after ...Nd7, and can Black challenge the pawn chain? Danger: Believing the opening name guarantees an attack even when e5 is tactically premature. Memory rule: The 1.e4 KIA reaches a French shell; e5 must be earned, not scheduled. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "1.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The 1.Nf3 flexible route"]
+
+{ Volume 1: The King's Indian Attack from First Principles. Why it matters: 1.Nf3 delays the central pawn commitment and can avoid some forcing defenses, but Black may choose an active ...e5 setup of its own. } 1. Nf3 d6 2. g3 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 3. Bg2 Nf6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. } 7. e4 { e4: White builds the KIA center but must account for Black's immediate central break. Black plan: Black occupies the center, develops quickly, and prepares ...Re8 or ...d5 before White creates a space advantage. White plan: White uses the completed fianchetto to decide between a closed e4 center, c4 pressure, or a later d4 expansion. Decision: What center did Black choose, and which white pawn break challenges it without blocking the g2 bishop? Danger: Using flexibility only to postpone every central decision until Black controls all useful breaks. Memory rule: A flexible move order is valuable only if it creates a better choice later. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The e5 space wedge"]
+
+{ Volume 2: The Locked e5 Center. Why it matters: e5 gains kingside space, restricts the f6 knight, and closes the center, making a wing attack plausible while fixing d3 as the pawn-chain base. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 { h4: White creates a possible kingside hook and supports h5. Black plan: Black attacks the chain with ...f6, gains queenside space, and uses the d4 square before White's kingside pieces coordinate. White plan: White keeps e5 supported, reroutes pieces toward the king, and uses h4, Nf1-h2-g4, or Bf4 before opening lines. Decision: Can Black undermine e5 immediately, and which defender or recapture keeps White's pieces active? Danger: Advancing e5 without a route for the f3 knight or enough support for the pawn chain. Memory rule: e5 buys kingside space; White must use the space before Black attacks its base. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The d3 base of the chain"]
+
+{ Volume 2: The Locked e5 Center. Why it matters: The advanced e5 pawn is only as stable as d3 and the pieces behind it; pressure on d3 can make the whole attacking structure brittle. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 { Nf1: White reroutes a knight to f1; name the destination job and the useful move conceded to the opponent. Black plan: Black combines ...b5-b4, ...a5, and ...Ba6 or ...f6 so White must defend d3 while attacking elsewhere. White plan: White defends d3 economically, clears d2 for pieces, and avoids tying the queen and rooks to a static weakness. Decision: Which black piece can attack d3, and can White meet it with development rather than passive defense? Danger: Concentrating every piece on the kingside while the chain's base falls with tempo. Memory rule: Attack from the head of the chain, but protect the base with the fewest pieces possible. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "2.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The d4 outpost"]
+
+{ Volume 2: The Locked e5 Center. Why it matters: Because White's pawn stands on d3 rather than d4, Black often receives the d4 outpost for a knight or bishop and can use it to interrupt the attack. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 b4 { b4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black occupies d4 when it cannot be chased, exchanges a key attacker, and coordinates queenside pressure with the central outpost. White plan: White controls d4 with c3 or reroutes pieces so an occupation can be exchanged without ruining the attack. Decision: Is d4 a harmless square, a blockading square, or an entry square that creates a concrete threat? Danger: Treating the closed center as completely safe while a black piece dominates d4. Memory rule: In the KIA, d4 is the square White concedes; monitor who can use it and why. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The d2 knight goes to f1"]
+
+{ Volume 3: The KIA Piece Routes. Why it matters: Nf1 clears d2, protects h2, and prepares h2-g4 or e3, but it temporarily reduces queenside influence and costs a tempo. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 { Nf1: White reroutes a knight to f1; name the destination job and the useful move conceded to the opponent. Black plan: Black uses the maneuvering time for ...b4, ...a5-a4, or ...f6 and tries to make the knight's destination irrelevant. White plan: White routes the knight only when h2, g4, or e3 contributes to the actual attack or central defense. Decision: What exact square will the f1 knight occupy next, and what useful move can Black make during the journey? Danger: Playing Nf1 because it is thematic when e3, h2, and g3 are all poor destinations. Memory rule: A retreat is an investment; write the destination and job before paying the tempo. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The h2-g4 attacking route"]
+
+{ Volume 3: The KIA Piece Routes. Why it matters: The knight from f1 can reach h2 and g4, where it attacks f6 and h6 and supports a kingside pawn break without blocking the g-pawn. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. N1h2 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. Ng4 { Ng4: White reroutes a knight to g4; name the destination job and the useful move conceded to the opponent. Black plan: Black challenges the knight with ...h5 or ...f5, opens the center, or attacks d3 before the kingside pieces settle. White plan: White coordinates Ng4 with h5, Bf4, and queen entry squares so the knight's arrival creates a concrete threat. Decision: After Ng4, what target is attacked twice and what defensive pawn move can drive the knight away? Danger: Completing the long route when the g4 knight can be chased without creating a weakness. Memory rule: The h2-g4 route works when the knight's arrival forces a concession. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "3.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The g2 bishop behind the chain"]
+
+{ Volume 3: The KIA Piece Routes. Why it matters: The g2 bishop may appear blocked by e4, but it protects the king, supports central dark squares, and can awaken after e5-e6, exd5, or a queenside transformation. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. e4 Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 { Nd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. Black plan: Black keeps the diagonal closed, uses d4, and seeks queenside play while White's bishop has no direct target. White plan: White judges the bishop by its defensive and latent value, then opens the diagonal only when the center change helps the entire army. Decision: Which pawn move would activate the bishop, and would that move improve or expose White's center? Danger: Forcing the diagonal open merely to justify the bishop while conceding the stronger central structure. Memory rule: A fianchetto bishop can be valuable while hidden; open it when the position, not the ego, demands it. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Delayed e4 against ...c5"]
+
+{ Volume 4: Building the Center Correctly. Why it matters: When Black builds ...d5 and ...c5, White's delayed e4 creates a closed center only if the resulting space and piece routes justify allowing ...d4. } 1. Nf3 d5 2. g3 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 3. Bg2 Nc6 4. O-O e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 5. d3 Nf6 6. Nbd2 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 7. e4 O-O 8. Re1 { Re1: White places a rook behind a pawn break or file expected to open. Black plan: Black may advance ...d4, gain space, and use the queenside while White is still organizing the kingside. White plan: White decides whether to accept the closed center, challenge with c3, or switch to c4 pressure before the space deficit becomes fixed. Decision: After e4, can Black play ...d4 with gain, and what square or break will White use against that chain? Danger: Completing the KIA center when Black's broad center can close under ideal conditions. Memory rule: Before e4, calculate Black's strongest pawn advance, not only its captures. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Meeting Black’s ...e5 center"]
+
+{ Volume 4: Building the Center Correctly. Why it matters: When Black already occupies e5, White's own e4 creates a symmetrical tension rather than the familiar e5 space wedge. } 1. Nf3 d6 2. g3 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 3. Bg2 Nf6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. } 7. e4 Re8 8. c3 Bf8 { Bf8: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. Black plan: Black prepares ...d5, improves the pieces, and uses central equality to neutralize a slow kingside buildup. White plan: White uses c3, Re1, and a timed d4 or f4 to create an imbalance instead of copying the closed French plan. Decision: Which break, d4 or f4, changes the symmetry on terms favorable to White? Danger: Trying to play e5 into a well-supported black e5 pawn or maneuvering without creating tension. Memory rule: Against Black's ...e5, the KIA needs a break; the French attacking script no longer applies. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "4.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Choosing d4 instead of d3"]
+
+{ Volume 4: Building the Center Correctly. Why it matters: Some black setups offer no useful e5 attack and allow White to claim a stronger classical center with d4 and c4. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d4 O-O 6. c4 c6 { c6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. Qc2 Nbd7 { Nbd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. Black plan: Black builds a solid center, seeks ...b6 or ...dxc4, and challenges White to prove an advantage outside KIA patterns. White plan: White accepts a Catalan or Réti-type structure because the center, bishop, and space work better than an automatic d3-e4 shell. Decision: Does d3 preserve useful flexibility, or does d4 claim space without allowing Black an active break? Danger: Refusing a favorable center because it no longer carries the King's Indian Attack label. Memory rule: The KIA is a tool, not a vow; take the center when Black gives it safely. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Re1 and the e-file battery"]
+
+{ Volume 5: Architecture of the Kingside Attack. Why it matters: Re1 reinforces e4-e5, supports a later e5-e6 sacrifice, and gives the rook a role if the e-file opens. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 { Nd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. Black plan: Black keeps the e-file closed, attacks the chain with ...f6, and uses queenside tempi before White's rook becomes active. White plan: White treats Re1 as preparation for a central rupture, not as proof that an attack already exists. Decision: What pawn exchange will open the e-file, and which king or piece will then stand on it? Danger: Placing the rook on e1 and never creating a condition in which the file can open. Memory rule: A rook belongs behind the pawn break that may open its file. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Queen and bishop entry squares"]
+
+{ Volume 5: Architecture of the Kingside Attack. Why it matters: The attack needs queen access through e2, h5, or g4 and a useful diagonal for the c1 bishop; otherwise the pawns advance without heavy-piece support. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. Bf4 { Bf4: White changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. Black plan: Black controls entry squares, trades one attacking bishop, and opens the center while White's queen is traveling. White plan: White chooses Bf4, Qe2, and h5 in an order that avoids tempo attacks and creates a concrete threat. Decision: Which queen square is safe, and which bishop move makes that square tactically meaningful? Danger: Sending the queen to the kingside where a minor piece can attack it while Black gains central time. Memory rule: An attack becomes real when the queen has an entry square and the minor pieces control its escape squares. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "5.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Counting attacking and defending pieces"]
+
+{ Volume 5: Architecture of the Kingside Attack. Why it matters: Kingside space is not an attack by itself. White needs enough pieces near the king to exploit an opened file before Black's defenders arrive. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. N1h2 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. Ng4 { Ng4: White reroutes a knight to g4; name the destination job and the useful move conceded to the opponent. Black plan: Black transfers a knight or rook to the kingside, exchanges a key attacker, or creates a central threat that forces White to retreat. White plan: White counts pieces that can join within one move and chooses a pawn contact only when the attackers outnumber useful defenders. Decision: After the next pawn exchange, how many white pieces attack the opened squares and how many black pieces defend them? Danger: Counting advanced pawns as attackers even when no piece can use the file they open. Memory rule: Open a line only when your pieces, not merely your pawns, can enter first. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "When e5 gains useful time"]
+
+{ Volume 6: Timing e5, f4, and f5. Why it matters: e5 is strongest when the f6 knight must move to a less useful square and Black cannot immediately destroy the pawn chain with ...f6. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 { Nd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. Black plan: Black chooses the best knight retreat, prepares ...f6, and uses the time White spent supporting e5 to expand elsewhere. White plan: White uses the knight tempo to play h4, Nf1, or Bf4 and establishes the attacking routes before the center is undermined. Decision: Where will the f6 knight go, and does its retreat help Black attack e5 or defend the king? Danger: Playing e5 when the knight retreat improves Black's position or when the pawn can be undermined immediately. Memory rule: e5 must win a useful tempo, not merely a visible square. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "f4 supports the space advantage"]
+
+{ Volume 6: Timing e5, f4, and f5. Why it matters: f4 reinforces e5 and prepares f5, but it weakens e3 and the king's diagonal while committing another pawn to the attack. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. Ng5 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. f4 { f4: White supports e5 and prepares contact on f5 while loosening the king. Black plan: Black strikes with ...f6, uses the e3 square, or opens the queenside before White's pawn mass reaches the king. White plan: White plays f4 only when e5 needs support or f5 will create an entry square for a piece. Decision: Does f4 defend a real target and prepare a concrete contact, or is it only adding visual space? Danger: Building an impressive pawn chain that leaves the pieces no lines and the king fewer defenders. Memory rule: Every attacking pawn move must defend something or prepare contact. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "6.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "f5 as a contact move"]
+
+{ Volume 6: Timing e5, f4, and f5. Why it matters: f5 makes contact with e6 and g6, can open the f-file or e-file, and may sacrifice a pawn to release White's pieces. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. Ng5 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. f4 b3 14. f5 exf5 { exf5: Black releases tension on f5; recalculate the pawn chain, open files, and the opponent's most forcing recapture. Black plan: Black chooses the capture that keeps lines closed, returns material if needed, and counterattacks d3 or the queenside. White plan: White calculates the recapture, rook activation, and queen entry before committing the f-pawn. Decision: After ...exf5, which white piece recaptures or uses the opened line, and is the e5 pawn still secure? Danger: Playing f5 because it is thematic while Black can capture and leave White with no active recapture. Memory rule: f5 is a line-opening operation; identify the piece that enters the line. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "h4 creates the hook"]
+
+{ Volume 7: The h-Pawn and g-Pawn Storm. Why it matters: h4 prepares h5 against ...h6 or a direct gain of space, while keeping the g-pawn available; it also loosens g3 and the white king. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 { h4: White creates a possible kingside hook and supports h5. Black plan: Black responds with ...f6, ...h6, or queenside speed and avoids creating a hook unless it serves a defensive purpose. White plan: White uses h4 to force a pawn decision, then opens the h-file only when a rook or queen can reach it. Decision: If Black ignores h4, what is White's next forcing move; if Black plays ...h6, which pawn becomes the target? Danger: Advancing h4-h5 while the h-file would open for Black's rook or White cannot bring a heavy piece. Memory rule: A pawn becomes a hook only when another pawn can make profitable contact with it. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "h5 fixes the kingside"]
+
+{ Volume 7: The h-Pawn and g-Pawn Storm. Why it matters: h5 restricts ...g6 and fixes h7, but it can also close the h-file and leave White needing a different entry route. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. h5 b4 { b4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black keeps the structure closed, attacks d3, and uses ...f6 to challenge the center rather than weakening the h-pawn shell. White plan: White combines h5 with Nf1-h2-g4, Bf4, and queen access so the fixed pawn becomes a target. Decision: Did h5 create a target that White can attack, or did it lock the only file White could open? Danger: Confusing territorial gain with line access and discovering that every kingside file is closed. Memory rule: Fix a pawn only when your pieces can attack the fixed square. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "7.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "g4-g5 and the knight chase"]
+
+{ Volume 7: The h-Pawn and g-Pawn Storm. Why it matters: g4-g5 gains space and can drive a defender from f6, but it opens dark squares around White's own king and may leave the g-pawn unsupported. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. N1h2 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. g4 b3 14. g5 { g5: White changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black opens the center or queenside, challenges g5 with ...f6, and uses the weakened f4 and h4 squares. White plan: White pushes only when the knight displacement or opened g-file produces a forcing continuation. Decision: Where does the targeted knight go, and does that retreat attack e5, g5, or White's king? Danger: Chasing a knight to a better defensive square while weakening the castled king. Memory rule: A pawn chase is good only when the chased piece loses function, not merely location. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Bf4 develops with purpose"]
+
+{ Volume 8: The Dark Bishop and Queen Battery. Why it matters: Bf4 develops the last minor piece, supports e5, and eyes d6 or h6, but the bishop can be attacked by ...f6 or ...g5. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. Bf4 { Bf4: White changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. Black plan: Black challenges the bishop with a useful pawn move or uses the tempo to accelerate queenside play. White plan: White selects f4, g5, or h6 as a destination according to the black pawn structure and queen route. Decision: Which square will the bishop influence after Black's most forcing pawn challenge? Danger: Placing the bishop on f4 because it looks active when it can be chased without concession. Memory rule: Develop the bishop to support the next break, not to complete a diagram. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Qe2 supports the central rupture"]
+
+{ Volume 8: The Dark Bishop and Queen Battery. Why it matters: Qe2 reinforces e5, connects the rooks, and can reach h5 or g4, while staying behind the e-pawn and away from many minor-piece attacks. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Qe2 { Qe2: White coordinates center and wing plans, but must check whether the queen becomes a tempo target. Black plan: Black attacks e5 with ...f6, opens the center against the queen, or gains queenside time before it reaches the king. White plan: White uses Qe2 only when its dual central and attacking roles justify blocking the e-rook's line temporarily. Decision: Will Qe2 help after ...f6, and which queen route remains safe after the center opens? Danger: Moving the queen toward the attack while the e-file opens against it. Memory rule: A good queen move serves the center and the king attack at the same time. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "8.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Qd2 and Bh6 against a fianchetto"]
+
+{ Volume 8: The Dark Bishop and Queen Battery. Why it matters: Against a kingside fianchetto, exchanging the g7 bishop can weaken dark squares, but the usual Bh6 route must fit the actual bishop placement and move order. } 1. Nf3 g6 2. g3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 3. Bg2 d6 4. O-O Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 5. d3 O-O 6. Nbd2 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 7. e4 Nc6 8. c3 h6 { h6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 9. Re1 Be6 10. Bf1 Qd7 { Qd7: Black coordinates center and wing plans, but must check whether the queen becomes a tempo target. } 11. Qc2 { Qc2: White coordinates center and wing plans, but must check whether the queen becomes a tempo target. Black plan: Black preserves the g7 bishop, challenges the center, and uses ...Bh3 or ...d5 before White completes a slow battery. White plan: White coordinates the dark bishop and queen, but switches plans if the exchange costs too many tempi or closes useful diagonals. Decision: Does exchanging the fianchetto bishop create entry squares, or does it remove White's own useful attacking bishop? Danger: Spending several moves to trade a bishop while Black seizes the center and the remaining pieces lack targets. Memory rule: Exchange a king defender only when the squares it guarded can be occupied. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The main French KIA tabiya"]
+
+{ Volume 9: The KIA against the French. Why it matters: The French KIA gives White a familiar kingside space wedge while Black receives a large queenside and the thematic ...f6 break. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 { h4: White creates a possible kingside hook and supports h5. Black plan: Black expands with ...b5-b4, attacks d3, and times ...f6 to destroy e5 before White's pieces surround the king. White plan: White completes Nf1-h2-g4, Bf4, and h5 while monitoring the speed and tactical effect of ...f6. Decision: Which side's next forcing pawn contact changes the position first: ...f6, ...b4, h5, or f5? Danger: Assuming the kingside attack is automatically faster because the black king is the visible target. Memory rule: The French KIA is a race; count pawn contacts and forcing replies, not board distance. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black’s queenside expansion"]
+
+{ Volume 9: The KIA against the French. Why it matters: Black's ...b5-b4 and ...a5-a4 gain space, attack c3 or d3, and may open files against White's queen before the kingside attack lands. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. N1h2 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black uses each pawn move to gain a tempo or create a file and avoids overextension that gives White a central break. White plan: White decides whether to ignore, restrain with a3 or c3, or open the center so the queenside pawns become weaknesses. Decision: Does Black's next pawn advance create a threat White must answer, or can White spend that tempo on the king attack? Danger: Reacting to every queenside pawn move and never completing White's own forcing plan. Memory rule: Answer a wing move only when it changes the center, opens a file, or attacks something real. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "9.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...f6 counterbreak"]
+
+{ Volume 9: The KIA against the French. Why it matters: ...f6 attacks the head of White's chain and opens the f-file, e6 square, and diagonal structure; it is Black's main strategic equalizer. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 f6 { f6: Black strikes at the head of White's e5 pawn chain and opens tactical lines. } 11. exf6 Nxf6 { Nxf6: Black releases tension on f6; recalculate the pawn chain, open files, and the opponent's most forcing recapture. Black plan: Black prepares the break so the recapture develops a piece and the opened lines do not expose the king. White plan: White chooses exf6, a tactical e6 advance, or support of e5 based on which files and squares benefit the attack. Decision: After ...f6, which recapture activates White's pieces, and is the black king safer or more exposed? Danger: Keeping the e5 pawn at any cost while the rest of White's position becomes tied to its defense. Memory rule: When ...f6 arrives, evaluate the opened lines before deciding whether e5 must survive. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Sicilian with ...e6"]
+
+{ Volume 10: The KIA against the Sicilian. Why it matters: Black's ...e6 setup controls d5 and prepares ...d5, while White keeps the center compact and seeks e5 or c3-d4 under favorable conditions. } 1. e4 c5 2. Nf3 e6 { e6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 3. d3 Nc6 4. g3 g6 { g6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 5. Bg2 Bg7 6. O-O Nge7 { Nge7: Black reroutes a knight to e7; name the destination job and the useful move conceded to the opponent. } 7. Nbd2 O-O 8. Re1 d6 { d6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black achieves ...d5, uses the queenside majority, and prevents White from building a free kingside attack. White plan: White chooses e5 only if it gains useful space; otherwise c3-d4 or h4-f4 can create the needed imbalance. Decision: Can Black play ...d5 in one move, and does White's next move restrain or exploit that break? Danger: Playing a French-style e5 plan when Black's pieces and pawns control the square more efficiently. Memory rule: Against ...e6 Sicilians, the ...d5 break is the first question. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Sicilian with ...d6"]
+
+{ Volume 10: The KIA against the Sicilian. Why it matters: The ...d6 move order slows ...d5 but supports ...e5 and a Dragon-like fianchetto; White has more time but fewer direct targets. } 1. e4 c5 2. Nf3 d6 { d6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 3. d3 Nc6 4. g3 g6 { g6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 5. Bg2 Bg7 6. O-O e6 { e6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. Nbd2 Nge7 8. Re1 O-O { O-O: Black secures the king and activates a rook; the center can now close or open with less tactical risk. Black plan: Black expands with ...b5, prepares ...d5 or ...e5, and uses the c-file if White eventually plays d4. White plan: White improves pieces, selects c3-d4 or h4-f4, and avoids an attack whose pawn contacts never reach the king. Decision: Which central break will Black achieve first, and what white setup makes that break least comfortable? Danger: Launching h4-h5 into a closed fianchetto without central support or additional attackers. Memory rule: Against ...d6, use the extra time to choose a center, not merely to push farther on the wing. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "10.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Direct 2.g3 move order"]
+
+{ Volume 10: The KIA against the Sicilian. Why it matters: The direct fianchetto can become a Closed Sicilian with f4 rather than a pure KIA, often giving White a more active central and kingside claim. } 1. e4 c5 2. g3 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 g6 4. d3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. Nc3 d6 6. f4 e6 { e6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. Nf3 Nge7 8. O-O O-O { O-O: Black secures the king and activates a rook; the center can now close or open with less tactical risk. Black plan: Black challenges with ...d5, uses d4, and expands on the queenside before White's f-pawn reaches f5. White plan: White accepts the Closed Sicilian transformation when f4 gives more useful space and a clearer break than Nbd2-Re1. Decision: Does the position reward the KIA knight route or the Closed Sicilian f4 setup? Danger: Forcing Nbd2 and Re1 into a position where Nc3 and f4 are more active. Memory rule: Use the family resemblance, but choose the piece placement that fits the center. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The symmetrical fianchetto shell"]
+
+{ Volume 11: The KIA against ...g6 Systems. Why it matters: Both sides fianchetto and build e-pawn centers; without a purposeful break, symmetry can leave White with no useful first-move advantage. } 1. Nf3 g6 2. g3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 3. Bg2 d6 4. O-O Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 5. d3 O-O 6. Nbd2 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 7. e4 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. Black plan: Black completes development and seeks ...d5 or queenside expansion while White spends tempi on slow maneuvers. White plan: White uses the move advantage to prepare c3-d4, f4, or a queenside c4 clamp before Black equalizes. Decision: Which asymmetry can White create without weakening the king or surrendering d4? Danger: Copying development until Black reaches complete equality and then starting an unsupported attack. Memory rule: Symmetry is broken by a pawn break, not by wishing one side had an attack. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black closes with ...e5"]
+
+{ Volume 11: The KIA against ...g6 Systems. Why it matters: Black's ...e5 creates a closed central shell where both sides can maneuver, but White lacks the French-style e5 wedge and must manufacture a break. } 1. Nf3 g6 2. g3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 3. Bg2 d6 4. O-O e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 5. d3 Nc6 6. Nbd2 Nge7 { Nge7: Black reroutes a knight to e7; name the destination job and the useful move conceded to the opponent. } 7. e4 O-O 8. Re1 h6 { h6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black prepares ...f5, ...Be6, and queenside or kingside expansion depending on White's commitment. White plan: White chooses c3-d4, h4, or c4 and routes pieces toward the side where the pawn break will occur. Decision: Which break challenges Black's e5 pawn without locking White's own g2 bishop permanently? Danger: Using the Nf1-h2-g4 route when there is no kingside target and Black is ready for ...f5. Memory rule: Closed symmetry needs a planned break before a planned maneuver. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "11.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black challenges with ...c5"]
+
+{ Volume 11: The KIA against ...g6 Systems. Why it matters: ...c5 controls d4 and can create a Botvinnik-style center; White must decide whether the d4 break remains possible or c3 is too slow. } 1. Nf3 g6 2. g3 Bg7 { Bg7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 3. Bg2 d6 4. O-O Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 5. d3 O-O 6. Nbd2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. e4 Nc6 8. Re1 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. Black plan: Black occupies d4, expands with ...b5, and uses the space if White closes without counterplay. White plan: White attacks the dark squares with c3, a3-b4, or f4 and avoids a passive version of the same structure. Decision: If Black installs a piece on d4, can White exchange it without damaging the center? Danger: Completing the usual KIA shell while Black's d4 outpost becomes permanent. Memory rule: When ...c5 controls d4, decide how to challenge the outpost before attacking the king. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black fianchettos on b7"]
+
+{ Volume 12: The KIA against ...e6 and ...b6. Why it matters: The b7 bishop pressures e4 and the long diagonal, making White's center both a space asset and a tactical responsibility. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 b6 { b6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. e4 Bb7 8. Re1 c5 { c5: Black attacks d4 and accelerates queenside expansion. Black plan: Black attacks e4 with pieces, prepares ...dxe4 or ...c5, and uses the flexible center to avoid a fixed kingside target. White plan: White reinforces e4 economically, chooses e5 only when it gains time, and considers c3 or Qe2 to support the center. Decision: How many real defenders protect e4 after each exchange, and is the b7 bishop pinned or unobstructed? Danger: Starting a kingside maneuver while e4 can be won by a simple central exchange. Memory rule: Against ...Bb7, count the e4 pawn's legal defenders before beginning the attack. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...c5 central challenge"]
+
+{ Volume 12: The KIA against ...e6 and ...b6. Why it matters: When ...c5 joins ...Bb7, Black attacks d4 and e4 from two directions; White's e5 gains space but must survive undermining pressure. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 b6 { b6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. e4 Bb7 8. Re1 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 9. e5 Nfd7 { Nfd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. Black plan: Black prepares ...Nc6, ...Qc7, and ...f6 or ...d4 while the b7 bishop supports central contact. White plan: White uses the knight retreat tempo to improve the attack and watches whether c3 is needed to restrain ...d4. Decision: Does e5 close the b7 bishop effectively, and can Black reopen it with ...f6 or ...d4? Danger: Assuming the bishop is dead after e5 while Black has a direct pawn break to release it. Memory rule: Close a diagonal only if you can delay the break that reopens it. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "12.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "White’s c3 restraint"]
+
+{ Volume 12: The KIA against ...e6 and ...b6. Why it matters: c3 supports e4 and restrains ...d4, but it spends a tempo, blocks the knight's natural square, and may invite ...Qc7 or ...Rd8. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 b6 { b6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. e4 Bb7 8. Re1 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 9. c3 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. Black plan: Black completes development and challenges the center before White's slow kingside routes become active. White plan: White uses c3 as a functional restraint, then follows with e5, Qe2, or d4 rather than treating it as another shell move. Decision: What specific ...d4 or ...dxe4 tactic does c3 prevent, and what active follow-up justifies the tempo? Danger: Playing c3 defensively and then leaving the center unchanged while Black improves every piece. Memory rule: A restraining move must buy time for an active follow-up. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The ...e5 classical center"]
+
+{ Volume 13: KIA Structures against ...e5, Caro-Kann, and Philidor. Why it matters: Against ...e5, White reaches a reversed closed king-pawn structure where d4 and f4, not e5, are the critical breaks. } 1. Nf3 Nc6 2. g3 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 3. Bg2 Nf6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 d6 { d6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 7. e4 Re8 { Re8: Black places a rook behind a pawn break or file expected to open. Black plan: Black prepares ...Bf8, ...d5, or queenside activity and uses the equal center to neutralize slow maneuvers. White plan: White uses Re1, c3, and a timed d4 or f4 to exploit the extra tempo without overextending. Decision: Which break opens a useful line for the g2 bishop and preserves king safety? Danger: Calling the position a KIA and forcing an e5 advance into Black's occupied square. Memory rule: Against ...e5, play the position as a reversed king-pawn opening and create a break. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Caro-Kann KIA route"]
+
+{ Volume 13: KIA Structures against ...e5, Caro-Kann, and Philidor. Why it matters: The Caro move order gives Black a broad e5-d5 center; White's d3 setup is sound but must challenge the center before it becomes effortless space. } 1. e4 c6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 e5 4. Ngf3 Bd6 { Bd6: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 Nf6 6. Bg2 O-O { O-O: Black secures the king and activates a rook; the center can now close or open with less tactical risk. } 7. O-O Re8 { Re8: Black places a rook behind a pawn break or file expected to open. Black plan: Black supports the center, develops behind it, and prepares ...Nbd7 or ...a5 while White remains compact. White plan: White uses Re1, c3, and d4 or an e5 pressure plan rather than assuming a French-style locked chain. Decision: Can White undermine e5 with d4, and which exchange leaves the better minor pieces? Danger: Playing h4 and Nf1 while Black owns the full center and no pawn chain points toward the king. Memory rule: Against the Caro center, challenge the pawns first; attack only after the structure changes. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "13.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The Philidor-like shell"]
+
+{ Volume 13: KIA Structures against ...e5, Caro-Kann, and Philidor. Why it matters: Black's d6-e5 shell is solid but slightly cramped; White can build slowly, yet must decide whether d4 or c3-d4 is the true source of advantage. } 1. e4 d6 2. d3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Nd2 e5 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 Nbd7 { Nbd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. } 7. O-O c6 8. Re1 Qc7 { Qc7: Black coordinates center and wing plans, but must check whether the queen becomes a tempo target. Black plan: Black seeks ...Re8, ...Bf8, and ...d5, using the restrained structure to remove White's first-move pressure. White plan: White improves pieces, controls d4, and opens the center when the g2 bishop and rooks benefit. Decision: Can White play d4 directly, and what black recapture or break follows? Danger: Maneuvering indefinitely because the structure looks familiar while Black achieves ...d5 for free. Memory rule: A compact black center should be challenged before it completes its freeing break. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black’s ...c5 expansion"]
+
+{ Volume 14: Surviving Black's Central Breaks. Why it matters: ...c5 attacks d4, creates queenside space, and supports ...b5; it does not directly attack e5 but accelerates the wing race. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 { Nd7: Black reroutes a knight to d7; name the destination job and the useful move conceded to the opponent. Black plan: Black gains space with ...b5-b4 and creates pressure on d3 while White's pieces move toward the kingside. White plan: White ignores harmless space, restrains real breakthroughs, and accelerates the kingside operation when Black spends non-forcing tempi. Decision: Does ...c5 create an immediate threat, or does it give White one more move for the attack? Danger: Reacting to space itself and losing the race by answering moves that threaten nothing. Memory rule: Distinguish a space move from a forcing move; answer only what changes the position. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black’s freeing ...d5"]
+
+{ Volume 14: Surviving Black's Central Breaks. Why it matters: In symmetrical ...e5 structures, ...d5 frees Black's pieces and challenges White's center; allowing it under ideal conditions can erase the opening advantage. } 1. Nf3 d6 2. g3 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 3. Bg2 Nf6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. } 7. e4 Re8 8. c3 Bf8 { Bf8: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 9. Qc2 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. Black plan: Black prepares the break with pieces and chooses exchanges that activate bishops and rooks. White plan: White restrains ...d5, captures only when the open files favor White, or plays d4 first to control the transformation. Decision: After ...d5, which recapture opens a file for whose rook, and which central pawn becomes isolated? Danger: Treating every central exchange as simplification without comparing the resulting piece activity. Memory rule: A freeing break is judged by the pieces it releases, not by the pawn it trades. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "14.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Black’s ...f6 strike"]
+
+{ Volume 14: Surviving Black's Central Breaks. Why it matters: ...f6 directly challenges the e5 wedge and can open the f-file toward both kings, turning a strategic attack into concrete calculation. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 f6 { f6: Black strikes at the head of White's e5 pawn chain and opens tactical lines. Black plan: Black times the break when the king has enough defenders and the recapture develops a piece or gains central control. White plan: White evaluates exf6, e6, or support of e5 by checking every opened diagonal and the e-file battery. Decision: Which side benefits from the f-file and e-file after each possible pawn exchange? Danger: Protecting the e5 pawn reflexively and missing a stronger line-opening sacrifice. Memory rule: Against ...f6, preserve the attack, not necessarily the pawn. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The c3-d4 transformation"]
+
+{ Volume 15: When to Change the Structure. Why it matters: c3-d4 challenges Black's e5 center and can release the g2 bishop, turning slow maneuvering into an open central game. } 1. Nf3 d6 2. g3 e5 { e5: Black builds a symmetrical center that requires White to create a new pawn break. } 3. Bg2 Nf6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. } 7. e4 Re8 8. c3 Bf8 { Bf8: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 9. Qc2 a5 10. d4 { d4: White changes the KIA shell into an open central fight. Black plan: Black maintains tension, exchanges on d4, or plays ...d5 if the resulting activity equalizes. White plan: White prepares d4 until the recapture develops a piece or opens the e-file on favorable terms. Decision: After d4, which pawn recapture keeps White's center coherent and which black piece gains a square? Danger: Playing d4 merely because preparation is complete while the resulting exchanges favor Black. Memory rule: Prepare a break by improving the position after every likely recapture. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Switching to c4 pressure"]
+
+{ Volume 15: When to Change the Structure. Why it matters: c4 attacks d5 and may create a Réti or reversed Benoni structure where the g2 bishop and queenside pressure matter more than a kingside pawn storm. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. c4 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. Nc3 d4 8. Nb1 Nc6 { Nc6: Black reroutes a knight to c6; name the destination job and the useful move conceded to the opponent. Black plan: Black gains space with ...d4 and uses the center to restrict White's knights. White plan: White undermines the chain with e3, b4, or e4 and reroutes the displaced knight toward useful squares. Decision: If Black plays ...d4, what break attacks the chain's base and where will the b1 knight develop? Danger: Switching to c4 without accepting the strategic work required after ...d4. Memory rule: A structural switch is good only when you know the opponent's most ambitious reply. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "15.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Opening with exd5"]
+
+{ Volume 15: When to Change the Structure. Why it matters: When Black exchanges on e4, White's d-pawn recapture opens the d-file and frees the c1 bishop, but may leave an isolated or targetable e-pawn. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. e4 Nc6 8. Re1 dxe4 { dxe4: Black releases tension on e4; recalculate the pawn chain, open files, and the opponent's most forcing recapture. } 9. dxe4 { dxe4: White releases tension on e4; recalculate the pawn chain, open files, and the opponent's most forcing recapture. Black plan: Black exchanges pieces, pressures e4, and uses the d-file before White completes coordination. White plan: White uses the open lines and development gain, accepting a different middlegame instead of rebuilding the closed KIA shell. Decision: Which recapture activates more pieces, and what permanent pawn target does it create? Danger: Recapturing toward the familiar pawn shape while choosing the less active piece placement. Memory rule: When the center changes, keep the active recapture, not the old opening picture. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The e5-e6 clearance sacrifice"]
+
+{ Volume 16: KIA Tactical Grammar. Why it matters: After f5 draws the e6 pawn away, e5-e6 can sacrifice the advanced pawn to open files, dislodge f7, and give the rook or queen entry squares against the king. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. Ng5 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. f4 b3 14. f5 exf5 { exf5: Black releases tension on f5; recalculate the pawn chain, open files, and the opponent's most forcing recapture. } 15. e6 Nf6 16. exf7+ Rxf7 { Rxf7: Black releases tension on f7; recalculate the pawn chain, open files, and the opponent's most forcing recapture. Black plan: Black calculates whether accepting leaves enough defenders, declines when the closed position is safer, and returns material to trade attackers. White plan: White plays e6 only when a rook, queen, or bishop can use the opened line immediately and the return sacrifice remains forcing. Decision: After ...fxe6, what is White's first forcing move and can Black exchange the invading piece? Danger: Sacrificing the e-pawn because the motif is famous when the e-file has no attacker. Memory rule: A clearance sacrifice needs an open line, an entering piece, and a forcing second move. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Ng5 and the h7 pressure point"]
+
+{ Volume 16: KIA Tactical Grammar. Why it matters: Ng5 increases pressure on h7 and e6 and may invite ...Bxg5, when the h-pawn recapture opens the h-file and preserves attacking material. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Ng5 Bxg5 12. hxg5 { hxg5: White releases tension on g5; recalculate the pawn chain, open files, and the opponent's most forcing recapture. Black plan: Black exchanges the knight only if the opened h-file can be controlled, or challenges e5 so the knight loses support. White plan: White checks whether the h-file opens toward the king and whether a rook or queen can enter before accepting the exchange. Decision: After ...Bxg5 hxg5, who controls h-file entry squares and can Black close or trade the attacking rook? Danger: Allowing the exchange because doubled g-pawns look attacking while no heavy piece reaches the h-file. Memory rule: A pawn recapture is dangerous when it opens a file for a heavy piece, not merely when it approaches the king. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "16.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The h-pawn sacrifice for lines"]
+
+{ Volume 16: KIA Tactical Grammar. Why it matters: h5-h6 can fix or sacrifice the pawn to weaken g6 and h7, but the locked pawn may also become irrelevant if White cannot break the dark squares. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. h5 b4 12. h6 g6 { g6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black keeps files closed, returns a pawn if it trades queens, and counterattacks the center or queenside. White plan: White combines the pawn with Nf1-h2-g4, Bf4, and queen entry so a capture opens a usable line. Decision: If Black captures or ignores h6, which white piece reaches g7, h7, or the h-file next? Danger: Pushing the pawn beyond the point of contact and leaving it blockaded as a decorative wedge. Memory rule: A sacrificial pawn must open a square or file that a prepared piece can occupy. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Meeting queenside counterplay"]
+
+{ Volume 17: Defense, Endgames, and Failed Attacks. Why it matters: A timely a3 can question b4 and prevent Black from fixing the queenside, but it also spends an attacking tempo and may open the a-file. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. a3 { a3: White changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black chooses ...bxa3, ...b3, or maintaining tension according to which file and target benefits the queenside pieces. White plan: White intervenes only when the queenside move protects d3, preserves a knight route, or removes a concrete threat. Decision: What happens after each black pawn response, and does White gain a useful file or merely another weakness? Danger: Stopping every pawn advance while the kingside initiative disappears. Memory rule: Defend the opposite wing only when the move removes a forcing threat or creates your own resource. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Trading queens with an e5 space edge"]
+
+{ Volume 17: Defense, Endgames, and Failed Attacks. Why it matters: If queens come off, the e5 pawn can remain a space asset that restricts knights, but its attacking value disappears and its maintenance cost becomes central. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. Qe2 Qc7 { Qc7: Black coordinates center and wing plans, but must check whether the queen becomes a tempo target. Black plan: Black attacks e5 and d3, exchanges the best blockader or defender, and uses queenside space in the endgame. White plan: White uses the space to improve knights, gains an outpost, and avoids defending the pawn with every piece. Decision: After a queen trade, which white piece gains a square because e5 restricts Black, and which pawn becomes a target? Danger: Rejecting a sound queen trade because the opening was supposed to produce an attack. Memory rule: When queens leave, convert attacking space into piece activity and outposts. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "17.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Repairing an overextended kingside"]
+
+{ Volume 17: Defense, Endgames, and Failed Attacks. Why it matters: If the attack stalls, f4, g4, and h4 can become targets around White's own king; the correct plan may be consolidation and central simplification. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. Ng5 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. f4 b3 14. g4 { g4: White changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Black opens lines with ...f6, attacks d3, and transfers pieces toward the weakened white king. White plan: White closes dangerous files, trades attackers, and uses the space to stabilize before seeking a second break. Decision: Which pawn cannot be defended economically, and what exchange reduces Black's attacking force most? Danger: Continuing to push because retreat feels inconsistent with the original plan. Memory rule: When an attack expires, save the king and structure before starting a second operation. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.1"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The main attacking rehearsal"]
+
+{ Volume 18: A Lifetime King's Indian Attack System. Why it matters: The classical rehearsal links e5 space, Re1, h4, Nf1-h2-g4, and Bf4 or Qe2 into one plan while Black races with ...f6 and queenside expansion. } 1. e4 e6 2. d3 d5 { d5: Black claims central space and challenges White to justify the restrained d3 setup. } 3. Nd2 Nf6 4. Ngf3 Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. g3 O-O 6. Bg2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. O-O Nc6 8. Re1 b5 { b5: Black gains queenside space and begins the race against White's king attack. } 9. e5 Nd7 10. h4 a5 { a5: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 11. Nf1 b4 12. N1h2 a4 { a4: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 13. Ng4 { Ng4: White reroutes a knight to g4; name the destination job and the useful move conceded to the opponent. Black plan: Black identifies the slowest part of White's buildup and strikes in the center or on the queenside before every attacker arrives. White plan: White preserves the causal order: secure the center, route pieces, create a hook, then open a line with enough force. Decision: Which move is essential to the position, and which familiar move can be omitted because Black changed the threat? Danger: Reproducing the full setup when one black move has made the usual route too slow or tactically wrong. Memory rule: Store the causal chain, not the diagram: center, route, hook, contact, entry. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.2"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "The defense-classification tree"]
+
+{ Volume 18: A Lifetime King's Indian Attack System. Why it matters: A lifetime KIA repertoire begins by classifying Black's center: French ...e6-d5, Sicilian ...c5, symmetrical ...e5, fianchetto ...g6, or flexible ...b6. } 1. Nf3 d5 2. g3 Nf6 { Nf6: Black reroutes a knight to f6; name the destination job and the useful move conceded to the opponent. } 3. Bg2 e6 4. O-O Be7 { Be7: Black changes a bishop's diagonal; identify the pawn break that will make the diagonal useful. } 5. d3 O-O 6. Nbd2 c5 { c5: Black attacks d4 and accelerates queenside expansion. } 7. e4 Nc6 8. Re1 { Re1: White places a rook behind a pawn break or file expected to open. Black plan: Black aims for the freeing break appropriate to the structure and punishes White for using the wrong stock maneuver. White plan: White selects the matching center and route, accepting d4 or c4 structures when they are objectively more active. Decision: Which black break is easiest, and what white move changes its tactical or strategic value? Danger: Naming the opening before identifying the pawn structure and therefore importing the wrong plan. Memory rule: Classify the center first; the opening name is only an index. } *
+
+[Event "King's Indian Attack White Deep Understanding Course"]
+[Site "Study file"]
+[Date "2026.09.02"]
+[Round "18.3"]
+[White "Study both plans"]
+[Black "Study both plans"]
+[Result "*"]
+[Variation "Repairing the system from your games"]
+
+{ Volume 18: A Lifetime King's Indian Attack System. Why it matters: Because the KIA can arise against many defenses, efficient study repairs the first decision you could not explain instead of adding unrelated branches. } 1. e4 c5 2. Nf3 e6 { e6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 3. d3 Nc6 4. g3 g6 { g6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. } 5. Bg2 Bg7 6. O-O Nge7 { Nge7: Black reroutes a knight to e7; name the destination job and the useful move conceded to the opponent. } 7. Nbd2 O-O 8. Re1 d6 { d6: Black changes the pawn skeleton; reassess the chain, breaks, weak squares, and king exposure. Black plan: Opponents vary move orders to achieve ...d5, ...e5, or queenside expansion before White recognizes the structure. White plan: White records the structure, candidate breaks, and strongest reply, then adds one corrected line and one verbal trigger to the file. Decision: At what move did the plan stop fitting the center, and what cue should trigger the better branch next time? Danger: Blaming the system after one loss or collecting hundreds of moves without practicing the decision that failed. Memory rule: Repair the first unexplained decision, rehearse it twice, and test it in a slow game. } *
+

@@ -1,0 +1,47 @@
+COMPLETE 1.d4 COURSE
+====================
+
+15 PDF volumes - 626 total pages.
+92 unique training positions and 12 constructed model games.
+
+RECOMMENDED ORDER
+-----------------
+1. Begin with Volume 1 and learn the repertoire map.
+2. Study Volumes 2-6 for 1...d5 and 1...Nf6 2...e6 systems.
+3. Study Volumes 7-11 for Indian defenses, the Dutch, and rare replies.
+4. Use Volumes 12-14 to connect structures, tactics, and complete games.
+5. Finish with Volume 15 and maintain the repertoire from your own games.
+
+PDF VOLUMES
+-----------
+01. 1.d4 Foundations and Repertoire Map - 48 pages - 12 units
+02. Queen's Gambit Declined Repertoire - 34 pages - 8 units
+03. Queen's Gambit Accepted and Independent Defenses - 34 pages - 8 units
+04. Slav and Semi-Slav Repertoire - 34 pages - 8 units
+05. Catalan Repertoire - 34 pages - 8 units
+06. Queen's Indian, Bogo-Indian, and Move Orders - 34 pages - 8 units
+07. King's Indian Defense Repertoire - 34 pages - 8 units
+08. Grunfeld Defense Repertoire - 34 pages - 8 units
+09. Benoni and Benko Repertoire - 34 pages - 8 units
+10. Dutch Defense Repertoire - 34 pages - 8 units
+11. Gambits and Rare Defenses - 58 pages - 15 units
+12. 1.d4 Pawn-Structure and Plan Atlas - 36 pages - 30 units
+13. 1.d4 Tactics, Traps, and Defensive Resources - 55 pages - 36 units
+14. 1.d4 Model Games and Guess-the-Move Training - 34 pages - 12 units
+15. 1.d4 Final Workbook and Fritz Companion - 89 pages - 60 units
+
+COMPANION FILES
+---------------
+White_1d4_Repertoire.pgn
+Constructed_1d4_Model_Games.pgn
+Training_Positions.csv
+Training_Positions.pgn
+LIBRARY_MANIFEST.csv
+START_HERE.txt
+
+TRAINING METHOD
+---------------
+Say the move and its purpose before revealing the answer.
+Review misses after 1, 3, 7, 14, 30, and 60 days.
+Analyze your own game before turning on an engine.
+Add new opponent moves to a personal copy of the repertoire PGN.

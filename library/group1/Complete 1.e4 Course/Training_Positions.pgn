@@ -1,0 +1,1164 @@
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Italian Game map. Course answer: d3. Purpose: Develop quickly, castle, and prepare d4 through c3 and Re1. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Petroff map. Course answer: Nxe5. Purpose: Use the center and active development instead of trying to refute solid symmetry. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Philidor map. Course answer: d4. Purpose: Open the center while Black's dark bishop is restricted. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Alapin Sicilian map. Course answer: e5. Purpose: Build d4 and use the central space without entering the heaviest Open Sicilian theory. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Najdorf map. Course answer: d4. Purpose: Use active development and prepare an English Attack structure. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: French Advance map. Course answer: e5. Purpose: Support d4 and use the space advantage for kingside play. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Caro-Kann Advance map. Course answer: e5. Purpose: Gain space and challenge the active bishop without neglecting development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Pirc map. Course answer: Nc3. Purpose: Build the Austrian center and develop before pushing farther. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Modern map. Course answer: d4. Purpose: Claim the center and prepare Nf3 and Bd3 against Black's delayed attack. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Scandinavian map. Course answer: Nc3. Purpose: Gain development tempi while building a healthy center. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2"]
+[SetUp "1"]
+
+{ 1.e4 Foundations and Repertoire Map: Alekhine map. Course answer: e5. Purpose: Use space while supporting the center with pieces. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[SetUp "1"]
+
+{ Italian Game and Two Knights Repertoire: Quiet Italian core. Course answer: d3. Purpose: Prepare d4 while keeping e4 protected and the king safe. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5"]
+[SetUp "1"]
+
+{ Italian Game and Two Knights Repertoire: Italian central break. Course answer: O-O. Purpose: Open the center only after pieces and king are ready. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/ppppbppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[SetUp "1"]
+
+{ Italian Game and Two Knights Repertoire: Hungarian Defense. Course answer: d4. Purpose: Use the space and open-center option created by Black's passive bishop. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"]
+[SetUp "1"]
+
+{ Italian Game and Two Knights Repertoire: Rousseau Gambit. Course answer: Bc4. Purpose: Decline tactical chaos, develop, and target the weakened dark squares. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Petroff, Philidor, Scotch, and Other Open Games: Petroff main line. Course answer: Nf3. Purpose: Use central space and active development in a symmetrical structure. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Petroff, Philidor, Scotch, and Other Open Games: Philidor exchange. Course answer: Nxd4. Purpose: Use the open center and easier development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Petroff, Philidor, Scotch, and Other Open Games: Scotch main line. Course answer: Nxd4. Purpose: Open the center and use development against Black's structure. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Petroff, Philidor, Scotch, and Other Open Games: Latvian Gambit. Course answer: Nxe5. Purpose: Take the center pawn, meet the queen attack, and develop with tempo. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Petroff, Philidor, Scotch, and Other Open Games: Elephant Gambit. Course answer: exd5. Purpose: Accept the pawn but prioritize development and central control. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1ppppp/8/2pnP3/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...Nf6. Course answer: d4. Purpose: Use space and finish development while the e5 pawn gains time. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/8/2pp4/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...d5. Course answer: exd5. Purpose: Accept central exchanges and gain development against the queen. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...e6. Course answer: d4. Purpose: Build a French-like chain with the c-pawn already supporting d4. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/3p4/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...d6. Course answer: d4. Purpose: Build the center and castle before choosing e5 or Re1. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...g6. Course answer: d4. Purpose: Use the center but respond accurately when Black challenges it. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...Nc6. Course answer: d4. Purpose: Reach an isolated or symmetrical center with active development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/p2ppppp/1p6/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Alapin ...b6. Course answer: d4. Purpose: Protect e4 and build the center against the queenside fianchetto. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Alapin Sicilian Repertoire: Delayed Alapin. Course answer: c3. Purpose: Transpose when Black's move order makes c3 useful. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "29"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Open Sicilian: Najdorf, Dragon, and Scheveningen: Najdorf English Attack. Course answer: Nxd4. Purpose: Prepare long castling and a kingside pawn advance while controlling d5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5"]
+[SetUp "1"]
+
+{ Open Sicilian: Najdorf, Dragon, and Scheveningen: Najdorf Poisoned Pawn awareness. Course answer: Nc3. Purpose: Use development and open lines as compensation for b2. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "31"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5"]
+[SetUp "1"]
+
+{ Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov: Sveshnikov core. Course answer: Nc3. Purpose: Use the d5 outpost and pressure the weakened dark squares. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"]
+[SetUp "1"]
+
+{ Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov: Kalashnikov. Course answer: d4. Purpose: Use d5 and the lead in development against Black's early ...e5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "33"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov: Kan. Course answer: Nxd4. Purpose: Use the space and lead in development before Black expands with ...b5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov: Accelerated Dragon. Course answer: Nxd4. Purpose: Control d5 and be ready for the Maroczy Bind with c4. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "35"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov: O'Kelly Sicilian. Course answer: c3. Purpose: Exploit ...a6 by building an Alapin center without allowing the usual best move order. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ French Defense Advance Repertoire: Advance French core. Course answer: c3. Purpose: Support the center, develop, and prepare kingside play or queenside defense. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "37"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ French Defense Advance Repertoire: French early ...c5. Course answer: d5. Purpose: Use the space and advanced passer while completing development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ Caro-Kann Advance Repertoire: Advance Caro core. Course answer: Nc3. Purpose: Gain time against the bishop and use space for a kingside initiative. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "39"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ Pirc and Modern Defense Repertoire: Pirc ...c5. Course answer: f4. Purpose: Gain space and prepare e5 while Black attacks the center from the flank. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ Pirc and Modern Defense Repertoire: Modern ...c6 and ...b5. Course answer: Nc3. Purpose: Develop and strike in the center before Black's queenside expansion becomes useful. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "41"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp1p1pp/3p4/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Pirc and Modern Defense Repertoire: Rat Defense. Course answer: Nc3. Purpose: Open the center while Black's king and e6 square are weakened. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ Scandinavian and Alekhine Repertoire: Modern Scandinavian. Course answer: d4. Purpose: Build the center and gain time against the knight. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "43"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ Scandinavian and Alekhine Repertoire: Alekhine Modern. Course answer: d4. Purpose: Use the space but support it with rapid development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pbpppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Owen's Defense. Course answer: Bd3. Purpose: Build the center and protect e4 against the long diagonal. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "45"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Nimzowitsch Defense. Course answer: exd5. Purpose: Use development with tempo against the early queen. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/2pppppp/p7/1p6/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: St. George Defense. Course answer: Nf3. Purpose: Occupy the center and castle while Black spends wing tempi. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "47"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Damiano Defense. Course answer: Nxe5. Purpose: Use checks to punish the weakened diagonal and exposed king. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Fred Defense. Course answer: exf5. Purpose: Accept the pawn while developing and controlling the center. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "49"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Borg Defense. Course answer: d4. Purpose: Claim the center and develop rather than chasing wing pawns. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/p1pppppp/8/1p6/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: 1...b5. Course answer: Bxb5. Purpose: Take the pawn but develop against the bishop's central pressure. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "51"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: 1...h6. Course answer: d4. Purpose: Build the center and develop normally against a lost tempo. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: 1...a5. Course answer: d4. Purpose: Use the center and normal development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "53"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Scandinavian 2...c6. Course answer: exd5. Purpose: Accept temporarily and return material through development if needed. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1ppppp/8/8/1p2P3/8/P1PP1PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: Wing Gambit awareness. Course answer: a3. Purpose: Understand the optional pawn sacrifice for development and open files. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "55"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"]
+[SetUp "1"]
+
+{ Gambits, Traps, and Rare First Moves: King's Gambit awareness. Course answer: f4. Purpose: Understand the attacking structure while keeping the Italian as the main repertoire. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQR1K1 b - - 2 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Quiet Italian core. Course answer: a5. Purpose: Prepare d4 while keeping e4 protected and the king safe. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "57"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/1pp2ppp/p1np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQ1RK1 w kq - 0 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Two Knights with d3. Course answer: a4. Purpose: Reach the same quiet setup while denying early tactics on e4. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/bpp2ppp/p1np1n2/4p3/4P3/1BPP1N2/PP3PPP/RNBQ1RK1 w kq - 2 8"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Italian ...a6 and ...Ba7. Course answer: Nbd2. Purpose: Preserve the bishop and prepare d4 without allowing ...Na5 with tempo. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "59"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/ppp2ppp/2n5/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Petroff main line. Course answer: Be7. Purpose: Use central space and active development in a symmetrical structure. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pppn1ppp/8/3pN3/3Pn3/3B4/PPP2PPP/RNBQK2R w KQkq - 1 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Petroff with 3.d4. Course answer: Nxd7. Purpose: Use immediate central play to avoid pure symmetry. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "61"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQ - 5 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Philidor exchange. Course answer: Bf4. Purpose: Use the open center and easier development. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp2pppp/2np4/3nP3/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Alapin ...Nf6. Course answer: Bc4. Purpose: Use space and finish development while the e5 pawn gains time. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "63"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1kb1r/pp3ppp/4pn2/2pq4/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 1 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Alapin ...d5. Course answer: cxd4. Purpose: Accept central exchanges and gain development against the queen. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Alapin ...e6. Course answer: Nge7. Purpose: Build a French-like chain with the c-pawn already supporting d4. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "65"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 1 8"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Najdorf English Attack. Course answer: b4. Purpose: Prepare long castling and a kingside pawn advance while controlling d5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkb1r/1p3ppp/p2pbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 0 8"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Najdorf ...e5. Course answer: Be7. Purpose: Preserve the knight and use d5 as a long-term outpost. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "67"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/1p2ppp1/p2p3p/8/3NP1nB/2N5/PPP2PPP/R2QKB1R b KQkq - 1 8"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Najdorf ...Ng4. Course answer: g5. Purpose: Keep useful pressure while avoiding an unfavorable bishop trade. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Sveshnikov core. Course answer: Bxf6. Purpose: Use the d5 outpost and pressure the weakened dark squares. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "69"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp3ppp/2np4/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Kalashnikov. Course answer: Nf6. Purpose: Use d5 and the lead in development against Black's early ...e5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 4 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Taimanov. Course answer: a6. Purpose: Develop flexibly and prevent ...Nf6 or ...Bb4 tactics from gaining time. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "71"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r3kbnr/pp1b1ppp/1qn1p3/3pP3/3P4/3B1N2/PP3PPP/RNBQK2R w KQkq - 1 8"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Advance French core. Course answer: O-O. Purpose: Support the center, develop, and prepare kingside play or queenside defense. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pp3ppp/2n1p2n/3pP3/3P4/3B1N2/PP3PPP/RNBQK2R b KQkq - 0 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: French ...Nh6. Course answer: Nf5. Purpose: Develop while Black reroutes the knight toward f5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "73"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r3kbnr/pp1b1ppp/1qn1p3/3pP3/3p4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 8"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: French ...Bd7. Course answer: a3. Purpose: Castle and keep the center supported before choosing a recapture. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pp3pp1/2p1p1bp/3pP3/3P2PP/2N5/PPP2P2/R1BQKBNR w KQkq - 0 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Advance Caro core. Course answer: h5. Purpose: Gain time against the bishop and use space for a kingside initiative. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "75"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pp3pp1/2p1p1b1/3pP2p/3P2PP/2N5/PPP2P2/R1BQKBNR w KQkq - 0 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Advance with h5. Course answer: Bg5. Purpose: Fix the kingside and decide whether g5 gains space or closes useful lines. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 2 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Short system. Course answer: c3. Purpose: Develop rapidly and maintain the space advantage without early pawn weaknesses. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "77"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Austrian Attack core. Course answer: Nc6. Purpose: Build the broad center, develop, and prepare e5 or castling. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/2pP4/4PP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Pirc ...c5. Course answer: c4. Purpose: Gain space and prepare e5 while Black attacks the center from the flank. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "79"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/n2p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 b - - 6 7"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Pirc ...Na6. Course answer: Bg4. Purpose: Castle and keep the center flexible while Black reroutes the knight. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp2pppp/2p2n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Scandinavian ...Qd8. Course answer: Bc4. Purpose: Use the development tempo to build a healthy center and castle. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "81"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1kb1r/pp2pppp/2p2n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Scandinavian ...Qa5. Course answer: Bc4. Purpose: Develop while watching the pin on c3 and pressure on d4. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnb1kb1r/pp2pppp/2pq1n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Scandinavian ...Qd6. Course answer: Ne5. Purpose: Gain space and use natural development against the centralized queen. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "83"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pb1p1ppp/1p2p3/2p5/3PP3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 1 5"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Owen's Defense. Course answer: cxd4. Purpose: Build the center and protect e4 against the long diagonal. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1kbnr/ppp2ppp/2n5/3qp3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: Nimzowitsch Defense. Course answer: Bb4. Purpose: Use development with tempo against the early queen. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "85"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 1 5"]
+[SetUp "1"]
+
+{ 1.e4 Pawn-Structure and Plan Atlas: St. George Defense. Course answer: c5. Purpose: Occupy the center and castle while Black spends wing tempi. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/bpp2pp1/2npbn1p/pB2p3/4P3/2PP1N1P/PP1N1PP1/R1BQR1K1 w - - 4 11"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Quiet Italian core. Course answer: Ba4. Purpose: Prepare d4 while keeping e4 protected and the king safe. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "87"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qk2r/ppp3pp/2np1n2/4pb2/2B5/2NPbN2/PPP2PPP/R2Q1RK1 w kq - 0 9"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Rousseau Gambit. Course answer: fxe3. Purpose: Decline tactical chaos, develop, and target the weakened dark squares. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/ppp1bppp/2n5/3p1b2/3P1B2/2nB1N2/PPP2PPP/R2QR1K1 w - - 0 11"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Petroff main line. Course answer: bxc3. Purpose: Use central space and active development in a symmetrical structure. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "89"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1b1k2r/pp2bppp/2n1p3/3n4/8/P1P2N2/1P2BPPP/RNB1K2R w KQkq - 1 10"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Alapin ...d5. Course answer: O-O. Purpose: Accept central exchanges and gain development against the queen. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/4bppp/p3pn2/3p4/1pPNP1P1/4BP2/PP1Q3P/R2NKB1R w KQ - 0 12"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Najdorf English Attack. Course answer: cxd5. Purpose: Prepare long castling and a kingside pawn advance while controlling d5. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "91"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/5ppp/p1np1b2/1p1Np3/4P3/N1P5/PP3PPP/R2QKB1R w KQ - 1 12"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Sveshnikov core. Course answer: Nc2. Purpose: Use the d5 outpost and pressure the weakened dark squares. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r3kbnr/pp1b1ppp/q3p3/3pP3/3P4/2N2N2/PPQ2PPP/R1B1K2R w KQkq - 1 11"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Advance French core. Course answer: Bd2. Purpose: Support the center, develop, and prepare kingside play or queenside defense. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "93"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn2kbnr/p1pq1pp1/1p2p3/3pP2p/3P3P/2PQ1N2/PP3PP1/RNB1K2R w KQkq - 2 9"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: French 3...b6. Course answer: O-O. Purpose: Exchange Black's active bishop and retain the space advantage. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2qkbnr/pp1n1ppb/4p2p/1BppP2P/3P1PP1/2N5/PPP5/R1BQK1NR w KQkq - 3 10"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Advance Caro core. Course answer: Be3. Purpose: Gain time against the bishop and use space for a kingside initiative. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "95"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/ppp1ppbp/3p1np1/8/1n1PPP2/2NB3P/PPP2QP1/R1B1K2R w KQ - 3 10"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Austrian Attack core. Course answer: Be3. Purpose: Build the broad center, develop, and prepare e5 or castling. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/4p1bp/n1pp2p1/pp3p2/3PPP2/P1NB1N2/1PP3PP/R1BQ1RK1 w kq - 0 9"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Modern ...c6 and ...b5. Course answer: exf5. Purpose: Develop and strike in the center before Black's queenside expansion becomes useful. } *
+
+[Event "Complete 1.e4 Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "97"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp1nbppp/2p1pn2/8/2BP4/2N2N2/PPP2PPP/R1BQR1K1 w kq - 2 9"]
+[SetUp "1"]
+
+{ 1.e4 Model Games and Guess-the-Move Training: Scandinavian ...Qd8. Course answer: a4. Purpose: Use the development tempo to build a healthy center and castle. } *
+

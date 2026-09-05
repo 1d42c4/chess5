@@ -1,0 +1,128 @@
+[
+  {
+    "file": "01_The_Sicilian_from_First_Principles.pdf",
+    "pages": 30,
+    "bytes": 371735,
+    "min_text_chars": 438,
+    "sha256": "e7be0d84eba38fc1cf0ed5908814343822d906cfaa122000435e8dcbf857a310"
+  },
+  {
+    "file": "02_The_Three_Sicilian_Centers.pdf",
+    "pages": 30,
+    "bytes": 370730,
+    "min_text_chars": 411,
+    "sha256": "91b671344e1adb4b99db2bfdf25195cbc536e579477942ffc787f3cca7d729be"
+  },
+  {
+    "file": "03_Map_of_the_Sicilian_Families.pdf",
+    "pages": 30,
+    "bytes": 370145,
+    "min_text_chars": 419,
+    "sha256": "6b146ca3d0f0e79509b5c0fa4eb21af858b6142f13ab48c6f34b020ae3d2b5db"
+  },
+  {
+    "file": "04_Najdorf_Foundations_and_Move_Orders.pdf",
+    "pages": 30,
+    "bytes": 371365,
+    "min_text_chars": 420,
+    "sha256": "ddf1e0b9d37fc6e6ceb29339b2ae0db365b00ff0d1e7420a5dd2bb23de1e6c04"
+  },
+  {
+    "file": "05_Najdorf_English_Attack.pdf",
+    "pages": 30,
+    "bytes": 370707,
+    "min_text_chars": 413,
+    "sha256": "5be4a787b1df31344b864f5b468c373be8b66b3532187478ace4873309ce16b9"
+  },
+  {
+    "file": "06_Najdorf_6_Bg5.pdf",
+    "pages": 30,
+    "bytes": 371198,
+    "min_text_chars": 407,
+    "sha256": "333322c45cb11fa2f33a916cc1b046ab9135d3525c833f7d843fcebf6b7256b6"
+  },
+  {
+    "file": "07_Positional_Najdorf_Systems.pdf",
+    "pages": 30,
+    "bytes": 369388,
+    "min_text_chars": 398,
+    "sha256": "3f1c4e5297cbe4bc9464037eae5b41cf1007cb79c3995838e49cd92e7acdb510"
+  },
+  {
+    "file": "08_6_Bc4_and_Sozin_Attacks.pdf",
+    "pages": 30,
+    "bytes": 369547,
+    "min_text_chars": 423,
+    "sha256": "25c671f55dc4f7e4390dfacc30222dc28d0755a7cfa8e058d7fb1881aa135b2a"
+  },
+  {
+    "file": "09_Modern_Najdorf_Sidelines.pdf",
+    "pages": 30,
+    "bytes": 370400,
+    "min_text_chars": 413,
+    "sha256": "21d5d8c06dcb34537b229441c14d90e8bda87d6be315aa890f86b3ad56b32be7"
+  },
+  {
+    "file": "10_Closed_Sicilian_Systems.pdf",
+    "pages": 30,
+    "bytes": 370360,
+    "min_text_chars": 391,
+    "sha256": "3b74e6eeecde8a855ee9f651e33409161f88a1e53f1d7ae89e4f8107820a7fb8"
+  },
+  {
+    "file": "11_The_Alapin_2_c3.pdf",
+    "pages": 30,
+    "bytes": 368744,
+    "min_text_chars": 404,
+    "sha256": "2658aaf7b571755095ee861dfdc9d83ea9a17d159d0b658635d81e0ed16697a7"
+  },
+  {
+    "file": "12_Moscow_and_Rossolimo_Systems.pdf",
+    "pages": 30,
+    "bytes": 369981,
+    "min_text_chars": 409,
+    "sha256": "1c9d521bb01be6b74403a555bbf060864a7870ec06b62ad8ceb68c576d2c2622"
+  },
+  {
+    "file": "13_Grand_Prix_Attack.pdf",
+    "pages": 30,
+    "bytes": 370609,
+    "min_text_chars": 391,
+    "sha256": "0401c19ff3a44153ab3a219fce0949523c89c52823a5bfeffa658a34a4b28996"
+  },
+  {
+    "file": "14_Smith_Morra_Gambit.pdf",
+    "pages": 30,
+    "bytes": 369442,
+    "min_text_chars": 417,
+    "sha256": "42125d923b89932ccd1f24108706d07e4218e4f31b0356de3e6d493c1d9709b8"
+  },
+  {
+    "file": "15_Rare_Second_Moves_and_Move_Order_Traps.pdf",
+    "pages": 30,
+    "bytes": 369321,
+    "min_text_chars": 423,
+    "sha256": "c6eebe211e0c1ff1576bf9f20bc89c0269a5997cd9a69d37ad0109ac58cb5ced"
+  },
+  {
+    "file": "16_Sicilian_Tactical_Grammar.pdf",
+    "pages": 30,
+    "bytes": 371106,
+    "min_text_chars": 409,
+    "sha256": "36b1a27d8aa89c965504617b8d0740545c70003267a5bf39989eea5b08ea568f"
+  },
+  {
+    "file": "17_Defense_Endgames_and_Transformations.pdf",
+    "pages": 30,
+    "bytes": 370607,
+    "min_text_chars": 443,
+    "sha256": "7d56213f816ce05020c7252d7cf58ff41d6d420109509f77de8b99daa107d925"
+  },
+  {
+    "file": "18_A_Lifetime_Najdorf_Repertoire.pdf",
+    "pages": 30,
+    "bytes": 371848,
+    "min_text_chars": 441,
+    "sha256": "a7f51eb88d6bd33681575fb1898347b6178add23a93fd22df456012ed07782af"
+  }
+]

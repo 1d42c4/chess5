@@ -1,0 +1,126 @@
+CHESS PRINCIPLES ENCYCLOPEDIA - VOLUME 2
+==========================================
+
+Principles 101-200 | 100 individual PDFs | 6 pages each | 600 pages total
+
+This volume continues the mechanism-first approach from Volume 1. It goes deeper into tactical
+geometry, calculation method, positional evaluation, strategic transformations, recurring pawn
+structures, advanced attack and defense, technical endings, matchcraft, and learning systems.
+
+WHY EXPERTS SEEM MILES AHEAD
+----------------------------
+A master often recognizes the position family before a developing player has finished counting
+the pieces. That recognition does not replace calculation. It tells the master where to look,
+which candidates deserve time, what the opponent wants, and which ending or structure would be
+favorable. Volume 2 focuses on those deeper connections and transformations.
+
+STUDY METHOD
+------------
+1. Retrieve the rule and mechanism before opening a PDF you have studied before.
+2. Set up the illustrative board and generate at least three candidates.
+3. Explain both the principle and its limitation.
+4. Find one matching position in your own games.
+5. Review after 3, 7, 14, and 30 days.
+
+DIRECTORY
+---------
+101. A Pin Gains Value From the Target Behind It - Advanced Tactical Geometry\101_A_Pin_Gains_Value_From_the_Target_Behind_It.pdf
+102. Use Skewers Against High-Value Front Pieces - Advanced Tactical Geometry\102_Use_Skewers_Against_High_Value_Front_Pieces.pdf
+103. Discovered Attacks Release Hidden Force - Advanced Tactical Geometry\103_Discovered_Attacks_Release_Hidden_Force.pdf
+104. Double Attacks Win Through Reply Shortage - Advanced Tactical Geometry\104_Double_Attacks_Win_Through_Reply_Shortage.pdf
+105. Clearance Creates Access - Advanced Tactical Geometry\105_Clearance_Creates_Access.pdf
+106. Interference Breaks Defensive Communication - Advanced Tactical Geometry\106_Interference_Breaks_Defensive_Communication.pdf
+107. X-Ray Pressure Persists Through an Occupied Line - Advanced Tactical Geometry\107_X_Ray_Pressure_Persists_Through_an_Occupied_Line.pdf
+108. Attract a Piece Onto a Tactical Line - Advanced Tactical Geometry\108_Attract_a_Piece_Onto_a_Tactical_Line.pdf
+109. Use the Desperado Before Losing a Trapped Piece - Advanced Tactical Geometry\109_Use_the_Desperado_Before_Losing_a_Trapped_Piece.pdf
+110. Consider Underpromotion When Queen Promotion Fails - Advanced Tactical Geometry\110_Consider_Underpromotion_When_Queen_Promotion_Fails.pdf
+111. Visualize the Position After Every Forcing Move - Advanced Calculation Method\111_Visualize_the_Position_After_Every_Forcing_Move.pdf
+112. Branch Where the Opponent Has Real Choices - Advanced Calculation Method\112_Branch_Where_the_Opponent_Has_Real_Choices.pdf
+113. Prune Dominated Candidates - Advanced Calculation Method\113_Prune_Dominated_Candidates.pdf
+114. Use Elimination When No Move Looks Best - Advanced Calculation Method\114_Use_Elimination_When_No_Move_Looks_Best.pdf
+115. Calculate Capture Order Precisely - Advanced Calculation Method\115_Calculate_Capture_Order_Precisely.pdf
+116. Maintain a Material Ledger - Advanced Calculation Method\116_Maintain_a_Material_Ledger.pdf
+117. Recognize Transpositions in the Tree - Advanced Calculation Method\117_Recognize_Transpositions_in_the_Tree.pdf
+118. Calculate Backward From the Desired Result - Advanced Calculation Method\118_Calculate_Backward_From_the_Desired_Result.pdf
+119. Distinguish Forced Moves From Merely Natural Moves - Advanced Calculation Method\119_Distinguish_Forced_Moves_From_Merely_Natural_Moves.pdf
+120. Use a Verification Pass Before Committing - Advanced Calculation Method\120_Use_a_Verification_Pass_Before_Committing.pdf
+121. Material Is Only One Evaluation Factor - Positional Evaluation\121_Material_Is_Only_One_Evaluation_Factor.pdf
+122. King Safety Is a Dynamic Quantity - Positional Evaluation\122_King_Safety_Is_a_Dynamic_Quantity.pdf
+123. Activity Can Outweigh Structural Damage - Positional Evaluation\123_Activity_Can_Outweigh_Structural_Damage.pdf
+124. Space Needs a Conversion Method - Positional Evaluation\124_Space_Needs_a_Conversion_Method.pdf
+125. The Initiative Belongs to the Side Asking Questions - Positional Evaluation\125_The_Initiative_Belongs_to_the_Side_Asking_Questions.pdf
+126. Separate Static and Dynamic Advantages - Positional Evaluation\126_Separate_Static_and_Dynamic_Advantages.pdf
+127. Choose Which Imbalance to Play Around - Positional Evaluation\127_Choose_Which_Imbalance_to_Play_Around.pdf
+128. Evaluate Both Sides' Worst Pieces - Positional Evaluation\128_Evaluate_Both_Sides_Worst_Pieces.pdf
+129. A Weakness Requires Access - Positional Evaluation\129_A_Weakness_Requires_Access.pdf
+130. Compare Plans by Their Counterplay - Positional Evaluation\130_Compare_Plans_by_Their_Counterplay.pdf
+131. Trade One Advantage for a More Usable One - Strategic Transformations\131_Trade_One_Advantage_for_a_More_Usable_One.pdf
+132. Simplify Into the Right Endgame - Strategic Transformations\132_Simplify_Into_the_Right_Endgame.pdf
+133. Change the Pawn Structure to Favor Your Pieces - Strategic Transformations\133_Change_the_Pawn_Structure_to_Favor_Your_Pieces.pdf
+134. Convert an Attack Into a Positional Gain - Strategic Transformations\134_Convert_an_Attack_Into_a_Positional_Gain.pdf
+135. Switch Wings When the Defender Overconcentrates - Strategic Transformations\135_Switch_Wings_When_the_Defender_Overconcentrates.pdf
+136. Restrain Before You Blockade - Strategic Transformations\136_Restrain_Before_You_Blockade.pdf
+137. Blockade Before You Attack the Base - Strategic Transformations\137_Blockade_Before_You_Attack_the_Base.pdf
+138. Accumulate Advantages That Support Each Other - Strategic Transformations\138_Accumulate_Advantages_That_Support_Each_Other.pdf
+139. Remove Counterplay Before Converting - Strategic Transformations\139_Remove_Counterplay_Before_Converting.pdf
+140. Choose Multipurpose Improving Moves - Strategic Transformations\140_Choose_Multipurpose_Improving_Moves.pdf
+141. Use the Minority Attack in the Carlsbad Structure - Recurring Pawn Structures\141_Use_the_Minority_Attack_in_the_Carlsbad_Structure.pdf
+142. Use the Isolated Pawn's Break Before Exchanges - Recurring Pawn Structures\142_Use_the_Isolated_Pawns_Break_Before_Exchanges.pdf
+143. Hanging Pawns Need Mobility - Recurring Pawn Structures\143_Hanging_Pawns_Need_Mobility.pdf
+144. The Maroczy Bind Restrains Pawn Breaks - Recurring Pawn Structures\144_The_Maroczy_Bind_Restrains_Pawn_Breaks.pdf
+145. French Chains Create Opposite-Wing Plans - Recurring Pawn Structures\145_French_Chains_Create_Opposite_Wing_Plans.pdf
+146. King's Indian Centers Create a Race - Recurring Pawn Structures\146_Kings_Indian_Centers_Create_a_Race.pdf
+147. Hedgehog Positions Depend on Timed Breaks - Recurring Pawn Structures\147_Hedgehog_Positions_Depend_on_Timed_Breaks.pdf
+148. Stonewall Structures Trade Squares for Stability - Recurring Pawn Structures\148_Stonewall_Structures_Trade_Squares_for_Stability.pdf
+149. Opposite-Wing Majorities Create Two Fronts - Recurring Pawn Structures\149_Opposite_Wing_Majorities_Create_Two_Fronts.pdf
+150. Create Piece Imbalances in Symmetrical Structures - Recurring Pawn Structures\150_Create_Piece_Imbalances_in_Symmetrical_Structures.pdf
+151. Challenge the Base of a Fianchetto - Advanced Attack and Defense\151_Challenge_the_Base_of_a_Fianchetto.pdf
+152. Exchange Sacrifices Need Positional Returns - Advanced Attack and Defense\152_Exchange_Sacrifices_Need_Positional_Returns.pdf
+153. Use an Open Rook-Pawn File Against the King - Advanced Attack and Defense\153_Use_an_Open_Rook_Pawn_File_Against_the_King.pdf
+154. Control Flight Squares Before Checking - Advanced Attack and Defense\154_Control_Flight_Squares_Before_Checking.pdf
+155. Bring the Worst Attacker Into the Attack - Advanced Attack and Defense\155_Bring_the_Worst_Attacker_Into_the_Attack.pdf
+156. Offer a Queen Trade to Break the Attack - Advanced Attack and Defense\156_Offer_a_Queen_Trade_to_Break_the_Attack.pdf
+157. Blockade the Pawn Storm - Advanced Attack and Defense\157_Blockade_the_Pawn_Storm.pdf
+158. Counter-Sacrifice to Remove the Initiative - Advanced Attack and Defense\158_Counter_Sacrifice_to_Remove_the_Initiative.pdf
+159. Perpetual Check Is an Active Defensive Resource - Advanced Attack and Defense\159_Perpetual_Check_Is_an_Active_Defensive_Resource.pdf
+160. Defend the Entry Square, Not Every Attacked Pawn - Advanced Attack and Defense\160_Defend_the_Entry_Square_Not_Every_Attacked_Pawn.pdf
+161. Knights Struggle Against Distant Passed Pawns - Minor-Piece Endgames\161_Knights_Struggle_Against_Distant_Passed_Pawns.pdf
+162. Bishops Gain Value on Both Wings - Minor-Piece Endgames\162_Bishops_Gain_Value_on_Both_Wings.pdf
+163. Opposite-Colored Bishops Favor the Defender - Minor-Piece Endgames\163_Opposite_Colored_Bishops_Favor_the_Defender.pdf
+164. Opposite-Colored Bishops Strengthen Middlegame Attacks - Minor-Piece Endgames\164_Opposite_Colored_Bishops_Strengthen_Middlegame_Attacks.pdf
+165. Fix Pawns on the Color Your Bishop Can Attack - Minor-Piece Endgames\165_Fix_Pawns_on_the_Color_Your_Bishop_Can_Attack.pdf
+166. Put Your Pawns Opposite Your Own Bishop's Color - Minor-Piece Endgames\166_Put_Your_Pawns_Opposite_Your_Own_Bishops_Color.pdf
+167. A Knight Needs an Active King - Minor-Piece Endgames\167_A_Knight_Needs_an_Active_King.pdf
+168. Use Triangulation to Lose a Tempo - Minor-Piece Endgames\168_Use_Triangulation_to_Lose_a_Tempo.pdf
+169. Create Zugzwang by Removing Useful Moves - Minor-Piece Endgames\169_Create_Zugzwang_by_Removing_Useful_Moves.pdf
+170. Sacrifice a Minor Piece for the Last Pawns When It Draws - Minor-Piece Endgames\170_Sacrifice_a_Minor_Piece_for_the_Last_Pawns_When_It_Draws.pdf
+171. Cut Off the Enemy King With the Rook - Rook and Queen Endgames\171_Cut_Off_the_Enemy_King_With_the_Rook.pdf
+172. Build the Lucena Bridge - Rook and Queen Endgames\172_Build_the_Lucena_Bridge.pdf
+173. Use the Philidor Third-Rank Defense - Rook and Queen Endgames\173_Use_the_Philidor_Third_Rank_Defense.pdf
+174. Check From the Side With Adequate Distance - Rook and Queen Endgames\174_Check_From_the_Side_With_Adequate_Distance.pdf
+175. Know the Wrong-Bishop Rook-Pawn Draw - Rook and Queen Endgames\175_Know_the_Wrong_Bishop_Rook_Pawn_Draw.pdf
+176. Centralize the Queen With Tempo - Rook and Queen Endgames\176_Centralize_the_Queen_With_Tempo.pdf
+177. King Safety Dominates Queen Endgames - Rook and Queen Endgames\177_King_Safety_Dominates_Queen_Endgames.pdf
+178. Build a Perpetual-Check Map - Rook and Queen Endgames\178_Build_a_Perpetual_Check_Map.pdf
+179. Calculate Queen Trades to the Final Pawn Ending - Rook and Queen Endgames\179_Calculate_Queen_Trades_to_the_Final_Pawn_Ending.pdf
+180. Connected Passed Pawns Can Outweigh a Rook - Rook and Queen Endgames\180_Connected_Passed_Pawns_Can_Outweigh_a_Rook.pdf
+181. Treat the Clock as a Strategic Resource - Tournament and Matchcraft\181_Treat_the_Clock_as_a_Strategic_Resource.pdf
+182. Use the Opponent's Time to Think - Tournament and Matchcraft\182_Use_the_Opponents_Time_to_Think.pdf
+183. Reset Emotion After a Blunder - Tournament and Matchcraft\183_Reset_Emotion_After_a_Blunder.pdf
+184. Play the Position, Not the Rating - Tournament and Matchcraft\184_Play_the_Position_Not_the_Rating.pdf
+185. Choose Practical Complexity When the Match Requires It - Tournament and Matchcraft\185_Choose_Practical_Complexity_When_the_Match_Requires_It.pdf
+186. Reduce Variance When a Draw Is Valuable - Tournament and Matchcraft\186_Reduce_Variance_When_a_Draw_Is_Valuable.pdf
+187. Respond to Opening Surprises With Fundamentals - Tournament and Matchcraft\187_Respond_to_Opening_Surprises_With_Fundamentals.pdf
+188. Evaluate Draw Offers From the Position - Tournament and Matchcraft\188_Evaluate_Draw_Offers_From_the_Position.pdf
+189. Create Difficult Choices for the Opponent - Tournament and Matchcraft\189_Create_Difficult_Choices_for_the_Opponent.pdf
+190. Use a Between-Round Reset Routine - Tournament and Matchcraft\190_Use_a_Between_Round_Reset_Routine.pdf
+191. Train Visualization Without Moving Pieces - Mastery and Learning Systems\191_Train_Visualization_Without_Moving_Pieces.pdf
+192. Keep a Calculation Notebook - Mastery and Learning Systems\192_Keep_a_Calculation_Notebook.pdf
+193. Study Model Games by Structure - Mastery and Learning Systems\193_Study_Model_Games_by_Structure.pdf
+194. Interleave Different Skill Types - Mastery and Learning Systems\194_Interleave_Different_Skill_Types.pdf
+195. Retrieve Before You Review - Mastery and Learning Systems\195_Retrieve_Before_You_Review.pdf
+196. Measure Error Frequency, Not Just Puzzle Rating - Mastery and Learning Systems\196_Measure_Error_Frequency_Not_Just_Puzzle_Rating.pdf
+197. Train Difficult Defensive Positions - Mastery and Learning Systems\197_Train_Difficult_Defensive_Positions.pdf
+198. Use Endgames to Sharpen Calculation - Mastery and Learning Systems\198_Use_Endgames_to_Sharpen_Calculation.pdf
+199. Teach the Principle in Your Own Words - Mastery and Learning Systems\199_Teach_the_Principle_in_Your_Own_Words.pdf
+200. Build a Personal Decision Checklist - Mastery and Learning Systems\200_Build_a_Personal_Decision_Checklist.pdf

@@ -1,0 +1,57 @@
+GRANDMASTER-STYLE CHESS ADVICE COURSE - 1,000 LESSONS
+=========================================================
+
+20 PDF volumes | 200 five-part modules | 1,000 advice lessons | 1,320 PDF pages
+
+This is an original teaching synthesis, not a collection of attributed quotations.
+Every module teaches one idea in five passes: core advice, recognition, board use,
+exceptions, and training. Every lesson includes a logical reason, use conditions,
+a failure mode, a board question, and a practical drill.
+
+RECOMMENDED STUDY
+-----------------
+1. Study one five-part module at a time, not isolated slogans.
+2. Use a real board and answer the board question before reading the page again.
+3. Review after 1, 3, 7, 14, and 30 days.
+4. Apply the module in slow games and record where it appeared.
+5. Treat tactics and exact calculation as the final authority.
+
+PACING OPTIONS
+--------------
+Deep course: one module per week (200 weeks).
+Steady course: two modules per week (100 weeks).
+Intensive course: one volume every four weeks (80 weeks).
+Daily advice: one lesson per day, with the other four module pages during review.
+
+VOLUMES
+-------
+01. Thinking Like a Strong Player - advice 0001-0050 - 01_Thinking_Like_a_Strong_Player.pdf
+02. Blunder Prevention and Tactical Safety - advice 0051-0100 - 02_Blunder_Prevention_and_Tactical_Safety.pdf
+03. Candidate Moves and Choice - advice 0101-0150 - 03_Candidate_Moves_and_Choice.pdf
+04. Calculation That You Can Trust - advice 0151-0200 - 04_Calculation_That_You_Can_Trust.pdf
+05. Tactical Vision and Pattern Use - advice 0201-0250 - 05_Tactical_Vision_and_Pattern_Use.pdf
+06. Opening Study That Transfers - advice 0251-0300 - 06_Opening_Study_That_Transfers.pdf
+07. Development, Tempo, and Initiative - advice 0301-0350 - 07_Development_Tempo_and_Initiative.pdf
+08. Center, Space, and Tension - advice 0351-0400 - 08_Center_Space_and_Tension.pdf
+09. Pawn Structures and Breaks - advice 0401-0450 - 09_Pawn_Structures_and_Breaks.pdf
+10. Piece Improvement and Coordination - advice 0451-0500 - 10_Piece_Improvement_and_Coordination.pdf
+11. Exchanges, Imbalances, and Simplification - advice 0501-0550 - 11_Exchanges_Imbalances_and_Simplification.pdf
+12. Attacking with Justification - advice 0551-0600 - 12_Attacking_with_Justification.pdf
+13. Defense and Prophylaxis - advice 0601-0650 - 13_Defense_and_Prophylaxis.pdf
+14. Planning and Position Transitions - advice 0651-0700 - 14_Planning_and_Position_Transitions.pdf
+15. Endgame Practical Wisdom - advice 0701-0750 - 15_Endgame_Practical_Wisdom.pdf
+16. Clock Management and Practical Decisions - advice 0751-0800 - 16_Clock_Management_and_Practical_Decisions.pdf
+17. Psychology, Resilience, and Objectivity - advice 0801-0850 - 17_Psychology_Resilience_and_Objectivity.pdf
+18. Game Analysis and Error Diagnosis - advice 0851-0900 - 18_Game_Analysis_and_Error_Diagnosis.pdf
+19. Training Design and Skill Transfer - advice 0901-0950 - 19_Training_Design_and_Skill_Transfer.pdf
+20. Tournament Craft and Self-Coaching - advice 0951-1000 - 20_Tournament_Craft_and_Self_Coaching.pdf
+
+SEARCH
+------
+Open MASTER_ADVICE_INDEX.html in a browser for instant offline search, or filter
+MASTER_ADVICE_INDEX.csv by volume, module, lesson type, title, or board question.
+
+ARTWORK
+-------
+Chess diagrams use the Cburnett piece set by Colin M. L. Burnett as distributed
+with python-chess/Lichess under GPLv2+; diagrams are rendered as vectors.

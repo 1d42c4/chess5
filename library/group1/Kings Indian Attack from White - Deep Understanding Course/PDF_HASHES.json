@@ -1,0 +1,128 @@
+[
+  {
+    "file": "01_The_Kings_Indian_Attack_from_First_Principles.pdf",
+    "pages": 30,
+    "bytes": 372321,
+    "min_text_chars": 456,
+    "sha256": "6df77d39111a09ab268333c2f71afa842d79b489cabe5de20b473527c9921e73"
+  },
+  {
+    "file": "02_The_Locked_e5_Center.pdf",
+    "pages": 30,
+    "bytes": 372058,
+    "min_text_chars": 438,
+    "sha256": "9ef45234ed398ecd6586962e9cd85d6e073dcdc2668140663e609e4de1f394c9"
+  },
+  {
+    "file": "03_The_KIA_Piece_Routes.pdf",
+    "pages": 30,
+    "bytes": 372420,
+    "min_text_chars": 402,
+    "sha256": "eeec9823312ce48abe26c425136f532a3657735c09ebba50606fedd0dd04a8fa"
+  },
+  {
+    "file": "04_Building_the_Center_Correctly.pdf",
+    "pages": 30,
+    "bytes": 371734,
+    "min_text_chars": 432,
+    "sha256": "fb9ef36318efcd5b30ee42b20ce3a64baee56c4ea60db46b433f0b8069134dce"
+  },
+  {
+    "file": "05_Architecture_of_the_Kingside_Attack.pdf",
+    "pages": 30,
+    "bytes": 372063,
+    "min_text_chars": 424,
+    "sha256": "7f007cacb98fc2ffe7cb74e0285f60df5dd1db31a0d5aeae0b060e0a98f637c1"
+  },
+  {
+    "file": "06_Timing_e5_f4_and_f5.pdf",
+    "pages": 30,
+    "bytes": 371468,
+    "min_text_chars": 416,
+    "sha256": "71b8964c2eb3484d6bdbafb7490ac5d467623e18cb1f39659320f6725e3f168a"
+  },
+  {
+    "file": "07_The_h_Pawn_and_g_Pawn_Storm.pdf",
+    "pages": 30,
+    "bytes": 371609,
+    "min_text_chars": 400,
+    "sha256": "e61440f48e1ece9c3896d11019da1c86947e38bc30fbb7853bfd4d3e7777dcc3"
+  },
+  {
+    "file": "08_The_Dark_Bishop_and_Queen_Battery.pdf",
+    "pages": 30,
+    "bytes": 371844,
+    "min_text_chars": 418,
+    "sha256": "47c085ebf0863c55e4dd22bb823a04bb41962d3263ac416c4187f52038105c6b"
+  },
+  {
+    "file": "09_The_KIA_against_the_French.pdf",
+    "pages": 30,
+    "bytes": 372217,
+    "min_text_chars": 441,
+    "sha256": "adc5c8e660b05a62628384a3a4ddaab903db11db0aa5ea111944e0d144ea0143"
+  },
+  {
+    "file": "10_The_KIA_against_the_Sicilian.pdf",
+    "pages": 30,
+    "bytes": 372405,
+    "min_text_chars": 444,
+    "sha256": "f821ac4ac336c52a02022f68bed9e93333a8761ccf9fc20070723881e78c5039"
+  },
+  {
+    "file": "11_The_KIA_against_g6_Systems.pdf",
+    "pages": 30,
+    "bytes": 370565,
+    "min_text_chars": 427,
+    "sha256": "103bac836bdad781ba65327ace4ca5c6ed3a31c8a629bef244a21bcab3ef65bb"
+  },
+  {
+    "file": "12_The_KIA_against_e6_and_b6.pdf",
+    "pages": 30,
+    "bytes": 371597,
+    "min_text_chars": 426,
+    "sha256": "0cd2e7ce73ba8dfc335a75e6bf98f2fb89403de9dc0c7926e8b48a9e9754e4d2"
+  },
+  {
+    "file": "13_KIA_Structures_against_e5_Caro_Kann_and_Philidor.pdf",
+    "pages": 30,
+    "bytes": 370841,
+    "min_text_chars": 441,
+    "sha256": "ef0ce3c92aa64f15eb5ef5855705c9e5a39246c0f57dcc39d6a3d53c48d6a7ff"
+  },
+  {
+    "file": "14_Surviving_Blacks_Central_Breaks.pdf",
+    "pages": 30,
+    "bytes": 371593,
+    "min_text_chars": 439,
+    "sha256": "349db152c776f65bd3d3eb3847dac63a869dccb1ba2aae2b4f616be3597256fa"
+  },
+  {
+    "file": "15_When_to_Change_the_Structure.pdf",
+    "pages": 30,
+    "bytes": 371084,
+    "min_text_chars": 429,
+    "sha256": "ab99ecb7eb456e6ef52240cf8b62056d2e9cb622fa3bf094ea831b950c5f4e43"
+  },
+  {
+    "file": "16_KIA_Tactical_Grammar.pdf",
+    "pages": 30,
+    "bytes": 372482,
+    "min_text_chars": 424,
+    "sha256": "7f6856ae2840d146ddf900454149aa7c05228ee202ef51583c173f0a675a9ec4"
+  },
+  {
+    "file": "17_Defense_Endgames_and_Failed_Attacks.pdf",
+    "pages": 30,
+    "bytes": 373075,
+    "min_text_chars": 453,
+    "sha256": "f216dc91dce7420f8d9c7ac9a95806fe14caddbc6534365c9d3c87e9990ef38b"
+  },
+  {
+    "file": "18_A_Lifetime_Kings_Indian_Attack_System.pdf",
+    "pages": 30,
+    "bytes": 373802,
+    "min_text_chars": 450,
+    "sha256": "c7a9a419fcc3dd8e2ee2204f171b190b4c863b3601ba5e64c6dfebcce01a9f1d"
+  }
+]

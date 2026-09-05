@@ -1,0 +1,20 @@
+COMPLETE CHESS OPENING ATLAS - QA REPORT
+========================================
+
+PDF files: 500
+ECO codes: 500
+Named opening lines: 3810
+Total PDF pages: 1723
+Minimum pages per PDF: 3
+Maximum pages per PDF: 18
+Unique PDF hashes: 500
+Illegal defining lines: 0
+FEN mismatches: 0
+Empty or near-empty pages: 0
+Metadata errors: 0
+Page-size errors: 0
+Content-marker errors: 0
+Warnings: 0
+Errors: 0
+
+RESULT: PASS

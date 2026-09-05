@@ -1,0 +1,98 @@
+﻿id,source,title,side_to_move,fen,course_answer,purpose
+1,1.e4 Foundations and Repertoire Map,Italian Game map,White,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,d3,"Develop quickly, castle, and prepare d4 through c3 and Re1."
+2,1.e4 Foundations and Repertoire Map,Petroff map,White,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Nxe5,Use the center and active development instead of trying to refute solid symmetry.
+3,1.e4 Foundations and Repertoire Map,Philidor map,White,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,d4,Open the center while Black's dark bishop is restricted.
+4,1.e4 Foundations and Repertoire Map,Alapin Sicilian map,White,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,e5,Build d4 and use the central space without entering the heaviest Open Sicilian theory.
+5,1.e4 Foundations and Repertoire Map,Najdorf map,White,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,d4,Use active development and prepare an English Attack structure.
+6,1.e4 Foundations and Repertoire Map,French Advance map,White,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,e5,Support d4 and use the space advantage for kingside play.
+7,1.e4 Foundations and Repertoire Map,Caro-Kann Advance map,White,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,e5,Gain space and challenge the active bishop without neglecting development.
+8,1.e4 Foundations and Repertoire Map,Pirc map,White,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Nc3,Build the Austrian center and develop before pushing farther.
+9,1.e4 Foundations and Repertoire Map,Modern map,White,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,d4,Claim the center and prepare Nf3 and Bd3 against Black's delayed attack.
+10,1.e4 Foundations and Repertoire Map,Scandinavian map,White,rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,Nc3,Gain development tempi while building a healthy center.
+11,1.e4 Foundations and Repertoire Map,Alekhine map,White,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,e5,Use space while supporting the center with pieces.
+12,Italian Game and Two Knights Repertoire,Quiet Italian core,White,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,d3,Prepare d4 while keeping e4 protected and the king safe.
+13,Italian Game and Two Knights Repertoire,Italian central break,White,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,O-O,Open the center only after pieces and king are ready.
+14,Italian Game and Two Knights Repertoire,Hungarian Defense,White,r1bqk1nr/ppppbppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,d4,Use the space and open-center option created by Black's passive bishop.
+15,Italian Game and Two Knights Repertoire,Rousseau Gambit,White,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Bc4,"Decline tactical chaos, develop, and target the weakened dark squares."
+16,"Petroff, Philidor, Scotch, and Other Open Games",Petroff main line,White,rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,Nf3,Use central space and active development in a symmetrical structure.
+17,"Petroff, Philidor, Scotch, and Other Open Games",Philidor exchange,White,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Nxd4,Use the open center and easier development.
+18,"Petroff, Philidor, Scotch, and Other Open Games",Scotch main line,White,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Nxd4,Open the center and use development against Black's structure.
+19,"Petroff, Philidor, Scotch, and Other Open Games",Latvian Gambit,White,rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Nxe5,"Take the center pawn, meet the queen attack, and develop with tempo."
+20,"Petroff, Philidor, Scotch, and Other Open Games",Elephant Gambit,White,rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,exd5,Accept the pawn but prioritize development and central control.
+21,Alapin Sicilian Repertoire,Alapin ...Nf6,White,rnbqkb1r/pp1ppppp/8/2pnP3/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 4,d4,Use space and finish development while the e5 pawn gains time.
+22,Alapin Sicilian Repertoire,Alapin ...d5,White,rnbqkbnr/pp2pppp/8/2pp4/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,exd5,Accept central exchanges and gain development against the queen.
+23,Alapin Sicilian Repertoire,Alapin ...e6,White,rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,d4,Build a French-like chain with the c-pawn already supporting d4.
+24,Alapin Sicilian Repertoire,Alapin ...d6,White,rnbqkbnr/pp2pppp/3p4/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,d4,Build the center and castle before choosing e5 or Re1.
+25,Alapin Sicilian Repertoire,Alapin ...g6,White,rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,d4,Use the center but respond accurately when Black challenges it.
+26,Alapin Sicilian Repertoire,Alapin ...Nc6,White,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,d4,Reach an isolated or symmetrical center with active development.
+27,Alapin Sicilian Repertoire,Alapin ...b6,White,rnbqkbnr/p2ppppp/1p6/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,d4,Protect e4 and build the center against the queenside fianchetto.
+28,Alapin Sicilian Repertoire,Delayed Alapin,White,rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,c3,Transpose when Black's move order makes c3 useful.
+29,"Open Sicilian: Najdorf, Dragon, and Scheveningen",Najdorf English Attack,White,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Nxd4,Prepare long castling and a kingside pawn advance while controlling d5.
+30,"Open Sicilian: Najdorf, Dragon, and Scheveningen",Najdorf Poisoned Pawn awareness,White,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Nc3,Use development and open lines as compensation for b2.
+31,"Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov",Sveshnikov core,White,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Nc3,Use the d5 outpost and pressure the weakened dark squares.
+32,"Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov",Kalashnikov,White,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,d4,Use d5 and the lead in development against Black's early ...e5.
+33,"Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov",Kan,White,rnbqkbnr/pp1p1ppp/4p3/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Nxd4,Use the space and lead in development before Black expands with ...b5.
+34,"Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov",Accelerated Dragon,White,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Nxd4,Control d5 and be ready for the Maroczy Bind with c4.
+35,"Open Sicilian: Sveshnikov, Classical, Kan, and Taimanov",O'Kelly Sicilian,White,rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,c3,Exploit ...a6 by building an Alapin center without allowing the usual best move order.
+36,French Defense Advance Repertoire,Advance French core,White,rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,c3,"Support the center, develop, and prepare kingside play or queenside defense."
+37,French Defense Advance Repertoire,French early ...c5,White,rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,d5,Use the space and advanced passer while completing development.
+38,Caro-Kann Advance Repertoire,Advance Caro core,White,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,Nc3,Gain time against the bishop and use space for a kingside initiative.
+39,Pirc and Modern Defense Repertoire,Pirc ...c5,White,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,f4,Gain space and prepare e5 while Black attacks the center from the flank.
+40,Pirc and Modern Defense Repertoire,Modern ...c6 and ...b5,White,rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Nc3,Develop and strike in the center before Black's queenside expansion becomes useful.
+41,Pirc and Modern Defense Repertoire,Rat Defense,White,rnbqkbnr/ppp1p1pp/3p4/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Nc3,Open the center while Black's king and e6 square are weakened.
+42,Scandinavian and Alekhine Repertoire,Modern Scandinavian,White,rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,d4,Build the center and gain time against the knight.
+43,Scandinavian and Alekhine Repertoire,Alekhine Modern,White,rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,d4,Use the space but support it with rapid development.
+44,"Gambits, Traps, and Rare First Moves",Owen's Defense,White,rn1qkbnr/pbpppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Bd3,Build the center and protect e4 against the long diagonal.
+45,"Gambits, Traps, and Rare First Moves",Nimzowitsch Defense,White,r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,exd5,Use development with tempo against the early queen.
+46,"Gambits, Traps, and Rare First Moves",St. George Defense,White,rnbqkbnr/2pppppp/p7/1p6/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Nf3,Occupy the center and castle while Black spends wing tempi.
+47,"Gambits, Traps, and Rare First Moves",Damiano Defense,White,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Nxe5,Use checks to punish the weakened diagonal and exposed king.
+48,"Gambits, Traps, and Rare First Moves",Fred Defense,White,rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,exf5,Accept the pawn while developing and controlling the center.
+49,"Gambits, Traps, and Rare First Moves",Borg Defense,White,rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,d4,Claim the center and develop rather than chasing wing pawns.
+50,"Gambits, Traps, and Rare First Moves",1...b5,White,rnbqkbnr/p1pppppp/8/1p6/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Bxb5,Take the pawn but develop against the bishop's central pressure.
+51,"Gambits, Traps, and Rare First Moves",1...h6,White,rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,d4,Build the center and develop normally against a lost tempo.
+52,"Gambits, Traps, and Rare First Moves",1...a5,White,rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,d4,Use the center and normal development.
+53,"Gambits, Traps, and Rare First Moves",Scandinavian 2...c6,White,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,exd5,Accept temporarily and return material through development if needed.
+54,"Gambits, Traps, and Rare First Moves",Wing Gambit awareness,White,rnbqkbnr/pp1ppppp/8/8/1p2P3/8/P1PP1PPP/RNBQKBNR w KQkq - 0 3,a3,Understand the optional pawn sacrifice for development and open files.
+55,"Gambits, Traps, and Rare First Moves",King's Gambit awareness,White,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,f4,Understand the attacking structure while keeping the Italian as the main repertoire.
+56,1.e4 Pawn-Structure and Plan Atlas,Quiet Italian core,Black,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQR1K1 b - - 2 7,a5,Prepare d4 while keeping e4 protected and the king safe.
+57,1.e4 Pawn-Structure and Plan Atlas,Two Knights with d3,White,r1bqk2r/1pp2ppp/p1np1n2/2b1p3/2B1P3/2PP1N2/PP3PPP/RNBQ1RK1 w kq - 0 7,a4,Reach the same quiet setup while denying early tactics on e4.
+58,1.e4 Pawn-Structure and Plan Atlas,Italian ...a6 and ...Ba7,White,r1bqk2r/bpp2ppp/p1np1n2/4p3/4P3/1BPP1N2/PP3PPP/RNBQ1RK1 w kq - 2 8,Nbd2,Preserve the bishop and prepare d4 without allowing ...Na5 with tempo.
+59,1.e4 Pawn-Structure and Plan Atlas,Petroff main line,Black,r1bqkb1r/ppp2ppp/2n5/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 7,Be7,Use central space and active development in a symmetrical structure.
+60,1.e4 Pawn-Structure and Plan Atlas,Petroff with 3.d4,White,r1bqkb1r/pppn1ppp/8/3pN3/3Pn3/3B4/PPP2PPP/RNBQK2R w KQkq - 1 6,Nxd7,Use immediate central play to avoid pure symmetry.
+61,1.e4 Pawn-Structure and Plan Atlas,Philidor exchange,White,rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQ - 5 7,Bf4,Use the open center and easier development.
+62,1.e4 Pawn-Structure and Plan Atlas,Alapin ...Nf6,White,r1bqkb1r/pp2pppp/2np4/3nP3/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7,Bc4,Use space and finish development while the e5 pawn gains time.
+63,1.e4 Pawn-Structure and Plan Atlas,Alapin ...d5,Black,rnb1kb1r/pp3ppp/4pn2/2pq4/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 1 6,cxd4,Accept central exchanges and gain development against the queen.
+64,1.e4 Pawn-Structure and Plan Atlas,Alapin ...e6,Black,r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5,Nge7,Build a French-like chain with the c-pawn already supporting d4.
+65,1.e4 Pawn-Structure and Plan Atlas,Najdorf English Attack,Black,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 1 8,b4,Prepare long castling and a kingside pawn advance while controlling d5.
+66,1.e4 Pawn-Structure and Plan Atlas,Najdorf ...e5,Black,rn1qkb1r/1p3ppp/p2pbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 0 8,Be7,Preserve the knight and use d5 as a long-term outpost.
+67,1.e4 Pawn-Structure and Plan Atlas,Najdorf ...Ng4,Black,rnbqkb1r/1p2ppp1/p2p3p/8/3NP1nB/2N5/PPP2PPP/R2QKB1R b KQkq - 1 8,g5,Keep useful pressure while avoiding an unfavorable bishop trade.
+68,1.e4 Pawn-Structure and Plan Atlas,Sveshnikov core,White,r1bqkb1r/5ppp/p1np1n2/1p2p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 0 9,Bxf6,Use the d5 outpost and pressure the weakened dark squares.
+69,1.e4 Pawn-Structure and Plan Atlas,Kalashnikov,Black,r1bqkbnr/pp3ppp/2np4/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6,Nf6,Use d5 and the lead in development against Black's early ...e5.
+70,1.e4 Pawn-Structure and Plan Atlas,Taimanov,Black,r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 4 6,a6,Develop flexibly and prevent ...Nf6 or ...Bb4 tactics from gaining time.
+71,1.e4 Pawn-Structure and Plan Atlas,Advance French core,White,r3kbnr/pp1b1ppp/1qn1p3/3pP3/3P4/3B1N2/PP3PPP/RNBQK2R w KQkq - 1 8,O-O,"Support the center, develop, and prepare kingside play or queenside defense."
+72,1.e4 Pawn-Structure and Plan Atlas,French ...Nh6,Black,r1bqkb1r/pp3ppp/2n1p2n/3pP3/3P4/3B1N2/PP3PPP/RNBQK2R b KQkq - 0 7,Nf5,Develop while Black reroutes the knight toward f5.
+73,1.e4 Pawn-Structure and Plan Atlas,French ...Bd7,White,r3kbnr/pp1b1ppp/1qn1p3/3pP3/3p4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 8,a3,Castle and keep the center supported before choosing a recapture.
+74,1.e4 Pawn-Structure and Plan Atlas,Advance Caro core,White,rn1qkbnr/pp3pp1/2p1p1bp/3pP3/3P2PP/2N5/PPP2P2/R1BQKBNR w KQkq - 0 7,h5,Gain time against the bishop and use space for a kingside initiative.
+75,1.e4 Pawn-Structure and Plan Atlas,Advance with h5,White,rn1qkbnr/pp3pp1/2p1p1b1/3pP2p/3P2PP/2N5/PPP2P2/R1BQKBNR w KQkq - 0 7,Bg5,Fix the kingside and decide whether g5 gains space or closes useful lines.
+76,1.e4 Pawn-Structure and Plan Atlas,Short system,White,r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 2 7,c3,Develop rapidly and maintain the space advantage without early pawn weaknesses.
+77,1.e4 Pawn-Structure and Plan Atlas,Austrian Attack core,Black,rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6,Nc6,"Build the broad center, develop, and prepare e5 or castling."
+78,1.e4 Pawn-Structure and Plan Atlas,Pirc ...c5,Black,rnbq1rk1/pp2ppbp/3p1np1/2pP4/4PP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 0 7,c4,Gain space and prepare e5 while Black attacks the center from the flank.
+79,1.e4 Pawn-Structure and Plan Atlas,Pirc ...Na6,Black,r1bq1rk1/ppp1ppbp/n2p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQ1RK1 b - - 6 7,Bg4,Castle and keep the center flexible while Black reroutes the knight.
+80,1.e4 Pawn-Structure and Plan Atlas,Scandinavian ...Qd8,White,rnbqkb1r/pp2pppp/2p2n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Bc4,Use the development tempo to build a healthy center and castle.
+81,1.e4 Pawn-Structure and Plan Atlas,Scandinavian ...Qa5,White,rnb1kb1r/pp2pppp/2p2n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Bc4,Develop while watching the pin on c3 and pressure on d4.
+82,1.e4 Pawn-Structure and Plan Atlas,Scandinavian ...Qd6,White,rnb1kb1r/pp2pppp/2pq1n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Ne5,Gain space and use natural development against the centralized queen.
+83,1.e4 Pawn-Structure and Plan Atlas,Owen's Defense,Black,rn1qkbnr/pb1p1ppp/1p2p3/2p5/3PP3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 1 5,cxd4,Build the center and protect e4 against the long diagonal.
+84,1.e4 Pawn-Structure and Plan Atlas,Nimzowitsch Defense,Black,r1b1kbnr/ppp2ppp/2n5/3qp3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5,Bb4,Use development with tempo against the early queen.
+85,1.e4 Pawn-Structure and Plan Atlas,St. George Defense,Black,rn1qkbnr/1bpp1ppp/p3p3/1p6/3PP3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 1 5,c5,Occupy the center and castle while Black spends wing tempi.
+86,1.e4 Model Games and Guess-the-Move Training,Quiet Italian core,White,r2q1rk1/bpp2pp1/2npbn1p/pB2p3/4P3/2PP1N1P/PP1N1PP1/R1BQR1K1 w - - 4 11,Ba4,Prepare d4 while keeping e4 protected and the king safe.
+87,1.e4 Model Games and Guess-the-Move Training,Rousseau Gambit,White,r2qk2r/ppp3pp/2np1n2/4pb2/2B5/2NPbN2/PPP2PPP/R2Q1RK1 w kq - 0 9,fxe3,"Decline tactical chaos, develop, and target the weakened dark squares."
+88,1.e4 Model Games and Guess-the-Move Training,Petroff main line,White,r2q1rk1/ppp1bppp/2n5/3p1b2/3P1B2/2nB1N2/PPP2PPP/R2QR1K1 w - - 0 11,bxc3,Use central space and active development in a symmetrical structure.
+89,1.e4 Model Games and Guess-the-Move Training,Alapin ...d5,White,r1b1k2r/pp2bppp/2n1p3/3n4/8/P1P2N2/1P2BPPP/RNB1K2R w KQkq - 1 10,O-O,Accept central exchanges and gain development against the queen.
+90,1.e4 Model Games and Guess-the-Move Training,Najdorf English Attack,White,rnbq1rk1/4bppp/p3pn2/3p4/1pPNP1P1/4BP2/PP1Q3P/R2NKB1R w KQ - 0 12,cxd5,Prepare long castling and a kingside pawn advance while controlling d5.
+91,1.e4 Model Games and Guess-the-Move Training,Sveshnikov core,White,r1bq1rk1/5ppp/p1np1b2/1p1Np3/4P3/N1P5/PP3PPP/R2QKB1R w KQ - 1 12,Nc2,Use the d5 outpost and pressure the weakened dark squares.
+92,1.e4 Model Games and Guess-the-Move Training,Advance French core,White,r3kbnr/pp1b1ppp/q3p3/3pP3/3P4/2N2N2/PPQ2PPP/R1B1K2R w KQkq - 1 11,Bd2,"Support the center, develop, and prepare kingside play or queenside defense."
+93,1.e4 Model Games and Guess-the-Move Training,French 3...b6,White,rn2kbnr/p1pq1pp1/1p2p3/3pP2p/3P3P/2PQ1N2/PP3PP1/RNB1K2R w KQkq - 2 9,O-O,Exchange Black's active bishop and retain the space advantage.
+94,1.e4 Model Games and Guess-the-Move Training,Advance Caro core,White,r2qkbnr/pp1n1ppb/4p2p/1BppP2P/3P1PP1/2N5/PPP5/R1BQK1NR w KQkq - 3 10,Be3,Gain time against the bishop and use space for a kingside initiative.
+95,1.e4 Model Games and Guess-the-Move Training,Austrian Attack core,White,r2q1rk1/ppp1ppbp/3p1np1/8/1n1PPP2/2NB3P/PPP2QP1/R1B1K2R w KQ - 3 10,Be3,"Build the broad center, develop, and prepare e5 or castling."
+96,1.e4 Model Games and Guess-the-Move Training,Modern ...c6 and ...b5,White,r1bqk1nr/4p1bp/n1pp2p1/pp3p2/3PPP2/P1NB1N2/1PP3PP/R1BQ1RK1 w kq - 0 9,exf5,Develop and strike in the center before Black's queenside expansion becomes useful.
+97,1.e4 Model Games and Guess-the-Move Training,Scandinavian ...Qd8,White,r1bqk2r/pp1nbppp/2p1pn2/8/2BP4/2N2N2/PPP2PPP/R1BQR1K1 w kq - 2 9,a4,Use the development tempo to build a healthy center and castle.

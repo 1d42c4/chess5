@@ -1,0 +1,31 @@
+CHESS PRACTICE AND EXPANSION LIBRARY
+====================================
+
+15 course PDFs plus PGN/FEN companion files.
+Problems and solutions are separated wherever practical.
+
+RECOMMENDED ORDER
+-----------------
+1. Checkmate patterns, tactics, defense, and calculation
+2. Last-move updates, positional evaluation, and endgames
+3. Guess-the-move games, rating-level mistakes, and opening traps
+4. Visualization, vocabulary, playing styles, and tournament preparation
+5. Use the Fritz companion to play and analyze the positions interactively
+
+FILES
+-----
+01. Checkmate Pattern Atlas - 53 pages - 24 units
+02. Tactics by Difficulty - 69 pages - 32 units
+03. Defensive Tactics Workbook - 53 pages - 24 units
+04. Calculation Test Laboratory - 53 pages - 24 units
+05. What Did the Last Move Change? - 76 pages - 36 units
+06. Positional Evaluation Tests - 65 pages - 30 units
+07. Essential Endgame Position Workbook - 69 pages - 32 units
+08. Guess-the-Move Model Games - 94 pages - 40 units
+09. Common Mistakes by Rating Level - 68 pages - 60 units
+10. Opening Traps and Their Refutations - 45 pages - 20 units
+11. Visualization and Board-Vision Training - 44 pages - 60 units
+12. Chess Vocabulary and Notation Reference - 51 pages - 140 units
+13. Player-Style Collections - 65 pages - 30 units
+14. Tournament Preparation Manual - 29 pages - 42 units
+15. Fritz 21 Companion Pack - 24 pages - 20 units

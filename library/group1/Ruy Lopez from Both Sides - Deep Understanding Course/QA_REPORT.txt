@@ -1,0 +1,38 @@
+RUY LOPEZ FROM BOTH SIDES - DEEP UNDERSTANDING COURSE - QA REPORT
+=================================================================
+
+STATUS: PASS
+PDF volumes: 18
+PDF pages: 540
+Deep lessons: 108
+Source scenarios: 54
+Unique legal source lines: 44
+Annotated PGN games: 54
+Annotated PGN move nodes: 274
+Unique lesson titles: 108
+Lesson modes: {'Decode': 54, 'Play': 54}
+
+PER-FILE CHECKS
+---------------
+01_The_Spanish_from_First_Principles.pdf: 30 pages, 371,351 bytes, min text 428 chars
+02_Spanish_Pawn_Structures.pdf: 30 pages, 367,117 bytes, min text 388 chars
+03_Map_of_the_Ruy_Lopez_Families.pdf: 30 pages, 364,779 bytes, min text 398 chars
+04_The_c3_d3_Spanish_System.pdf: 30 pages, 370,879 bytes, min text 393 chars
+05_Closed_Spanish_Foundations.pdf: 30 pages, 370,173 bytes, min text 381 chars
+06_Closed_Spanish_Maneuvering.pdf: 30 pages, 370,688 bytes, min text 392 chars
+07_The_Marshall_Attack.pdf: 30 pages, 369,244 bytes, min text 410 chars
+08_Anti_Marshall_Systems.pdf: 30 pages, 370,033 bytes, min text 406 chars
+09_The_Berlin_Defense.pdf: 30 pages, 355,338 bytes, min text 406 chars
+10_The_Open_Spanish.pdf: 30 pages, 369,236 bytes, min text 397 chars
+11_Archangel_and_Neo_Arkhangelsk.pdf: 30 pages, 369,193 bytes, min text 382 chars
+12_The_Breyer_Defense.pdf: 30 pages, 370,553 bytes, min text 376 chars
+13_Chigorin_and_Zaitsev_Systems.pdf: 30 pages, 370,652 bytes, min text 385 chars
+14_Schliemann_Bird_and_Classical_Defenses.pdf: 30 pages, 368,705 bytes, min text 396 chars
+15_The_Exchange_Variation.pdf: 30 pages, 359,045 bytes, min text 401 chars
+16_Ruy_Lopez_Tactical_Grammar.pdf: 30 pages, 370,258 bytes, min text 394 chars
+17_Spanish_Endgames_and_Transformations.pdf: 30 pages, 359,271 bytes, min text 428 chars
+18_A_Lifetime_Ruy_Lopez_System.pdf: 30 pages, 373,133 bytes, min text 435 chars
+
+ERRORS
+------
+None

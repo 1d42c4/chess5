@@ -1,0 +1,47 @@
+CHESS PRINCIPLES ENCYCLOPEDIA - VOLUME 6
+============================================
+
+Principles 276-300 | analysis systems, repertoire design, and durable training
+25 individual PDFs | 6 pages each | 150 pages total
+
+HOW TO STUDY THIS VOLUME
+------------------------
+1. Study one PDF at a time and restate the rule without looking.
+2. Explain the causal mechanism: why should the rule improve the position?
+3. Set up the board and generate three candidates before reading your notes.
+4. State the limitation and calculate the opponent's strongest forcing reply.
+5. Find the pattern in a slow game, then review after 3, 7, 14, and 30 days.
+
+IMPORTANT
+---------
+Principles organize attention; they do not override tactics. Use this decision order:
+legal and tactical survival, king safety, forcing initiative, material, activity,
+structure, space, and finally the general rule as a tiebreaker.
+
+DIRECTORY
+---------
+276. Annotate the Thought Process - Game Analysis and Improvement\276_Annotate_the_Thought_Process.pdf
+277. Find the First Irreversible Mistake - Game Analysis and Improvement\277_Find_the_First_Irreversible_Mistake.pdf
+278. Separate Opening Memory from Understanding - Game Analysis and Improvement\278_Separate_Opening_Memory_from_Understanding.pdf
+279. Build a Tactical Error Taxonomy - Game Analysis and Improvement\279_Build_a_Tactical_Error_Taxonomy.pdf
+280. Review Time as a Chess Resource - Game Analysis and Improvement\280_Review_Time_as_a_Chess_Resource.pdf
+281. Compare Considered and Missed Candidates - Game Analysis and Improvement\281_Compare_Considered_and_Missed_Candidates.pdf
+282. Use the Engine Only After Self-Analysis - Game Analysis and Improvement\282_Use_the_Engine_Only_After_Self_Analysis.pdf
+283. Extract One Transferable Lesson per Game - Game Analysis and Improvement\283_Extract_One_Transferable_Lesson_per_Game.pdf
+284. Turn Recurring Errors into Drills - Game Analysis and Improvement\284_Turn_Recurring_Errors_into_Drills.pdf
+285. Analyze Wins for Hidden Weaknesses - Game Analysis and Improvement\285_Analyze_Wins_for_Hidden_Weaknesses.pdf
+286. Index Games by Structure and Theme - Game Analysis and Improvement\286_Index_Games_by_Structure_and_Theme.pdf
+287. Run a Monthly Improvement Audit - Game Analysis and Improvement\287_Run_a_Monthly_Improvement_Audit.pdf
+288. Build Around Structures You Understand - Repertoire and Practical Training\288_Build_Around_Structures_You_Understand.pdf
+289. Choose One Dependable Reply First - Repertoire and Practical Training\289_Choose_One_Dependable_Reply_First.pdf
+290. Learn Sidelines by Purpose - Repertoire and Practical Training\290_Learn_Sidelines_by_Purpose.pdf
+291. Draw a Move-Order Map - Repertoire and Practical Training\291_Draw_a_Move_Order_Map.pdf
+292. Attach a Why to Every Opening Card - Repertoire and Practical Training\292_Attach_a_Why_to_Every_Opening_Card.pdf
+293. Study Model Games After the Core Line - Repertoire and Practical Training\293_Study_Model_Games_After_the_Core_Line.pdf
+294. Practice Opening Positions, Not Only Moves - Repertoire and Practical Training\294_Practice_Opening_Positions_Not_Only_Moves.pdf
+295. Rehearse the Opening-to-Middlegame Transition - Repertoire and Practical Training\295_Rehearse_the_Opening_to_Middlegame_Transition.pdf
+296. Use Thematic Sparring Positions - Repertoire and Practical Training\296_Use_Thematic_Sparring_Positions.pdf
+297. Balance Tactics, Endgames, and Slow Games - Repertoire and Practical Training\297_Balance_Tactics_Endgames_and_Slow_Games.pdf
+298. Design a Repeatable Weekly Cycle - Repertoire and Practical Training\298_Design_a_Repeatable_Weekly_Cycle.pdf
+299. Match Complexity to Playing Strength - Repertoire and Practical Training\299_Match_Complexity_to_Playing_Strength.pdf
+300. Build a Long-Term Chess Curriculum - Repertoire and Practical Training\300_Build_a_Long_Term_Chess_Curriculum.pdf

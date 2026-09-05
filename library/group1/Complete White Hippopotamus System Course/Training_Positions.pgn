@@ -1,0 +1,984 @@
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/5n2/3pp3/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: Classical d5-e5 center map. Course answer: Nd2. Purpose: Complete the shell only far enough to prepare e4 or c4 against the broad center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/5n2/3pp3/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: Single e5 center map. Course answer: Nd2. Purpose: Prepare e4, c4, or d4 while developing safely. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppp1p/2n3p1/2p5/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: c5 structure map. Course answer: Nd2. Purpose: Use c3 to secure the a1 diagonal and prepare d4 or e4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppppppbp/5np1/8/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: King's Indian setup map. Course answer: Nd2. Purpose: Use the extra tempo to choose e4, c4, or d4 before Black begins f5. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppppp2p/5np1/5p2/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: Dutch setup map. Course answer: Nd2. Purpose: Control e4 and prepare central occupation against Black's f-pawn commitment. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/4pn2/3p4/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: French structure map. Course answer: Nd2. Purpose: Prepare e4 or c4 before Black's center becomes effortless. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pp2pppp/2p5/3p1b2/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: Caro structure map. Course answer: Nd2. Purpose: Prepare e4 while noting that Black's light bishop is already active. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qkbnr/pbp1pppp/1p6/3p4/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: Owen setup map. Course answer: Nd2. Purpose: Use Black's d5 commitment to make the long diagonal safe, then prepare e4 or c4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1bppp/3p1n2/4p3/8/3P2P1/PPPNPPBP/R1BQK1NR w KQkq - 3 5"]
+[SetUp "1"]
+
+{ White Hippo Foundations and Repertoire Map: f4 break compass. Course answer: e3. Purpose: Build e4-f4 after castling against Black's compact e5-d6 center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/8/3pp3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs d5-e5 Classical Centers: Meet Black's f5 expansion. Course answer: d3. Purpose: Open the center while Black's king and e-pawn are vulnerable. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/ppp2ppp/2n5/3pp3/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo vs d5-e5 Classical Centers: Classical development without c5. Course answer: Nd2. Purpose: Complete development and preserve all three central breaks. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo vs e5 and Open-Center Systems: Single e5 with d4 challenge. Course answer: Nd2. Purpose: Prepare d4 and develop rapidly against a single central pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs e5 and Open-Center Systems: Black develops Bc5. Course answer: d3. Purpose: Prepare d4 without exposing the king to a central tactic. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp2pp/8/4pp2/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs e5 and Open-Center Systems: Early f5 with e4 restraint. Course answer: d3. Purpose: Use e4 to block the f-pawn's support and prepare f4 or exf5. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/3p4/4p3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs e5 and Open-Center Systems: e5-d6 compact center. Course answer: d3. Purpose: Claim e4 and complete development before deciding f4 or d4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs e5 and Open-Center Systems: e5 with h5. Course answer: d3. Purpose: Castle and meet the wing pawn with development and central play. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1p1ppp/2n1p3/2p5/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Sicilian with e6 and d5. Course answer: Nd2. Purpose: Build a Closed Sicilian center and prepare f4 or c3. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/3p4/2p5/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Sicilian with d6 and g6. Course answer: d3. Purpose: Keep the center flexible and prepare e4 or c3-d4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk1nr/pp1pppbp/6p1/2p5/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Immediate g6 setup. Course answer: Nd2. Purpose: Prepare c3 and d4 while controlling the long diagonal. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1ppppp/5n2/2p5/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Sicilian with Nf6 and d5. Course answer: d3. Purpose: Use e4 to restrain d5 and prepare f4 or c3. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppppp/2n5/2p5/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Sicilian queenside fianchetto. Course answer: d3. Purpose: Use Nc6 to block the a1 diagonal, then occupy e4 before it opens. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1pp1pp/8/2p2p2/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Sicilian f5 structure. Course answer: d3. Purpose: Exchange the advanced f-pawn and develop behind the opened center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo vs Sicilian and c5 Structures: Reversed Closed Sicilian. Course answer: Nc3. Purpose: Use the extra tempo for a Botvinnik structure and prepare f4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1p1ppp/2n1p3/2p5/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo vs French, Caro-Kann, and Scandinavian Structures: French shell with c4. Course answer: Nd2. Purpose: Use e4 and c4 pressure to prevent a free classical center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp1p1ppp/2p5/4p3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs French, Caro-Kann, and Scandinavian Structures: Caro shell with Black e5. Course answer: d3. Purpose: Prepare e4 or c4 against Black's full center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs French, Caro-Kann, and Scandinavian Structures: Scandinavian-style immediate d5. Course answer: d3. Purpose: Prepare e4 or c4 while Black's center is still modest. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pp2pppp/2p5/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs French, Caro-Kann, and Scandinavian Structures: d5-c6 compact shell. Course answer: d3. Purpose: Use e4 to force central clarification and open development lines. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/4p3/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs French, Caro-Kann, and Scandinavian Structures: Safe queenside fianchetto order. Course answer: d3. Purpose: Use d5 to block the a8 diagonal before Black plays b6 and Bb7. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "29"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp1ppbp/3p2p1/8/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ White Hippo vs King's Indian, Pirc, and Modern Setups: Modern move order. Course answer: Nd2. Purpose: Use the extra tempo to occupy e4 before Black chooses f5 or c5. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk1nr/ppp1ppbp/3p2p1/8/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo vs King's Indian, Pirc, and Modern Setups: Pirc move order. Course answer: Nd2. Purpose: Reach a stable e4 structure and prepare f4 or d4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "31"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppppp1pp/5n2/5p2/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs Dutch, Owen, and Flank Setups: Classical Dutch center. Course answer: d3. Purpose: Open the center while Black's king and e6 pawn remain potential targets. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs Dutch, Owen, and Flank Setups: Nimzowitsch-style Nc6. Course answer: d3. Purpose: Prepare e4 or c4 while Black commits the knight in front of the c-pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "33"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppppppp1/8/8/7p/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs Dutch, Owen, and Flank Setups: Early h5. Course answer: d3. Purpose: Counter the wing advance with central occupation and development. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqkbnr/1ppppppp/p1n5/8/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"]
+[SetUp "1"]
+
+{ White Hippo vs Dutch, Owen, and Flank Setups: Early a6-b5. Course answer: d3. Purpose: Use the c6 knight's diagonal block to develop, then occupy e4 and prepare a4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "35"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/p1p1pppp/8/1p1p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs Dutch, Owen, and Flank Setups: Polish-style b5. Course answer: d3. Purpose: Build the center and later attack b5 with a4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/pppppp2/7p/6p1/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo vs Dutch, Owen, and Flank Setups: Borg-style g5. Course answer: d3. Purpose: Claim e4 and develop while Black weakens the kingside. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "37"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 1 3"]
+[SetUp "1"]
+
+{ White Hippo Move Orders, Transpositions, and Exit Ramps: Nf3-first move order. Course answer: Bg2. Purpose: Use Nf3 to restrain e5, then enter a White-Hippo shell with faster castling. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/8/3pp3/8/4P1P1/PPPP1P1P/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo Move Orders, Transpositions, and Exit Ramps: e3-first move order. Course answer: Bg2. Purpose: Use e3 to support d4 and free the queen bishop before fianchettoing. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "39"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/8/3pp3/8/3P2P1/PPP1PP1P/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ White Hippo Move Orders, Transpositions, and Exit Ramps: d3-first move order. Course answer: Bg2. Purpose: Support e4 immediately while preserving both knight choices. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/3p1n2/4p3/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ The White Hippo e4 and d4 Breaks: d4 against a single e5 pawn. Course answer: Nd2. Purpose: Take central space and free the c1 bishop before Black plays d5. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "41"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp2ppp/4pn2/3p4/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4"]
+[SetUp "1"]
+
+{ The White Hippo e4 and d4 Breaks: Choose between e4 and d4. Course answer: Nd2. Purpose: Use d4 when Black's e-pawn does not occupy e5 and central symmetry is acceptable. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1bppp/5n2/3pp3/8/3P2P1/PPPNPPBP/R1BQK1NR w KQkq - 3 5"]
+[SetUp "1"]
+
+{ The White Hippo c4, f4, b4, and h4 Breaks: b4 after central stability. Course answer: e3. Purpose: Gain queenside space after a3 and castling make the expansion more secure. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "43"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/pp1pppbp/2n3p1/2p5/8/3P2P1/PPPNPPBP/R1BQK1NR w KQkq - 2 5"]
+[SetUp "1"]
+
+{ The White Hippo c4, f4, b4, and h4 Breaks: b4 against c5. Course answer: e3. Purpose: Use c3 to close the g7-a1 diagonal before moving the b-pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/pppp2pp/5n2/4pp2/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq - 1 4"]
+[SetUp "1"]
+
+{ White Hippo Piece Maneuvers, King Safety, and Defense: Emergency defense against f5. Course answer: e4. Purpose: Return attention to king safety and development after clarifying the f-file. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "45"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/5n2/2ppp3/4P3/3P2P1/PPPNNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: e4 against the full center. Course answer: Nc6. Purpose: Attack d5 and create central contact before Black advances. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/2p2n2/4p3/2Pp4/3PP1P1/PP1NNPBP/R1BQK2R w KQ - 0 8"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: c4 against the full center. Course answer: exd4. Purpose: Challenge d5 and use the c-file after exchanges. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "47"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3ppp/2pb1n2/3pp3/3P4/4P1P1/PPPNNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: d4 against e5. Course answer: e4. Purpose: Challenge e5 directly and invite a clarified center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/3PP1P1/PPPNNPBP/R1BQK2R w KQ - 3 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Single e5 with d4 challenge. Course answer: O-O. Purpose: Prepare d4 and develop rapidly against a single central pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "49"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2ppp/5n2/2bpp3/8/3PP1P1/PPPNNPBP/R1BQK2R b KQ - 1 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Black develops Bc5. Course answer: Re8. Purpose: Prepare d4 without exposing the king to a central tactic. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqk2r/ppp1b1pp/3p1n2/4pp2/4P3/3P2P1/PPP1NPBP/RNBQ1RK1 b kq - 3 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Early f5 with e4 restraint. Course answer: fxe4. Purpose: Use e4 to block the f-pawn's support and prepare f4 or exf5. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "51"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1pnpbp/2n1p1p1/2p5/8/1PPPP1P1/P2NNPBP/R1BQK2R b KQ - 0 8"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Sicilian fianchetto core. Course answer: d5. Purpose: Use c3 to secure a1 and prepare d4 or e4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2n1pn2/2pp4/4P3/3P2P1/PPPNNPBP/R1BQ1RK1 b kq - 4 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Sicilian with e6 and d5. Course answer: O-O. Purpose: Build a Closed Sicilian center and prepare f4 or c3. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "53"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/pp2ppbp/2np2p1/2p5/8/3PP1P1/PPPNNPBP/R1BQK2R b KQkq - 2 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Sicilian with d6 and g6. Course answer: Nf6. Purpose: Keep the center flexible and prepare e4 or c3-d4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/4pn2/2pp4/4P3/3P2P1/PPPNNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: French shell with e4. Course answer: Nc6. Purpose: Attack d5 and transpose toward a King's Indian Attack structure. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "55"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk2r/pp2bppp/2n1pn2/2pp4/4P3/3P2P1/PPPNNPBP/R1BQK2R w KQkq - 3 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: French shell with c4. Course answer: O-O. Purpose: Use e4 and c4 pressure to prevent a free classical center. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/pp2bppp/2p1pn2/3p1b2/4P3/3P2P1/PPPNNPBP/R1BQK2R b KQkq - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Caro shell with e4. Course answer: Bg6. Purpose: Challenge d5 after Black's bishop leaves the pawn chain. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "57"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p1np1/4p3/4P3/3P2P1/PPPNNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Mirrored fianchetto with e4. Course answer: a5. Purpose: Use the extra tempo to claim e4 and prepare f4 or d4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p1np1/4p3/2P5/3PP1P1/PP1NNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Mirrored fianchetto with c4. Course answer: a5. Purpose: Control d5 and prepare a Botvinnik or English structure. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "59"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp2pbp/3p1np1/4p3/3P4/4P1P1/PPPNNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Mirrored fianchetto with d4. Course answer: a5. Purpose: Challenge e5 and clarify the center before Black starts f5. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1p1bp/3p1np1/5p2/4P3/3P2P1/PPPNNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Leningrad Dutch structure. Course answer: Nc6. Purpose: Occupy e4 and prepare f4 or a central exchange against Black's f-pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "61"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbqkb1r/ppp3pp/4pn2/3p4/4P3/6P1/PPPN1PBP/R1BQK1NR b KQkq - 0 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Classical Dutch center. Course answer: Nc6. Purpose: Open the center while Black's king and e6 pawn remain potential targets. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rn1qk2r/pbp1bppp/1p2pn2/3p4/8/3PP1P1/PPPNNPBP/R1BQ1RK1 b kq - 3 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Owen queenside fianchetto. Course answer: O-O. Purpose: Use d5 to block the long diagonal and prepare e4 or c4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "63"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/4pn2/3p4/8/3P1NP1/PPPNPPBP/R1BQ1RK1 b - - 4 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Nf3-first move order. Course answer: c5. Purpose: Use Nf3 to restrain e5, then enter a White-Hippo shell with faster castling. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/5n2/3pp3/8/3PP1P1/PPPNNPBP/R1BQK2R b KQ - 4 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: e3-first move order. Course answer: c5. Purpose: Use e3 to support d4 and free the queen bishop before fianchettoing. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "65"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/ppp1bppp/5n2/3pp3/8/3PP1P1/PPPNNPBP/R1BQK2R b KQ - 2 6"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: d3-first move order. Course answer: c5. Purpose: Support e4 immediately while preserving both knight choices. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/2p2n2/3pp3/2P5/3PP1P1/PP1NNPBP/R1BQK2R b KQ - 0 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: c4 attacks d5. Course answer: Bf5. Purpose: Challenge d5 and prepare queenside play through the c-file. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "67"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqr1k1/pp1nbppp/2pp1n2/4p3/4PP2/3P2P1/PPPNN1BP/R1BQ1RK1 b - - 0 9"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: f4 against e5. Course answer: d5. Purpose: Build the e4-f4 chain against Black's compact center after castling. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/5n2/2ppp3/8/3PPNP1/PPP1NPBP/R1BQK2R b KQ - 1 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Nd2 to f3. Course answer: Qc7. Purpose: Reroute the d2 knight to f3 when e5 and d4 need more control. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "69"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp3ppp/2pb1n2/4p3/2Pp4/1N1PP1P1/PP2NPBP/R1BQK2R b KQ - 1 8"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Nd2 to c4. Course answer: a5. Purpose: Use b3 as a route toward c5 and d4 after the center closes. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2bppp/5n2/2ppp3/8/2NPP1P1/PPPN1PBP/R1BQK2R b KQ - 1 7"]
+[SetUp "1"]
+
+{ White Hippo Pawn-Structure and Plan Atlas: Ne2 to c3. Course answer: Nc6. Purpose: Develop toward d5 and e4 when the f-pawn is no longer the main plan. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "71"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/pp2bppp/2n2n2/2p1p3/4P1b1/2N3P1/PPPN1PBP/R1BQ1RK1 w - - 5 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: e4 against the full center. Course answer: f3. Purpose: Attack d5 and create central contact before Black advances. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/ppp1bp2/2n5/4p1p1/3pP3/3P2Pp/PPPNBP1P/R1BQK1NR w KQkq - 0 10"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Meet an early h5-h4. Course answer: Nf1. Purpose: Counter in the center and avoid weakening the king with automatic pawn moves. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "73"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2nppp/3b1n2/3pp3/8/P2PP1P1/1P1NNPBP/R1BQK2R w KQ - 0 10"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Single e5 with d4 challenge. Course answer: Nf3. Purpose: Prepare d4 and develop rapidly against a single central pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "1rbq1rk1/p3bppp/2n1p3/1ppn4/8/1P1P2P1/PBPNNPBP/R2Q1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Sicilian with e6 and d5. Course answer: Nf4. Purpose: Build a Closed Sicilian center and prepare f4 or c3. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "75"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/pp2bppp/2n1bn2/2p1p3/2p1P3/1P1P2P1/P2NNPBP/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: French shell with e4. Course answer: dxc4. Purpose: Attack d5 and transpose toward a King's Indian Attack structure. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/ppp2pbp/2n2np1/3bp3/8/3P2PP/PPPNNPB1/R1BQ1RK1 w - - 0 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Mirrored fianchetto with e4. Course answer: Nf3. Purpose: Use the extra tempo to claim e4 and prepare f4 or d4. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "77"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/pppb2bp/2np1n2/4pp2/8/3P1NP1/PPP1NPBP/R1BQ1RK1 w - - 2 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Leningrad Dutch structure. Course answer: b4. Purpose: Occupy e4 and prepare f4 or a central exchange against Black's f-pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bqk1nr/ppp1bpp1/2n5/4p3/4N3/3PBBPp/PPP2P1P/R2QK1NR w KQkq - 4 9"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Early h5. Course answer: Qd2. Purpose: Counter the wing advance with central occupation and development. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "79"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r1bq1rk1/4bppp/1pn1pn2/p1pp4/4P3/2PP1NP1/PP1N1PBP/R1BQR1K1 w - - 0 10"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Nf3-first move order. Course answer: e5. Purpose: Use Nf3 to restrain e5, then enter a White-Hippo shell with faster castling. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/pp2bppp/2n1b3/2pnp3/2N5/3P2PP/PPP1NPB1/R1BQK2R w KQ - 1 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Prepare e4 with d3 and Nd2. Course answer: O-O. Purpose: Use d3, Nd2, and Ne2 to support e4 without blocking the f-pawn. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "81"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "r2q1rk1/ppp1bppp/2np1nb1/4p3/2PP2P1/4P2P/PP1NNPB1/R1BQK2R w KQ - 1 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: Prepare d4 against e5. Course answer: f4. Purpose: Challenge e5 and open the center when White is fully developed. } *
+
+[Event "Complete White Hippopotamus Course - training position"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Training side"]
+[Black "Defending side"]
+[Result "*"]
+[FEN "2rq1rk1/pp1n1ppp/2pb1n2/3ppb2/2PP4/1Q2P1P1/PP1NNPBP/R1B2RK1 w - - 5 11"]
+[SetUp "1"]
+
+{ White Hippo Model Games and Guess-the-Move Training: c4 attacks d5. Course answer: dxe5. Purpose: Challenge d5 and prepare queenside play through the c-file. } *
+
